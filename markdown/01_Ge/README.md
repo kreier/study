@@ -18,6 +18,32 @@ Man and woman in the garden of Eden (5-25)
 - Forbidden tree of knowledge (15-17)
 - Creation of woman (18-25)
 
+## Genesis 3
+
+```
+Origin of man’s sin (1-13)
+  The first lie (4, 5)
+Jehovah’s judgment on the rebels (14-24)
+  Woman’s offspring foretold (15)
+  Expulsion from Eden (23, 24)
+```
+
+## Genesis 4
+
+```
+Cain and Abel (1-16)
+Cain’s descendants (17-24)
+Seth and his son Enosh (25, 26)
+```
+
+## Genesis 5
+
+```
+From Adam to Noah (1-32)
+  Adam fathered sons and daughters (4)
+  Enoch walked with God (21-24)
+```
+
 # Genesis 3
 
 Origin of man’s sin (1-13)
