@@ -9,7 +9,7 @@ Six days of preparing the earth (3-31)
 - Day 5: fish and birds (20-23)
 - Day 6: land animals and humans (24-31)
 
-# Genesis 2
+### Genesis 2
 
 God rests on the seventh day (1-3)
 Jehovah God, Maker of heaven and earth (4)
@@ -18,7 +18,7 @@ Man and woman in the garden of Eden (5-25)
 - Forbidden tree of knowledge (15-17)
 - Creation of woman (18-25)
 
-## Genesis 3
+### Genesis 3
 
 ```
 Origin of man’s sin (1-13)
@@ -28,7 +28,7 @@ Jehovah’s judgment on the rebels (14-24)
   Expulsion from Eden (23, 24)
 ```
 
-## Genesis 4
+### Genesis 4
 
 ```
 Cain and Abel (1-16)
@@ -36,7 +36,7 @@ Cain’s descendants (17-24)
 Seth and his son Enosh (25, 26)
 ```
 
-## Genesis 5
+### Genesis 5
 
 ```
 From Adam to Noah (1-32)
@@ -44,10 +44,11 @@ From Adam to Noah (1-32)
   Enoch walked with God (21-24)
 ```
 
-# Genesis 3
+### Genesis 3
 
 Origin of man’s sin (1-13)
 - The first lie (4, 5)
+
 Jehovah’s judgment on the rebels (14-24)
 - Woman’s offspring foretold (15)
 - Expulsion from Eden (23, 24)
@@ -58,13 +59,13 @@ Cain and Abel (1-16)
 Cain’s descendants (17-24)
 Seth and his son Enosh (25, 26)
 
-# Genesis 5
+### Genesis 5
 
 From Adam to Noah (1-32)
 - Adam fathered sons and daughters (4)
 - Enoch walked with God (21-24)
 
-# Genesis 6
+### Genesis 6
 
 Sons of God take wives on earth (1-3)
 Nephilim born (4)
