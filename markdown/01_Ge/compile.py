@@ -4,6 +4,7 @@ text_markdown =""
 
 for index in range(18):
     filename = f'{index:02d}.md'
+    print(filename)
     with open(filename, 'r') as input:
         text_markdown += input.read()
     text_markdown += '\n'
