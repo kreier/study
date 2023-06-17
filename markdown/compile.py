@@ -6,11 +6,12 @@ import logging
 
 logging.basicConfig(level=logging.DEBUG, filename='compile.log', format='%(asctime)s %(levelname)s:%(message)s')
 
-# Import the book and chapter description data
+# Import the book and chapter description data as pandas dataframe
 
 import pandas as pd
 
 books = pd.read_csv("https://raw.githubusercontent.com/kreier/study/main/markdown/chapters.csv")
+# print(books.info())
 
 # Process one book by one
 
@@ -18,10 +19,11 @@ text_markdown =""
 total_words = 0
 total_chapters = 0
 total_import_errors = 0
+total_output_errors = 0
 
 for index, row in books.iterrows():
     for chapter in range(row.chapters):
-        filename = f'{row.short}/{chapter:02d}.md'
+        filename = f'{row.folder}/{chapter:02d}.md'
         try:
             with open(filename, 'r') as input:
                 file_data = input.read()
@@ -35,8 +37,14 @@ for index, row in books.iterrows():
         except OSError as e:
             total_import_errors += 1
             # logging.error(f"error reading {filename}")
-            pass    
+    try:
+        with open(f'{row.folder}/README.md', 'w') as output:    
+            output.write(text_markdown)
+    except OSError as e:
+        total_output_errors += 1
+    text_markdown = ""  
 
+exit
 
 for index in range(50):
     filename = f'01_Ge/{index:02d}.md'
@@ -55,7 +63,7 @@ for index in range(50):
         # logging.error(f"error reading {filename}")
         pass
 
-logging.debug(f"Processed {total_chapters} chapters. That's {total_chapters/1189*100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors.")
+logging.debug(f"""Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.""")
 
-with open('01_Ge/README.md', 'w') as output:
-    output.write(text_markdown)
+# with open('05_Ge/README.md', 'w') as output:
+#     output.write(text_markdown)
