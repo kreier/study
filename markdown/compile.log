@@ -1,0 +1,7 @@
+2023-06-17 20:55:33,898 DEBUG:Start compiling
+2023-06-17 20:55:33,906 DEBUG:Processed 42 chapters. They contain 2197 words.
+2023-06-17 20:56:18,271 DEBUG:Start compiling
+2023-06-17 20:56:18,278 DEBUG:Processed 42 chapters. They contain 2197 words.
+2023-06-17 20:58:07,306 DEBUG:Processed 42 chapters. That's 4 Percent. They contain 2197 words.
+2023-06-17 20:58:55,831 DEBUG:Processed 42 chapters. That's 3.5 Percent. They contain 2197 words.
+2023-06-17 21:18:06,221 INFO:NumExpr defaulting to 8 threads.

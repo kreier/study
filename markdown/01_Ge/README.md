@@ -138,13 +138,13 @@ Rainbow covenant (8-17)
 Prophecies about Noah’s descendants (18-29)
 ```
 
-Ge 9:20-22, 24, 25 ​— *Why might Noah have cursed Canaan instead of Ham?* (it-1 1023 ¶4)
+#### Ge 9:20-22, 24, 25 ​— *Why might Noah have cursed Canaan instead of Ham?* (it-1 1023 ¶4)
 
 It is possible that Canaan himself had been involved directly in the incident and that his father Ham had failed to correct him. Or Noah, speaking prophetically by inspiration, foresaw that the bad tendency in Ham, perhaps already manifest in his son Canaan, would be inherited by Canaan’s offspring. The curse was partly fulfilled when the Semitic Israelites subjugated the Canaanites. Those who were not destroyed (for example, the Gibeonites [Jos 9]) were made slaves to Israel. Centuries later, the curse was further fulfilled when descendants of Ham’s son Canaan came under the domination of the Japhetic world powers of Medo-Persia, Greece, and Rome.
 
-Ge 10:9, 10 ​— *How was Nimrod "a mighty hunter in opposition to Jehovah"?* (it-2 503)
+#### Ge 10:9, 10 ​— *How was Nimrod "a mighty hunter in opposition to Jehovah"?* (it-2 503)
 
-The beginning of Nimrod’s kingdom included the cities of Babel, Erech, Accad, and Calneh, all in the land of Shinar. (Ge 10:10) Therefore it was likely under his direction that the building of Babel and its tower began. This conclusion is also in agreement with the traditional Jewish view. Wrote Josephus: "\[Nimrod\] little by little transformed the state of affairs into a tyranny, holding that the only way to detach men from the fear of God was by making them continuously dependent upon his own power. He threatened to have his revenge on God if He wished to inundate the earth again; for he would build a tower higher than the water could reach and avenge the destruction of their forefathers. The people were eager to follow this advice of \[Nimrod\], deeming it slavery to submit to God; so they set out to build the tower . . . and it rose with a speed beyond all expectation." ​— Jewish Antiquities, I, 114, 115 (iv, 2, 3).
+The beginning of Nimrod’s kingdom included the cities of Babel, Erech, Accad, and Calneh, all in the land of Shinar. (Ge 10:10) Therefore it was likely under his direction that the building of Babel and its tower began. This conclusion is also in agreement with the traditional Jewish view. Wrote Josephus: "[Nimrod] little by little transformed the state of affairs into a tyranny, holding that the only way to detach men from the fear of God was by making them continuously dependent upon his own power. He threatened to have his revenge on God if He wished to inundate the earth again; for he would build a tower higher than the water could reach and avenge the destruction of their forefathers. The people were eager to follow this advice of [Nimrod], deeming it slavery to submit to God; so they set out to build the tower . . . and it rose with a speed beyond all expectation." ​— Jewish Antiquities, I, 114, 115 (iv, 2, 3).
 
 ## Genesis 10
 
@@ -168,7 +168,7 @@ From Shem to Abram (10-32)
 
 ### "All the Earth Continued to Be of One Language"
 
-11:1-4, 6-9 from workbook January 2020
+**11:1-4, 6-9** from workbook January 2020
 
 At Babel, Jehovah scattered disobedient humans by confusing their language. Today he is gathering a great crowd out of all nations and tongues and giving them "a pure language" so that they "may call on the name of Jehovah, to serve him shoulder to shoulder." (Zep 3:9; Re 7:9) This "pure language" is the truth about Jehovah and his purposes as found in the Scriptures.
 
@@ -191,12 +191,20 @@ Abram and Lot separate (5-13)
 God’s promise to Abram repeated (14-18)
 ```
 
+Ge 13:8, 9 ​— *How can we imitate Abraham when resolving disputes?* (w16.05 5 ¶12)
+
+A Scriptural account in which God’s servants peacefully resolved a potentially divisive issue is the one mentioned earlier involving Abraham and his nephew Lot. Both men possessed livestock, and their shepherds apparently quarreled about grazing land. Eager to eliminate tensions, Abraham offered Lot first choice of the areas where their respective households would settle. (Gen. 13:1, 2, 5-9) What a good example! Abraham sought peace, not his own interests. Did he lose out because of his generosity? Not at all. Immediately after this incident with Lot, Jehovah promised Abraham great blessings. (Gen. 13:14-17) God will never allow his servants to suffer lasting loss for acting in harmony with divine principles and settling differences in a spirit of love
+
 ## Genesis 14
 
 ```
 Abram rescues Lot (1-16)
 Melchizedek blesses Abram (17-24)
 ```
+
+Ge 14:18-20​—How did Levi pay "tithes through Abraham"? (Heb 7:4-10; it-2 683 ¶1)
+
+Melchizedek king of Salem was a priest (ko·henʹ) extraordinary. The Bible gives no record of his ancestry, his birth, or his death. His priesthood was not by inheritance, and he had no predecessors or successors in office. Melchizedek held both the office of king and of priest. His priesthood was greater than the Levitical priesthood, for Levi, in effect, paid tithes to Melchizedek, since he was still in the loins of Abraham when Abraham offered tithes to Melchizedek and was blessed by him. (Ge 14:18-20; Heb 7:4-10) In these things Melchizedek foreshadowed Jesus Christ, the "priest forever according to the manner of Melchizedek."​—Heb 7:17.
 
 ## Genesis 15
 
@@ -386,5 +394,31 @@ Edom’s kings and sheikhs (31-43)
 Joseph’s dreams (1-11)
 Joseph and his jealous brothers (12-24)
 Joseph sold into slavery (25-36)
+```
+
+## Genesis 38
+
+```
+Judah and Tamar (1-30)
+```
+
+## Genesis 39
+
+```
+Joseph in Potiphar’s house (1-6)
+Joseph resists Potiphar’s wife (7-20)
+Joseph in prison (21-23)
+```
+
+## Genesis 19
+
+```
+TBD
+```
+
+## Genesis 41
+
+```
+TBD
 ```
 
