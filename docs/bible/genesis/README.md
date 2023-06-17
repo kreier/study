@@ -42,6 +42,19 @@ Jehovah’s judgment on the rebels (14-24)
   Expulsion from Eden (23, 24)
 ```
 
+### The Devastating Consequences of the First Lie
+
+3:1-6, 15-19 from workbook January 2020
+
+Satan has been misleading humans ever since he lied to Eve. (Re 12:9) How do the following lies that are promoted by Satan hinder people from drawing close to Jehovah?
+
+- There is no all-powerful divine being
+- God is a mysterious Trinity
+- God does not have a name
+- God torments people forever in a burning hell
+- Everything that happens is God’s will
+- God does not care about humans
+
 ## Genesis 4
 
 ```
@@ -80,12 +93,32 @@ Noah commissioned to build an ark (9-16)
 God proclaims the coming of the Flood (17-22)
 ```
 
+### "He Did Just So"
+
+6:9, 13-16, 22 from workbook 2020
+
+Imagine how much effort was required for Noah and his family to build the ark without modern tools and construction methods.
+
+- The structure was enormous​—about 437 feet (133 m) long, 73 feet (22 m) wide, and 44 feet (13 m) tall
+- Trees had to be cut, hewn, and lifted into place
+- Both the inside and outside of the massive structure had to be covered with tar
+- A one year’s supply of food had to be stockpiled for Noah’s family and the animals
+- The project likely took 40 to 50 years to complete
+
 ## Genesis 7
 
 ```
 Entering the ark (1-10)
 The global Flood (11-24)
 ```
+
+Ge 7:2 ​— *What evidently was the basis for the distinction between clean and unclean animals?* (w04 1/1 29 ¶7)
+
+The basis of distinction evidently pertained to the use of sacrifices in worship and not to what could and could not be eaten. Animal flesh was not a part of man’s diet prior to the Flood. The designations "clean" and "unclean" for food came into existence only with the Mosaic Law, and they ended when it was abolished. (Acts 10:9-16; Ephesians 2:15) Apparently, Noah knew what was suitable for sacrifice in the worship of Jehovah. As soon as he left the ark, he "began to build an altar to Jehovah and to take some of all the clean beasts and of all the clean flying creatures and to offer burnt offerings upon the altar."​—Genesis 8:20.
+
+Ge 7:11​ — *Where apparently did the water that caused the global Flood come from?* (w04 1/1 30 ¶1)
+
+During the second creative period, or "day", when the earth’s atmospheric "expanse" was formed, there were waters "beneath the expanse" and waters "above the expanse." (Genesis 1:6, 7) The waters "beneath" were those already on earth. The waters "above" were huge quantities of moisture suspended high above the earth, forming a "vast watery deep." These waters fell upon the earth in Noah’s day.
 
 ## Genesis 8
 
@@ -104,6 +137,14 @@ Instructions for all mankind (1-7)
 Rainbow covenant (8-17)
 Prophecies about Noah’s descendants (18-29)
 ```
+
+Ge 9:20-22, 24, 25 ​— *Why might Noah have cursed Canaan instead of Ham?* (it-1 1023 ¶4)
+
+It is possible that Canaan himself had been involved directly in the incident and that his father Ham had failed to correct him. Or Noah, speaking prophetically by inspiration, foresaw that the bad tendency in Ham, perhaps already manifest in his son Canaan, would be inherited by Canaan’s offspring. The curse was partly fulfilled when the Semitic Israelites subjugated the Canaanites. Those who were not destroyed (for example, the Gibeonites [Jos 9]) were made slaves to Israel. Centuries later, the curse was further fulfilled when descendants of Ham’s son Canaan came under the domination of the Japhetic world powers of Medo-Persia, Greece, and Rome.
+
+Ge 10:9, 10 ​— *How was Nimrod "a mighty hunter in opposition to Jehovah"?* (it-2 503)
+
+The beginning of Nimrod’s kingdom included the cities of Babel, Erech, Accad, and Calneh, all in the land of Shinar. (Ge 10:10) Therefore it was likely under his direction that the building of Babel and its tower began. This conclusion is also in agreement with the traditional Jewish view. Wrote Josephus: "\[Nimrod\] little by little transformed the state of affairs into a tyranny, holding that the only way to detach men from the fear of God was by making them continuously dependent upon his own power. He threatened to have his revenge on God if He wished to inundate the earth again; for he would build a tower higher than the water could reach and avenge the destruction of their forefathers. The people were eager to follow this advice of \[Nimrod\], deeming it slavery to submit to God; so they set out to build the tower . . . and it rose with a speed beyond all expectation." ​— Jewish Antiquities, I, 114, 115 (iv, 2, 3).
 
 ## Genesis 10
 
@@ -124,6 +165,15 @@ From Shem to Abram (10-32)
   Terah’s family (27)
   Abram leaves Ur (31)
 ```
+
+### "All the Earth Continued to Be of One Language"
+
+11:1-4, 6-9 from workbook January 2020
+
+At Babel, Jehovah scattered disobedient humans by confusing their language. Today he is gathering a great crowd out of all nations and tongues and giving them "a pure language" so that they "may call on the name of Jehovah, to serve him shoulder to shoulder." (Zep 3:9; Re 7:9) This "pure language" is the truth about Jehovah and his purposes as found in the Scriptures.
+
+Learning a new language takes more than just memorizing new words. It requires learning a new way of thinking, new thought patterns. Similarly, as we learn the pure language of truth, our minds are transformed. (Ro 12:2) This is a continuing process that results in unity among God’s people.​—1Co 1:10.
+
 
 ## Genesis 12
 
