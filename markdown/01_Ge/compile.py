@@ -1,8 +1,10 @@
 # read all the 50 chapter files as markdown and compile them into one README.md
 
+print("We got this stuarted.")
+
 text_markdown =""
 
-for index in range(18):
+for index in range(38):
     filename = f'{index:02d}.md'
     print(filename)
     with open(filename, 'r') as input:
