@@ -14,16 +14,19 @@ books = pd.read_csv("https://raw.githubusercontent.com/kreier/study/main/markdow
 # print(books.info())
 
 
-# Process one book by one
+# Process bible books one by one
 
-text_markdown =""
+summary_string = ""
+summary_html = ""
 total_words = 0
 total_chapters = 0
 total_import_errors = 0
 total_output_errors = 0
 
 for index, row in books.iterrows():
-    for chapter in range(row.chapters):
+    processed_chapters = 0
+    text_markdown = ""  
+    for chapter in range(row.chapters + 1):
         filename = f'{row.folder}/{chapter:02d}.md'
         try:
             with open(filename, 'r') as input:
@@ -34,6 +37,8 @@ for index, row in books.iterrows():
                 total_words += num_words
                 total_chapters += 1
                 text_markdown += file_data
+                processed_chapters += 1
+                print(filename, end=' ')
             text_markdown += '\n'
         except OSError as e:
             total_import_errors += 1
@@ -46,7 +51,48 @@ for index, row in books.iterrows():
     except OSError as e:
         total_output_errors += 1
 
-    # write README.md to the folder for https://kreier.github.io/study/bible/
-    text_markdown = ""  
+    # write README.md to the respective folder https://kreier.github.io/study/bible/$book$
+    try:
+        with open(f'../docs/bible/{row.html_folder}/README.md', 'w') as output:    
+            output.write(text_markdown)
+    except OSError as e:
+        total_output_errors += 1
 
-logging.debug(f"""Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.""")
+    # update the strings for each book of the bible
+    summary_string += f"[{row.book}]({row.folder}/) {processed_chapters}/{row.chapters}, "
+    summary_html += f"[{row.book}](bible/{row.html_folder}/) {processed_chapters}/{row.chapters}, "
+
+# write README.md to folder https://kreier.github.io/study/markdown
+try:
+    with open(f'README.md', 'w') as output:
+        output.write("# Overview of processed files \n\n")
+        output.write(summary_string)
+except OSError as e:
+    total_output_errors += 1
+
+# create overview page README.md for https://kreier.github.io/study/ - get part 1 and 2
+try:
+    with open('../docs/part1.md', 'r') as input:
+        part1 = input.read()
+except OSError as e:
+    total_import_errors += 1
+
+try:
+    with open('../docs/part2.md', 'r') as input:
+        part2 = input.read()
+except OSError as e:
+    total_import_errors += 1
+
+# write README.md to the overview page for https://kreier.github.io/study/
+try:
+    with open(f'../docs/README.md', 'w') as output:
+        output.write(part1)
+        output.write(summary_html)
+        output.write(part2)
+except OSError as e:
+    total_output_errors += 1
+
+# update the root README.md in https://kreier.github.io/study/bible/
+# TBD
+
+logging.debug(f"Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.")

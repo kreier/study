@@ -1,67 +1,67 @@
-book,chapters,folder
-Genesis,50,01_Ge
-Exodus,40,02_Ex
-Leviticus,27,03_Le
-Numbers,36,04_Nu
-Deuteronomy,34,05_De
-Joshua,24,06_Jo
-Judges,21,07_Ju
-Ruth,4,08_Ru
-1 Samuel,31,09_1Sa
-2 Samuel,24,10_2Sa
-1 Kings,22,11_1Ki
-2 Kings,25,12_2Ki
-1 Chronicles,29,13_1Ch
-2 Chronicles,36,14_2Ch
-Ezra,10,15_Ez
-Nehemiah,13,16_Ne
-Esther,10,17_Es
-Job,42,18_Jo
-Psalms,150,19_Ps
-Provers,31,20_Pr
-Ecclesiastes,12,21_Ec
-Song of Solomon,8,22_So
-Isaiah,66,23_Is
-Jeremiah,52,24_Je
-Lamentations,5,25_La
-Ezekiel,48,26_Ez
-Daniel,12,27_Da
-Hosea,14,28_Ho
-Joel,3,29_Jo
-Amos,9,30_Am
-Obadiah,1,31_Ob
-Jonah,4,32_Jo
-Micah,7,33_Mi
-Nahum,3,34_Na
-Habakkuk,3,35_Ha
-Zephaniah,3,36_Ze
-Haggai,2,37_Ha
-Zechariah,14,38_Ze
-Malachi,4,39_Ma
-Matthew,28,40_Ma
-Mark,16,41_Ma
-Luke,24,42_Lu
-John,21,43_Jo
-Acts,28,44_Ac
-Romans,16,45_Ro
-1 Corinthians,16,46_1Co
-2 Corinthians,13,47_2Co
-Galatians,6,48_Ga
-Ephesians,6,49_Ep
-Philippians,4,50_Ph
-Colossians,4,51_Co
-1 Thessalonians,5,52_1Th
-2 Thessalonians,3,53_2Th
-1 Timothy,6,54_1Ti
-2 Timothy,4,55_2Ti
-Titus,3,56_Ti
-Philemon,1,57_Ph
-Hebrews,13,58_He
-James,5,59_Ja
-1 Peter,5,60_1Pe
-2 Peter,3,61_2Pe
-1 John,5,62_1Jo
-2 John,1,63_2Jo
-3 John,1,64_3Jo
-Jude,1,65_Ju
-Revelation,22,66_Re
+book,chapters,folder,html_folder
+Genesis,50,01_Ge,genesis
+Exodus,40,02_Ex,exodus
+Leviticus,27,03_Le,leviticus
+Numbers,36,04_Nu,numbers
+Deuteronomy,34,05_De,deuteronomy
+Joshua,24,06_Jo,joshua
+Judges,21,07_Ju,judges
+Ruth,4,08_Ru,ruth
+1 Samuel,31,09_1Sa,1_samuel
+2 Samuel,24,10_2Sa,2_samuel
+1 Kings,22,11_1Ki,1_kings
+2 Kings,25,12_2Ki,2_kings
+1 Chronicles,29,13_1Ch,1_chronicles
+2 Chronicles,36,14_2Ch,2_chronicles
+Ezra,10,15_Ez,ezra
+Nehemiah,13,16_Ne,nehemiah
+Esther,10,17_Es,esther
+Job,42,18_Jo,job
+Psalms,150,19_Ps,psalms
+Proverbs,31,20_Pr,proverbs
+Ecclesiastes,12,21_Ec,ecclesiastes
+Song of Solomon,8,22_So,song_of_solomon
+Isaiah,66,23_Is,isaiah
+Jeremiah,52,24_Je,jeremiah
+Lamentations,5,25_La,lamentations
+Ezekiel,48,26_Ez,ezekiel
+Daniel,12,27_Da,daniel
+Hosea,14,28_Ho,hosea
+Joel,3,29_Jo,joel
+Amos,9,30_Am,amos
+Obadiah,1,31_Ob,obadiah
+Jonah,4,32_Jo,jonah
+Micah,7,33_Mi,micah
+Nahum,3,34_Na,nahum
+Habakkuk,3,35_Ha,habakkuk
+Zephaniah,3,36_Ze,zephaniah
+Haggai,2,37_Ha,haggai
+Zechariah,14,38_Ze,zechariah
+Malachi,4,39_Ma,malachi
+Matthew,28,40_Ma,matthew
+Mark,16,41_Ma,mark
+Luke,24,42_Lu,luke
+John,21,43_Jo,john
+Acts,28,44_Ac,acts
+Romans,16,45_Ro,romans
+1 Corinthians,16,46_1Co,1_corinthians
+2 Corinthians,13,47_2Co,2_corinthians
+Galatians,6,48_Ga,galatians
+Ephesians,6,49_Ep,ephesians
+Philippians,4,50_Ph,philippians
+Colossians,4,51_Co,colossians
+1 Thessalonians,5,52_1Th,1_thessalonians
+2 Thessalonians,3,53_2Th,2_thessalonians
+1 Timothy,6,54_1Ti,1_timothy
+2 Timothy,4,55_2Ti,2_timothy
+Titus,3,56_Ti,titus
+Philemon,1,57_Ph,philemon
+Hebrews,13,58_He,hebrews
+James,5,59_Ja,james
+1 Peter,5,60_1Pe,1_peter
+2 Peter,3,61_2Pe,2_peter
+1 John,5,62_1Jo,1_john
+2 John,1,63_2Jo,2_john
+3 John,1,64_3Jo,3_john
+Jude,1,65_Ju,jude
+Revelation,22,66_Re,revelation
