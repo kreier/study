@@ -15,11 +15,11 @@ Six days of preparing the earth (3-31)
   Day 6: land animals and humans (24-31)
 ```
 
-Ge 1:1 ​— *What does the Bible say about the age of the earth?* (w15 6/1 5)
+#### Ge 1:1 ​— *What does the Bible say about the age of the earth?* (w15 6/1 5)
 
 When God said on Day One, "Let light come to be," diffused light evidently penetrated the cloud layers even though the sources of that light could not yet be discerned from the earth’s surface. It seems that this was a gradual process, as is indicated by translator J. W. Watts: "And gradually light came into existence." (Ge 1:3, A Distinctive Translation of Genesis) God brought about a division between the light and the darkness, calling the light Day and the darkness Night. This indicates that the earth was rotating on its axis as it revolved around the sun, so that its hemispheres, eastern and western, could enjoy periods of light and darkness.​—Ge 1:3, 4.
 
-Ge 1:26 ​— *Was Jesus a co-Creator?* (it-2 52)
+#### Ge 1:26 ​— *Was Jesus a co-Creator?* (it-2 52)
 
 ## Genesis 2
 
@@ -44,7 +44,7 @@ Jehovah’s judgment on the rebels (14-24)
 
 ### The Devastating Consequences of the First Lie
 
-3:1-6, 15-19 from workbook January 2020
+**3:1-6, 15-19** from workbook January 2020
 
 Satan has been misleading humans ever since he lied to Eve. (Re 12:9) How do the following lies that are promoted by Satan hinder people from drawing close to Jehovah?
 
@@ -63,11 +63,11 @@ Cain’s descendants (17-24)
 Seth and his son Enosh (25, 26)
 ```
 
-Ge 4:23, 24 ​— *Why did Lamech compose this poem?* (it-2 192 ¶5)
+#### Ge 4:23, 24 ​— *Why did Lamech compose this poem?* (it-2 192 ¶5)
 
 The poem that Lamech composed for his wives (Ge 4:23, 24) reflects the violent spirit of that day. Lamech's poem ran: "Hear my voice, you wives of Lamech; give ear to my saying: A man I have killed for wounding me, yes, a young man for giving me a blow. If seven times Cain is to be avenged, then Lamech seventy times and seven." Evidently Lamech was presenting a case of self-defense, pleading that his act was not one of deliberate murder, like that of Cain. Lamech claimed that, in defending himself, he had killed the man who struck and wounded him. Therefore, his poem stood as a plea for immunity against anyone desiring to get revenge against him for killing his attacker.
 
-Ge 4:26 ​— *In what way apparently did people in Enosh’s day begin "calling on the name of Jehovah"?* (it-1 338 ¶2)
+#### Ge 4:26 ​— *In what way apparently did people in Enosh’s day begin "calling on the name of Jehovah"?* (it-1 338 ¶2)
 
 ## Genesis 5
 
@@ -77,7 +77,7 @@ From Adam to Noah (1-32)
   Enoch walked with God (21-24)
 ```
 
-Timeline project https://github.com/kreier/timeline 
+Timeline project [https://github.com/kreier/timeline](https://github.com/kreier/timeline ) 
 
 Expanded timelines on paper have been used to visualize events in the flow of time for a long time. Creating one yourself will immerse you into the details and relations between events even further. I started a digital project in 2002 and got to this point:
 
@@ -95,7 +95,7 @@ God proclaims the coming of the Flood (17-22)
 
 ### "He Did Just So"
 
-6:9, 13-16, 22 from workbook 2020
+**6:9, 13-16, 22** from workbook 2020
 
 Imagine how much effort was required for Noah and his family to build the ark without modern tools and construction methods.
 
@@ -112,11 +112,11 @@ Entering the ark (1-10)
 The global Flood (11-24)
 ```
 
-Ge 7:2 ​— *What evidently was the basis for the distinction between clean and unclean animals?* (w04 1/1 29 ¶7)
+#### Ge 7:2 ​— *What evidently was the basis for the distinction between clean and unclean animals?* (w04 1/1 29 ¶7)
 
 The basis of distinction evidently pertained to the use of sacrifices in worship and not to what could and could not be eaten. Animal flesh was not a part of man’s diet prior to the Flood. The designations "clean" and "unclean" for food came into existence only with the Mosaic Law, and they ended when it was abolished. (Acts 10:9-16; Ephesians 2:15) Apparently, Noah knew what was suitable for sacrifice in the worship of Jehovah. As soon as he left the ark, he "began to build an altar to Jehovah and to take some of all the clean beasts and of all the clean flying creatures and to offer burnt offerings upon the altar."​—Genesis 8:20.
 
-Ge 7:11​ — *Where apparently did the water that caused the global Flood come from?* (w04 1/1 30 ¶1)
+#### Ge 7:11​ — *Where apparently did the water that caused the global Flood come from?* (w04 1/1 30 ¶1)
 
 During the second creative period, or "day", when the earth’s atmospheric "expanse" was formed, there were waters "beneath the expanse" and waters "above the expanse." (Genesis 1:6, 7) The waters "beneath" were those already on earth. The waters "above" were huge quantities of moisture suspended high above the earth, forming a "vast watery deep." These waters fell upon the earth in Noah’s day.
 
@@ -191,7 +191,7 @@ Abram and Lot separate (5-13)
 God’s promise to Abram repeated (14-18)
 ```
 
-Ge 13:8, 9 ​— *How can we imitate Abraham when resolving disputes?* (w16.05 5 ¶12)
+#### Ge 13:8, 9 ​— *How can we imitate Abraham when resolving disputes?* (w16.05 5 ¶12)
 
 A Scriptural account in which God’s servants peacefully resolved a potentially divisive issue is the one mentioned earlier involving Abraham and his nephew Lot. Both men possessed livestock, and their shepherds apparently quarreled about grazing land. Eager to eliminate tensions, Abraham offered Lot first choice of the areas where their respective households would settle. (Gen. 13:1, 2, 5-9) What a good example! Abraham sought peace, not his own interests. Did he lose out because of his generosity? Not at all. Immediately after this incident with Lot, Jehovah promised Abraham great blessings. (Gen. 13:14-17) God will never allow his servants to suffer lasting loss for acting in harmony with divine principles and settling differences in a spirit of love
 
@@ -202,7 +202,7 @@ Abram rescues Lot (1-16)
 Melchizedek blesses Abram (17-24)
 ```
 
-Ge 14:18-20​—How did Levi pay "tithes through Abraham"? (Heb 7:4-10; it-2 683 ¶1)
+#### Ge 14:18-20 ​— *How did Levi pay "tithes through Abraham"?* (Heb 7:4-10; it-2 683 ¶1)
 
 Melchizedek king of Salem was a priest (ko·henʹ) extraordinary. The Bible gives no record of his ancestry, his birth, or his death. His priesthood was not by inheritance, and he had no predecessors or successors in office. Melchizedek held both the office of king and of priest. His priesthood was greater than the Levitical priesthood, for Levi, in effect, paid tithes to Melchizedek, since he was still in the loins of Abraham when Abraham offered tithes to Melchizedek and was blessed by him. (Ge 14:18-20; Heb 7:4-10) In these things Melchizedek foreshadowed Jesus Christ, the "priest forever according to the manner of Melchizedek."​—Heb 7:17.
 
