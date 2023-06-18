@@ -410,15 +410,81 @@ Joseph resists Potiphar’s wife (7-20)
 Joseph in prison (21-23)
 ```
 
-## Genesis 19
+## Genesis 40
 
 ```
-TBD
+Joseph interprets prisoners’ dreams (1-19)
+  "Interpretations belong to God (8)
+Pharaoh’s birthday feast (20-23)
 ```
 
 ## Genesis 41
 
 ```
-TBD
+Joseph interprets Pharaoh’s dreams (1-36)
+Joseph exalted by Pharaoh (37-46a)
+Joseph’s food administration (46b-57)
+```
+
+## Genesis 42
+
+```
+Joseph’s brothers go to Egypt (1-4)
+Joseph meets his brothers and tests them (5-25)
+The brothers return home to Jacob (26-38)
+```
+
+## Genesis 43
+
+```
+Joseph’s brothers’ second trip to Egypt; with Benjamin (1-14)
+Joseph meets again with his brothers (15-23)
+Joseph’s banquet with his brothers (24-34)
+```
+
+## Genesis 44
+
+```
+Joseph’s silver cup in Benjamin’s bag (1-17)
+Judah pleads for Benjamin (18-34)
+```
+
+## Genesis 45
+
+```
+Joseph reveals his identity (1-15)
+Joseph’s brothers return for Jacob (16-28)
+```
+
+## Genesis 46
+
+```
+Jacob and his household move to Egypt (1-7)
+Names of those moving to Egypt (8-27)
+Joseph meets Jacob at Goshen (28-34)
+```
+
+## Genesis 47
+
+```
+Jacob meets Pharaoh (1-12)
+Joseph’s wise administration (13-26)
+Israel settles in Goshen (27-31)
+```
+
+## Genesis 48
+
+```
+Jacob blesses Joseph’s two sons (1-12)
+Ephraim gets greater blessing (13-22)
+```
+
+## Genesis 49
+
+```
+Jacob’s deathbed prophecy (1-28)
+  Shiloh to come out of Judah (10)
+Jacob’s burial instructions (29-32)
+Jacob’s death (33)
 ```
 

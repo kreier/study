@@ -1,10 +1,3 @@
 2023-06-17 20:58:55,831 DEBUG:Processed 42 chapters. That's 3.5 Percent. They contain 2197 words.
-2023-06-17 21:48:19,147 DEBUG:Processed 84 chapters. That's 7.1 Percent. They contain 4394 words. 1155 import errors.
-2023-06-17 22:02:28,694 INFO:NumExpr defaulting to 8 threads.
-2023-06-17 22:02:29,865 DEBUG:Processed 84 chapters. That's 
-7.1 Percent. They contain 4394 words. 
-1155 import errors. 65 output errors.
-2023-06-17 22:03:04,454 INFO:NumExpr defaulting to 8 threads.
-2023-06-17 22:03:05,133 DEBUG:Processed 84 chapters. That's 7.1 Percent. They contain 4394 words. 1155 import errors. 65 output errors.
-2023-06-17 22:04:52,718 INFO:NumExpr defaulting to 8 threads.
-2023-06-17 22:04:53,398 DEBUG:Processed 84 chapters. That's 7.1 Percent. They contain 4394 words. 1155 import errors. 65 output errors.
+2023-06-17 22:25:30,210 DEBUG:Processed 42 chapters. That's 3.5 Percent. They contain 2197 words. 1147 import errors. 65 output errors.
+2023-06-18 12:18:46,301 DEBUG:Processed 53 chapters. That's 4.5 Percent. They contain 2375 words. 1136 import errors. 64 output errors.
