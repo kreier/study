@@ -183,6 +183,16 @@ Abram leaves Haran for Canaan (1-9)
 Abram and Sarai in Egypt (10-20)
 ```
 
+### A Covenant That Affects You
+
+**12:1-3; 13:14-17** from the workbook February 2020
+
+- Jehovah made a covenant with Abraham, which formed the legal foundation of the Kingdom of the heavens
+- The covenant apparently went into effect in 1943 B.C.E. when Abraham crossed the Euphrates River on his way to Canaan
+- The covenant remains in effect until the Messianic Kingdom destroys God’s enemies and brings blessings to all the families of the earth
+
+Jehovah blessed Abraham for his great faith. If we demonstrate faith in Jehovah’s promises, what blessings await us as a result of the Abrahamic covenant?
+
 ## Genesis 13
 
 ```
@@ -214,6 +224,14 @@ God’s covenant with Abram (1-21)
   God’s promise to Abram repeated (18-21)
 ```
 
+#### Ge 15:13, 14 ​— *When did the 400 years of affliction begin and end?* (it-1 460-461)
+
+Jehovah told Abram (Abraham): "You may know for sure that your seed will become an alien resident in a land not theirs, and they will have to serve them, and these will certainly afflict them for four hundred years." (Ge 15:13; see also Ac 7:6, 7.) This was stated prior to the birth of the promised heir or "seed," Isaac. In 1932 B.C.E. Ishmael was born to Abram by the Egyptian servant girl Hagar, and in 1918 B.C.E. Isaac was born. (Ge 16:16; 21:5) Counting back 400 years from the Exodus, which marked the end of the ‘afflicting’ (Ge 15:14), would bring us to 1913 B.C.E., and at that time Isaac was about five years old. It appears that Isaac was weaned then and, already "an alien resident" in a land not his, he now experienced the start of the foretold affliction in the form of Ishmael’s "poking fun," Ishmael being about 19. (Ge 21:8, 9) Although in modern times Ishmael’s mocking of Abraham’s heir might be viewed as inconsequential, such was not the case in patriarchal times. This is evidenced by Sarah’s reaction and God’s approval of her insistence that Hagar and her son Ishmael be sent away. (Ge 21:10-13) The very fact that this incident was recorded in detail in the divine record also points to its marking the commencement of the prophesied 400-year period of affliction that would not end until the Exodus.​—Ga 4:29.
+
+#### Ge 15:16 ​— *How did Abraham’s descendants return to Canaan "in the fourth generation"?* (it-1 778 ¶4)
+
+**"In the fourth generation."** We must remember that Jehovah told Abraham that in the fourth generation his descendants would return to Canaan. (Ge 15:16) In the entire 430 years from the time when the Abrahamic covenant took effect to the Exodus there were more than four generations, even considering the long life spans that they enjoyed during that time, according to the record. But it was only 215 years that the Israelites were *actually in Egypt*. The 'four generations' following their entering Egypt can be calculated in this way, using as an example just one tribe of Israel, the tribe of Levi: (1) Levi, (2) Kohath, (3) Amram, and (4) Moses.​—Ex 6:16, 18, 20.
+
 ## Genesis 16
 
 ```
@@ -230,6 +248,21 @@ Sarai renamed Sarah (15-17)
 Son Isaac promised (18-27)
 ```
 
+### Jehovah Renamed Abram and Sarai​—Why?
+
+**17:1, 3-5, 15, 16** from the workbook February 2020
+
+Jehovah viewed Abram as faultless before Him. When he expanded on his promise to Abram, he gave Abram and Sarai names with prophetic meaning.
+
+True to their names, Abraham became the father of many nations and Sarah became an ancestress of kings.
+
+- **Abraham** - Father of a Multitude
+- **Sarah** - Princess
+
+We cannot choose the name given to us at birth. But like Abraham and Sarah, we can establish our own reputation. Ask yourself:
+- 'How can I be viewed by Jehovah as faultless?'
+- 'What kind of name am I making with Jehovah?'
+
 ## Genesis 18
 
 ```
@@ -237,6 +270,23 @@ Three angels visit Abraham (1-8)
 A son promised to Sarah; she laughs (9-15)
 Abraham pleads for Sodom (16-33)
 ```
+
+#### Ge 18:1, 22 ​— *How was it that "Jehovah appeared to" Abraham and "remained with" him?* (w88 5/15 23 ¶4-5)
+
+Now it is possible to understand why Abraham addressed the materialized angelic spokesman of God as if he were talking to Jehovah God himself. Since this angel spoke precisely what God wanted to have said to Abraham and was there personally representing Him, the Biblical record could say that "Jehovah appeared to him."​—Genesis 18:1.
+
+Remember that an angelic spokesman for God could transmit His messages just as precisely as a telephone or a radio can transmit our words to another person. Hence, it can be understood how Abraham, Moses, Manoah, and others could speak with a materialized angel as if they were talking to God. While such individuals were able to see these angels and the glory of Jehovah reflected by them, they were not able to see God. Therefore, this in no way contradicts the apostle John’s statement: "No man has seen God at any time." (John 1:18) What these men saw were angelic representatives and not God himself.
+
+### "The Judge of All the Earth" Destroys Sodom and Gomorrah
+
+**18:23-25, 32; 19:24, 25** from the workbook February 2020
+
+What do we learn from Jehovah’s actions regarding Sodom and Gomorrah?
+
+- Jehovah will not indefinitely tolerate wickedness
+- Those who survive the coming judgment will be those who pay attention to God’s will and do it.​—Lu 17:28-30
+
+**ASK YOURSELF:** 'Does the brazen conduct of this wicked world distress me?' (2Pe 2:7) 'Does my daily life show that doing Jehovah’s will is most important to me?'
 
 ## Genesis 19
 
@@ -249,11 +299,19 @@ Lot and his daughters (30-38)
   Origin of Moab and Ammon (37, 38)
 ```
 
+#### Ge 19:26 ​— *Why did Lot’s wife become "a pillar of salt"?* (w19.06 20 ¶3)
+
+Lot made a bad decision when he chose to live among the grossly immoral people of Sodom. (**Read** 2 Peter 2:7, 8.) The region was prosperous, but Lot paid a high price for moving to Sodom. (Gen. 13:8-13; 14:12) His wife apparently became so attached to the city or to some of the people living there that she disobeyed Jehovah. She lost her life when God rained fire and sulfur on the region. And think of Lot’s two daughters. They were engaged to men who died in Sodom. Lot lost his home, his possessions and, most painful of all, his wife. (Gen. 19:12-14, 17, 26) During this stressful period, did Jehovah lose patience with Lot? No.
+
 ## Genesis 20
 
 ```
 Sarah rescued from Abimelech (1-18)
 ```
+
+#### Ge 20:12 ​— *How was Sarah Abraham’s sister?* (wp17.3 12, ftn.)
+
+Sarah was the half sister of Abraham. Terah was father to both of them, but they had different mothers. (Genesis 20:12) While such a marriage is improper today, it is important to keep in mind how different things were back then. Humans were closer to the perfection that Adam and Eve had enjoyed but lost. For such robust people, marriage between close relatives evidently did not present genetic dangers to offspring. Some 400 years later, though, life spans were similar to ours. At that time, the Mosaic Law outlawed all sexual unions between close relatives.​—Leviticus 18:6.
 
 ## Genesis 21
 
@@ -263,6 +321,18 @@ Ishmael mocks Isaac (8, 9)
 Hagar and Ishmael sent away (10-21)
 Abraham’s covenant with Abimelech (22-34)
 ```
+
+#### Ge 21:33 ​— *How did Abraham call "on the name of Jehovah"?* (w89 7/1 20 ¶9)
+
+Abram responded with another act of faith. As the account says: "He built an altar there to Jehovah." (Genesis 12:7) Likely, this included offering up an animal sacrifice, for the Hebrew word for "altar" means "place of sacrifice." Later, Abram repeated these acts of faith in other parts of the land. In addition, he ‘called on the name of Jehovah.’ (Genesis 12:8; 13:18; 21:33) The Hebrew phrase "call on the name" also means "declare (preach) the name." Abram’s household as well as the Canaanites must have heard him boldly declare the name of his God, Jehovah. (Genesis 14:22-24) Likewise, all who seek God’s friendship today must call upon his name in faith. This would include sharing in public preaching, "always offer[ing] to God a sacrifice of praise, that is, the fruit of lips which make public declaration to his name."​—Hebrews 13:15; Romans 10:10.
+
+### Jehovah Always Does What He Promises
+
+**21:1-3, 5-7, 10-12, 14** from workbook February 2020
+
+Jehovah rewarded Abraham and Sarah for their faith by giving them a son. Later, their obedience under trial showed their remarkable faith in Jehovah’s promises for the future.
+
+How does my obedience during trials show that I trust in Jehovah’s promises for the future? How can I strengthen my faith?
 
 ## Genesis 22
 

@@ -38,11 +38,15 @@ for index, row in books.iterrows():
         except OSError as e:
             total_import_errors += 1
             # logging.error(f"error reading {filename}")
+
+    # write README.md directly into the folder with the highlights
     try:
         with open(f'{row.folder}/README.md', 'w') as output:    
             output.write(text_markdown)
     except OSError as e:
         total_output_errors += 1
+
+    # write README.md to the folder for https://kreier.github.io/study/bible/
     text_markdown = ""  
 
 logging.debug(f"""Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.""")
