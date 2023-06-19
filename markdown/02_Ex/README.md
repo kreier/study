@@ -142,7 +142,7 @@ TBD
 TBD
 ```
 
-## Exodus 203
+## Exodus 20
 
 ```
 TBD
