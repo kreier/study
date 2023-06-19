@@ -19,6 +19,10 @@ Moses flees to Midian and marries Zipporah (11-22)
 God hears Israelites’ groaning (23-25)
 ```
 
+#### Ex 2:10​—Why is it reasonable to believe that Pharaoh’s daughter adopted Moses? (g04 4/8 6 ¶5)
+
+Is it not farfetched, though, to believe that an Egyptian princess would take in such a child? No, for Egyptian religion taught that kind deeds were a requisite for entrance into heaven. As for the adoption itself, archaeologist Joyce Tyldesley observes: “Egyptian women achieved parity with Egyptian men. They enjoyed the same legal and economic rights, at least in theory, and . . . women could make adoptions.” The ancient Adoption Papyrus actually documents one Egyptian woman’s adoption of her slaves. As for the hiring of Moses’ mother as a wet nurse, The Anchor Bible Dictionary says: “The payment of Moses’ natural mother to nurse him . . . echoes identical arrangements in Mesopotamian adoption contracts.”
+
 ## Exodus 3
 
 ```
@@ -26,6 +30,18 @@ Moses and the burning thornbush (1-12)
 Jehovah explains His name (13-15)
 Jehovah instructs Moses (16-22)
 ```
+
+#### Ex 3:1​—What kind of priest was Jethro? (w04 3/15 24 ¶4)
+
+In patriarchal times the family head served as a priest for his family. Jethro was evidently the patriarchal head of a tribe of Midianites. Since the Midianites were Abraham’s descendants by Keturah, they were perhaps exposed to the worship of Jehovah.​—Genesis 25:1, 2.
+
+### “I Will Become What I Choose to Become”
+
+**3:13, 14** from workbook June 2020
+
+Jehovah revealed to Moses a thrilling aspect of His own nature. Within the bounds of his perfect standards, Jehovah becomes whatever is needed in each circumstance to accomplish his will. Much like a human parent, Jehovah fills whatever roles are necessary to care for his children.
+
+What roles has Jehovah filled in my life?
 
 ## Exodus 4
 
@@ -36,6 +52,19 @@ Moses returns to Egypt (18-26)
 Moses reunites with Aaron (27-31)
 ```
 
+#### Ex 4:24-26​—For what possible reason did Zipporah call Jehovah “a bridegroom of blood”? (w04 3/15 28 ¶4)
+
+Zipporah’s expression “you are a bridegroom of blood to me” is an unusual one. What does it indicate about her? By her compliance with the requirements of the circumcision covenant, Zipporah acknowledged a covenant relationship with Jehovah. The Law covenant later made with the Israelites showed that in a covenant relationship, Jehovah can be thought of as a husband and the other party as a wife. (Jeremiah 31:32) Hence, in addressing Jehovah (through his representative angel) as “a bridegroom of blood,” Zipporah appears to have been acknowledging her own submission to the terms of that covenant. It was as if she had accepted a wifely position in the circumcision covenant, with Jehovah God as the husband. In any case, because of her decisive act of obedience to God’s requirement, the life of her son was no longer in danger.
+
+### “I Will Be With You as You Speak”
+
+**4:10-15** from workbook June 2020
+
+With Jehovah’s help, Moses overcame his fears. What can we learn from Jehovah’s interaction with Moses?
+- We should avoid focusing on our own inadequacies
+- We can be confident that Jehovah will give us whatever we need to fulfill our assignments
+- Faith in God is the antidote to fear of man
+
 ## Exodus 5
 
 ```
@@ -43,6 +72,10 @@ Moses and Aaron before Pharaoh (1-5)
 Oppression grows (6-18)
 Israel blames Moses and Aaron (19-23)
 ```
+
+#### Ex 5:2​—In what sense did Pharaoh not know Jehovah? (it-2 12 ¶5)
+
+To “know,” therefore, does not necessarily mean merely to be acquainted with or cognizant of something or someone. The foolish Nabal knew David’s name but still asked, “Who is David?” in the sense of asking, “What does he amount to?” (1Sa 25:9-11; compare 2Sa 8:13.) So, too, Pharaoh had said to Moses: “Who is Jehovah, so that I should obey his voice to send Israel away? I do not know Jehovah at all and, what is more, I am not going to send Israel away.” (Ex 5:1, 2) By that, Pharaoh evidently meant that he did not know Jehovah as the true God or as having any authority over Egypt’s king and his affairs, nor as having any might to enforce His will as announced by Moses and Aaron. But now Pharaoh and all Egypt, along with the Israelites, would come to know the real meaning of that name, the person it represented. As Jehovah showed Moses, this would result from God’s carrying out His purpose toward Israel, liberating them, giving them the Promised Land, and thereby fulfilling His covenant with their forefathers. In this way, as God said, “You will certainly know that I am Jehovah your God.”​—Ex 6:4-8; see ALMIGHTY.
 
 ## Exodus 6
 

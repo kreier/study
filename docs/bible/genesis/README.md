@@ -614,6 +614,12 @@ Esau’s descendants (1-30)
 Edom’s kings and sheikhs (31-43)
 ```
 
+#### Ge 36:1​—*Why was Esau given the secondary name Edom?* (it-1 678)
+
+(Eʹdom) [Red], Edomites (Eʹdom·ites).
+
+Edom was the secondary name or byname given to Esau, Jacob’s twin brother. (Ge 36:1) It was applied to him because of his selling his birthright for the red stew. (Ge 25:30-34) Coincidentally, Esau at birth had had a very red color (Ge 25:25), and a similar color prevailed in parts of the land he and his descendants later inhabited.
+
 ## Genesis 37
 
 ```
@@ -622,11 +628,50 @@ Joseph and his jealous brothers (12-24)
 Joseph sold into slavery (25-36)
 ```
 
+#### Ge 37:29-32​—*Why did Joseph’s brothers show Joseph’s torn, bloodstained robe to Jacob?* (it-1 561-562 custody)
+
+When a shepherd or herdsman said he would keep or guard a flock or herd, he was indicating legal acceptance of the custody of these animals. He was guaranteeing the owner that they would be fed and not stolen, or else compensation would be paid. However, his responsibility was not absolute, for the above law absolved the guardian of liability in the case of an occurrence beyond normal human control, such as attack by wild beasts. To be relieved of the responsibility of custody, though, he had to submit evidence to the owner, as, for example, the torn carcass. The owner, on examination of such evidence, was bound to return a verdict of innocence on the part of the custodian.
+
+The same principle applied in general to any entrusted property, even in family relationships, for example, the oldest brother was considered the legal guardian of his younger brothers and sisters. Hence, we can understand the concern that Reuben as an eldest son had for Joseph’s life, as recorded at Genesis 37:18-30, when the other brothers spoke of killing him. "He said: ‘Let us not strike his soul fatally.’ . . . ‘Do not spill blood. . . . do not lay a violent hand upon him.’ His purpose was to deliver him out of their hand in order to return him to his father." And when Reuben discovered Joseph’s absence, his anxiety was so extreme that "he ripped his garments apart" and exclaimed: "The child is gone! And I​—where am I really to go?" He knew that he could be held accountable for the loss of Joseph. To escape responsibility, the brothers shrewdly fabricated evidence to the effect that Joseph had been killed by a wild beast. This they did by soaking Joseph’s striped garment in goat’s blood. They then submitted this evidence to Jacob, their father and patriarchal judge, who absolved Reuben of any responsibility because, on the basis of Joseph’s blood-soaked garment that his brothers presented as evidence, Jacob concluded that Joseph had been killed.​—Ge 37:31-33.
+
+### Joseph Becomes a Victim of Jealousy
+
+**37:3-9, 11, 23, 24, 28** from workbook May 2020
+
+Joseph’s experience illustrates the harmful effects of improper jealousy. Match the scriptures to the reasons why we should stamp down any feelings we may have of improper jealousy.
+
+**SCRIPTURE**
+
+- 1Sa 18:8, 9
+- Pr 14:30
+- 2Co 12:20
+- Ga 5:19-21
+
+**REASON**
+
+- Jealous people will not inherit God’s Kingdom
+- Jealousy disrupts the peace and unity of the congregation
+- Jealousy harms us physically
+- Jealousy blinds us from seeing the good in others
+
+What situations might cause us to become jealous?
+
 ## Genesis 38
 
 ```
 Judah and Tamar (1-30)
 ```
+
+#### Ge 38:9, 10​—*Why did Jehovah put Onan to death?* (it-2 555)
+
+(Oʹnan) [from a root meaning “generative power; dynamic energy”].
+A son of Judah, his second by the Canaanite daughter of Shua. (Ge 38:2-4; 1Ch 2:3) After Onan’s childless older brother Er was put to death by Jehovah for wrongdoing, Onan was told by Judah to perform brother-in-law marriage with Er’s widow Tamar. If a son was produced, he would not be the founder of Onan’s family, and the firstborn’s inheritance would belong to him as an heir to Er; whereas if no heir came, Onan would get the inheritance for himself. When Onan had relations with Tamar, he “wasted his semen on the earth” instead of giving it to her. This was not an act of masturbation on the part of Onan, for the account says “when he did have relations with his brother’s wife” he spilled his semen. Apparently it was a case of “coitus interruptus,” in which Onan purposely prevented ejaculation of his semen into Tamar’s genital tract. For his disobedience to his father, his covetousness, and his sin against the divine arrangement of marriage, not for self-abuse, Onan, himself also childless, was put to death by Jehovah.​—Ge 38:6-10; 46:12; Nu 26:19.
+
+#### Ge 38:15-18​—*How should we understand the actions of Judah and Tamar?* (w04 1/15 30 ¶4-5)
+
+Judah acted wrongly in that he did not give Tamar to his son Shelah as promised. He also had relations with a woman he thought was a temple prostitute. This was contrary to God’s purpose, which was for a man to have sexual relations only in the marriage arrangement. (Genesis 2:24) In reality, though, Judah did not have relations with a harlot. Rather, he unwittingly took the place of his son Shelah in performing brother-in-law marriage and thus fathered legal offspring.
+
+As for Tamar, her course was not an immoral one. Her twin sons were not considered to be the sons of fornication. When Boaz of Bethlehem took the Moabitess Ruth in brother-in-law marriage, the elders of Bethlehem spoke favorably of Tamar’s son Perez, saying to Boaz: “May your house become like the house of Perez, whom Tamar bore to Judah, from the offspring that Jehovah will give you out of this young woman.” (Ruth 4:12) Perez is also listed among the ancestors of Jesus Christ.​—Matthew 1:1-3; Luke 3:23-33.
 
 ## Genesis 39
 
@@ -635,6 +680,16 @@ Joseph in Potiphar’s house (1-6)
 Joseph resists Potiphar’s wife (7-20)
 Joseph in prison (21-23)
 ```
+
+### Jehovah Never Abandoned Joseph
+
+**39:1, 12-14, 20-23** from workbook May 2020
+
+During Joseph’s many trials, Jehovah made “everything that he did successful” and granted him “favor in the eyes of the chief officer of the prison.” (Ge 39:2, 3, 21-23) What lessons can we learn from this account?
+
+- Our trials do not mean that we have lost Jehovah’s favor.​—Ps 34:19
+- We should try to discern how Jehovah is blessing us and be thankful.​—Php 4:6, 7
+- We should look to Jehovah to sustain us.​—Ps 55:22
 
 ## Genesis 40
 
@@ -652,6 +707,27 @@ Joseph exalted by Pharaoh (37-46a)
 Joseph’s food administration (46b-57)
 ```
 
+#### Ge 41:14​—Why did Joseph shave before seeing Pharaoh? (w15 11/1 9 ¶1-3)
+
+According to the Genesis account, Pharaoh ordered that the Hebrew prisoner Joseph be quickly brought before him to interpret his troubling dreams. By this time, Joseph had been imprisoned for a number of years. Despite the urgency of Pharaoh’s summons, Joseph took the time to shave. (Genesis 39:20-23; 41:1, 14) That the writer mentions this seemingly insignificant detail at all shows that he was familiar with Egyptian customs.
+
+Letting one’s beard grow was the norm among many ancient nations, including the Hebrews. In contrast, “the ancient Egyptians were the only Oriental nation who objected to wearing the beard,” says McClintock and Strong’s *Cyclopedia of Biblical, Theological, and Ecclesiastical Literature.*
+
+Was shaving limited to the beard? The magazine *Biblical Archaeology Review* suggests that some Egyptian ceremonial customs required a man to prepare to appear before Pharaoh as he would to enter a temple. In such a case, Joseph would have had to shave all the hair of his head and body.
+
+#### Ge 41:33​—What can we discern from the way that Joseph spoke to Pharaoh? (w09 11/15 28 ¶14)
+
+Godly parents in Bible times made sure that their children learned basic points of courtesy in the home. Consider the polite way in which Abraham and his son Isaac addressed each other at Genesis 22:7. The good training from his parents was evident also in the case of Joseph. When imprisoned, he was courteous even to his fellow prisoners. (Gen. 40:8, 14) His words to Pharaoh show that he had learned the proper way to address a person of high office.​—Gen. 41:16, 33, 34.
+
+### Jehovah Delivers Joseph
+
+**41:9-13, 16, 29-32, 38-40** from workbook May 2020
+
+Joseph suffered as a slave and a prisoner for about 13 years before Jehovah delivered him. Rather than becoming bitter, Joseph let this experience refine him. (Ps 105:17-19) He knew that Jehovah never abandoned him. How did Joseph make the best of his situation?
+
+- He showed industriousness and trustworthiness, giving Jehovah a basis to bless him.​—Ge 39:21, 22
+- He took an interest in others instead of plotting revenge against those who mistreated him.​—Ge 40:5-7
+
 ## Genesis 42
 
 ```
@@ -659,6 +735,16 @@ Joseph’s brothers go to Egypt (1-4)
 Joseph meets his brothers and tests them (5-25)
 The brothers return home to Jacob (26-38)
 ```
+
+#### Ge 42:22, 37​—*What good qualities did Reuben display?* (it-2 795)
+
+Some of Reuben’s good qualities displayed themselves when he persuaded his nine brothers to throw Joseph into a dry well instead of killing him, Reuben intending to return secretly and deliver Joseph out of the well. (Ge 37:18-30) More than 20 years later when these same brothers reasoned that the spy charges against them down in Egypt were due to their mistreatment of Joseph, Reuben reminded the others that he had not shared in their plot on Joseph’s life. (Ge 42:9-14, 21, 22) Again, when Jacob refused to let Benjamin accompany his brothers on their second trip to Egypt, it was Reuben who offered his own two sons as surety, saying: “You may put [them] to death if I do not bring [Benjamin] back to you.”​—Ge 42:37.
+
+### Joseph Shows Great Self-Control
+
+**42:5-7, 14-17, 21, 22** from workbook May 2020
+
+Can you imagine the strong emotions that Joseph may have felt when he unexpectedly came face-to-face with his brothers? He could have immediately identified himself and then either embraced them or taken revenge. But he did not act on impulse. What will you do if you are the victim of injustice from family members or others? Joseph’s example teaches the value of exercising self-control and remaining calm rather than following our treacherous heart and acting on imperfect impulses.
 
 ## Genesis 43
 
@@ -668,6 +754,10 @@ Joseph meets again with his brothers (15-23)
 Joseph’s banquet with his brothers (24-34)
 ```
 
+#### Ge 43:32​—*Why was eating a meal with the Hebrews detestable to the Egyptians?* (w04 1/15 29 ¶1)
+
+ This may largely have been because of religious prejudice or racial pride. The Egyptians also detested shepherds. (Genesis 46:34) Why? Sheepherders may simply have been near the bottom in the Egyptian caste system. Or it could be that since the land available for cultivation was limited, the Egyptians despised those seeking pasture for flocks.
+
 ## Genesis 44
 
 ```
@@ -675,12 +765,31 @@ Joseph’s silver cup in Benjamin’s bag (1-17)
 Judah pleads for Benjamin (18-34)
 ```
 
+#### Ge 44:13​—*What was signified by the ripping of garments?* (it-2 813)
+
+A common sign of grief among the Jews, as well as among other Orientals, particularly upon hearing of the death of a near relative. In many cases such ripping consisted of a rending of the garment in front just sufficient to lay open the breast, thus not necessarily a complete ripping of the garment so as to make it unfit for wearing.
+
+The first instance of this practice recorded in the Bible is that of Reuben, Jacob’s eldest son, who, upon returning and not finding Joseph in the waterpit, ripped his garments apart, saying: “The child is gone! And I​—where am I really to go?” As the firstborn, Reuben was particularly responsible for his younger brother. His father Jacob when told of the supposed death of his son likewise ripped his mantles apart and put on sackcloth in mourning (Ge 37:29, 30, 34), and down in Egypt Joseph’s half brothers showed their grief by ripping their garments apart, when Benjamin was made to appear as a thief.​—Ge 44:13.
+
+### Joseph Forgives His Brothers
+
+**44:1, 2, 33, 34; 45:4, 5** from workbook June 2020
+
+It can be a challenge to forgive, especially when someone has harmed us deliberately. What helped Joseph to forgive his brothers when they wronged him?
+
+- Joseph did not seek revenge but looked for a basis to forgive.​—Ps 86:5; Lu 17:3, 4
+- He let go of resentment and reflected the disposition of Jehovah, who forgives generously.​—Mic 7:18, 19
+
 ## Genesis 45
 
 ```
 Joseph reveals his identity (1-15)
 Joseph’s brothers return for Jacob (16-28)
 ```
+
+#### Ge 45:5-8​—*What can help us to endure injustice?* (w04 8/15 15 ¶15)
+
+What can help us not to become consumed with bitterness toward those who hate us without cause? Remember that our principal adversaries are Satan and the demons. (Ephesians 6:12) While some humans knowingly and deliberately persecute us, many of those who oppose God’s people do so out of ignorance or are manipulated by others. (Daniel 6:4-16; 1 Timothy 1:12, 13) Jehovah desires that “all sorts of men” have the opportunity to “be saved and come to an accurate knowledge of truth.” (1 Timothy 2:4) Indeed, some former opposers are now our Christian brothers as a result of having observed our blameless conduct. (1 Peter 2:12) In addition, we can draw a lesson from the example of Jacob’s son Joseph. Although Joseph suffered greatly on account of his half brothers, he did not harbor animosity toward them. Why not? Because he discerned that Jehovah’s hand was in the matter, maneuvering events in order to fulfill His purpose. (Genesis 45:4-8) Jehovah can likewise cause any unjust suffering we may undergo to work out for the glory of his name.​—1 Peter 4:16.
 
 ## Genesis 46
 
@@ -690,6 +799,16 @@ Names of those moving to Egypt (8-27)
 Joseph meets Jacob at Goshen (28-34)
 ```
 
+#### Ge 46:4​—*What did it mean for Joseph to “lay his hand” on Jacob’s eyes?* (it-1 220 ¶1)
+
+*Laying hand on eyes of deceased.* Jehovah’s expression to Jacob, “Joseph will lay his hand upon your eyes” (Ge 46:4), was a way of saying that Joseph would close Jacob’s eyes after his death, which was ordinarily a duty of the firstborn son. So it seems that Jehovah here indicated to Jacob that the right of firstborn should go to Joseph.​—1Ch 5:2.
+
+#### Ge 46:26, 27​—*How many people of Jacob’s house entered into Egypt?* (“75 persons in all” study note on Ac 7:14, nwtsty)
+
+**75 persons in all:** Stephen may not be quoting a particular verse from the Hebrew Scriptures when he gives the total number of Jacob’s family in Egypt as 75. This figure is not found in the Masoretic text of the Hebrew Scriptures. Ge 46:26 says: “All those who descended from Jacob and went into Egypt with him, aside from the wives of Jacob’s sons, were 66.” Verse 27 continues: “All the people of the house of Jacob who came into Egypt were 70.” Here the people are counted in two different ways, the first figure apparently including only his natural descendants and the second figure giving the total of those who came into Egypt. The number of Jacob’s descendants is also mentioned at Ex 1:5 and De 10:22, where the figure “70” is given. Stephen apparently gives a third figure that includes more of Jacob’s extended family. Some suggest that it includes sons and grandsons of Joseph’s sons Manasseh and Ephraim, who are mentioned in the *Septuagint* translation of Ge 46:20. Others suggest that it includes the wives of Jacob’s sons, who are specifically excluded from the figure given at Ge 46:26. So the figure “75” may be a grand total. This figure, though, may have a basis in copies of the Hebrew Scriptures circulating in the first century C.E. For years, scholars have known that “75” was the figure given at Ge 46:27 and Ex 1:5 in the Greek *Septuagint*. Additionally, in the 20th century, two Dead Sea Scroll fragments of Ex 1:5 in Hebrew were discovered, and they also use the figure “75.” Stephen’s figure may be based on one of those ancient texts. Regardless of which idea is correct, Stephen’s figure simply reflects a different way of counting the total number of Jacob’s descendants.
+
+persons: Or “souls.” The Greek word *psy·kheʹ*, traditionally rendered “soul,” here refers to a living person.​—See Glossary, “Soul,” and App. A2.
+
 ## Genesis 47
 
 ```
@@ -698,12 +817,37 @@ Joseph’s wise administration (13-26)
 Israel settles in Goshen (27-31)
 ```
 
+### Relief From Famine
+
+**47:13, 16, 19, 20, 23-25** from workbook June 2020
+
+The world today suffers from spiritual famine. (Am 8:11) By means of Christ Jesus, Jehovah provides an abundance of nourishing spiritual food.
+
+- Bible-based publications
+- Congregation meetings
+- Assemblies and conventions
+- Audio recordings
+- Videos
+- JW.ORG
+- JW Broadcasting
+
 ## Genesis 48
 
 ```
 Jacob blesses Joseph’s two sons (1-12)
 Ephraim gets greater blessing (13-22)
 ```
+
+### Older Ones Have Much to Share
+
+**48:21, 22; 49:1; 50:24, 25** from workbook 2020
+
+Older ones strengthen our faith in Jehovah and his promises when they tell us firsthand accounts of the “wonderful works” that Jehovah has performed during these last days. (Ps 71:17, 18) If you are blessed with older ones in your congregation, ask them about
+
+- how Jehovah helped them to overcome obstacles in serving him
+- the increase that they have seen in the number of Kingdom proclaimers
+- their joy at receiving clarifications in our understanding of Bible truth
+- the refinements that they have observed in Jehovah’s organization
 
 ## Genesis 49
 
@@ -713,6 +857,16 @@ Jacob’s deathbed prophecy (1-28)
 Jacob’s burial instructions (29-32)
 Jacob’s death (33)
 ```
+
+#### Ge 49:19​—*How was Jacob’s prophecy regarding Gad fulfilled?* (w04 6/1 15 ¶4-5)
+
+Before entering the Promised Land, members of Israel’s tribe of Gad requested that they be allowed to settle in the cattle country east of the Jordan. (Numbers 32:1-5) Living there would mean coping with serious challenges. The tribes to the west would have the protection of the Jordan Valley​—a natural barrier to military invasion. (Joshua 3:13-17) However, concerning the lands east of the Jordan, *The Historical Geography of the Holy Land*, by George Adam Smith, says: “[They] all roll off, with almost no intervening barrier, upon the great Arabian plateau. Consequently they have been exposed in all ages to the invasion of the hungry nomads, some of whom swarm upon them every year for pasture.”
+
+How would the tribe of Gad fare under such unrelenting pressure? Centuries earlier, in his death-bed prophecy, their forefather Jacob foretold: “As for Gad, a marauder band will raid him, but he will raid the extreme rear.” (Genesis 49:19) At first glance those words may seem gloomy. In reality, though, they amounted to a command for the Gadites to strike back. Jacob assured them that if they did so, the raiders would make a humiliating retreat, with the Gadites pursuing their extreme rear.
+
+#### Ge 49:27​—*How was Jacob’s prophecy regarding Benjamin fulfilled?* (it-1 289 ¶2)
+
+The fighting ability of Benjamin’s descendants was pictured in Jacob’s deathbed prophecy in which he said of this beloved son: “Benjamin will keep on tearing like a wolf. In the morning he will eat the animal seized and at evening he will divide spoil.” (Ge 49:27) Benjamite fighters were noted for their ability with the sling, slinging stones with either the right hand or the left and hitting the mark “to a hairbreadth.” (Jg 20:16; 1Ch 12:2) Left-handed Judge Ehud, the slayer of oppressive King Eglon, was of Benjamin. (Jg 3:15-21) It may also be noted that it was “in the morning” of the kingdom of Israel that the tribe of Benjamin, though one “of the smallest of the tribes,” provided Israel’s first king, Saul the son of Kish, who proved to be a fierce fighter against the Philistines. (1Sa 9:15-17, 21) Likewise “at evening” time, as far as the nation of Israel was concerned, the tribe of Benjamin provided Queen Esther and Prime Minister Mordecai, who served to save the Israelites from annihilation under the Persian Empire.​—Es 2:5-7.
 
 ## Genesis 50
 

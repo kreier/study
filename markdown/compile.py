@@ -28,7 +28,7 @@ for index, row in books.iterrows():
     for chapter in range(row.chapters + 1):
         filename = f'{row.folder}/{chapter:02d}.md'
         try:
-            with open(filename, 'r') as input:
+            with open(filename, 'r', encoding="utf8") as input:
                 file_data = input.read()
                 words = file_data.split(" ")
                 num_words = len(words)
@@ -46,14 +46,14 @@ for index, row in books.iterrows():
 
     # write README.md directly into the folder with the highlights
     try:
-        with open(f'{row.folder}/README.md', 'w') as output:    
+        with open(f'{row.folder}/README.md', 'w', encoding="utf8") as output:    
             output.write(text_markdown)
     except OSError as e:
         total_output_errors += 1
 
     # write README.md to the respective folder https://kreier.github.io/study/bible/$book$
     try:
-        with open(f'../docs/bible/{row.html_folder}/README.md', 'w') as output:    
+        with open(f'../docs/bible/{row.html_folder}/README.md', 'w', encoding="utf8") as output:    
             output.write(text_markdown)
     except OSError as e:
         total_output_errors += 1
