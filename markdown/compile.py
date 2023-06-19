@@ -16,6 +16,7 @@ books = pd.read_csv("https://raw.githubusercontent.com/kreier/study/main/markdow
 # Process bible books one by one
 summary_string = ""
 summary_html = ""
+summary_readme = ""
 total_words = 0
 total_chapters = 0
 total_import_errors = 0
@@ -60,15 +61,18 @@ for index, row in books.iterrows():
     # update the strings for each book of the bible
     summary_string += f"[{row.book}]({row.folder}/) {processed_chapters}/{row.chapters}, "
     summary_html += f"[{row.book}](bible/{row.html_folder}/) {processed_chapters}/{row.chapters}, "
+    summary_readme += f"[{row.book}](docs/bible/{row.html_folder}/) {processed_chapters}/{row.chapters}, "
     if index == 38:
         summary_html += "\n\n"
         summary_string += "\n\n"
+        summary_readme += "\n\n"
 
 summary_compilation = f"\n\nSummary of compilation: {total_chapters}/1189\n"
 summary_string += summary_compilation
 summary_html += summary_compilation
+summary_readme += summary_compilation
 
-# write README.md to folder https://kreier.github.io/study/markdown
+# write README.md to folder https://kreier.github.io/study/markdown/
 try:
     with open(f'README.md', 'w') as output:
         output.write("# Overview of processed files \n\n")
@@ -77,20 +81,22 @@ try:
 except OSError as e:
     total_output_errors += 1
 
-# create overview page README.md for https://kreier.github.io/study/ - get part 1 and 2
+# write README.md to the overview page for https://kreier.github.io/study/docs/
+# get part 1
 try:
     with open('../docs/part1.md', 'r') as input:
         part1 = input.read()
 except OSError as e:
     total_import_errors += 1
 
+# get part 2
 try:
     with open('../docs/part2.md', 'r') as input:
         part2 = input.read()
 except OSError as e:
     total_import_errors += 1
 
-# write README.md to the overview page for https://kreier.github.io/study/
+# write README.md
 try:
     with open(f'../docs/README.md', 'w') as output:
         output.write(f"<!-- generated {datetime.datetime.now()} -->\n")
@@ -100,7 +106,34 @@ try:
 except OSError as e:
     total_output_errors += 1
 
+
+# write README.md in the root folder of the repository https://kreier.github.io/study/
+# get header
+try:
+    with open('../markdown/header.md', 'r') as input:
+        header = input.read()
+except OSError as e:
+    total_import_errors += 1
+
+# get miracles
+try:
+    with open('../miracles/README.md', 'r') as input:
+        miracles = input.read()
+except OSError as e:
+    total_import_errors += 1
+
+# write README.md
+try:
+    with open(f'../README.md', 'w') as output:
+        output.write(header)
+        output.write(summary_readme)
+        output.write(miracles)
+        output.write(f"\n\nlast updated: {datetime.datetime.now()}")
+except OSError as e:
+    total_output_errors += 1
+
+
 # update the root README.md in https://kreier.github.io/study/bible/
-# TBD
+# TBD - provide links all the chapters
 
 logging.debug(f"Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.")
