@@ -1,6 +1,6 @@
-# Genesis
+# Exodus
 
-Written by Moses in the wildernis. The writing was completed 1513 B.C.E. The time covered is from "In the beginning" to 1657 B.C.E.
+Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
 
 ## Exodus 1
 

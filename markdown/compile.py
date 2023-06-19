@@ -37,7 +37,8 @@ for index, row in books.iterrows():
                 total_words += num_words
                 total_chapters += 1
                 text_markdown += file_data
-                processed_chapters += 1
+                if chapter > 0:
+                    processed_chapters += 1
                 print(filename, end=' ')
             text_markdown += '\n'
         except OSError as e:
@@ -61,6 +62,13 @@ for index, row in books.iterrows():
     # update the strings for each book of the bible
     summary_string += f"[{row.book}]({row.folder}/) {processed_chapters}/{row.chapters}, "
     summary_html += f"[{row.book}](bible/{row.html_folder}/) {processed_chapters}/{row.chapters}, "
+    if index == 38:
+        summary_html += "\n\n"
+        summary_string += "\n\n"
+
+summary_compilation = f"\n\nSummary of compilation: {total_chapters}/1189\n"
+summary_string += summary_compilation
+summary_html += summary_compilation
 
 # write README.md to folder https://kreier.github.io/study/markdown
 try:
