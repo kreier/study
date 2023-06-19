@@ -3,19 +3,17 @@
 # /docs folder for https://kreier.github.io/study/bible
 
 import logging
+import datetime
+import pandas as pd
 
 logging.basicConfig(level=logging.DEBUG, filename='compile.log', format='%(asctime)s %(levelname)s:%(message)s')
 
 # Import the book and chapter description data as pandas dataframe
-
-import pandas as pd
-
 books = pd.read_csv("https://raw.githubusercontent.com/kreier/study/main/markdown/chapters.csv")
 # print(books.info())
 
 
 # Process bible books one by one
-
 summary_string = ""
 summary_html = ""
 total_words = 0
@@ -75,6 +73,7 @@ try:
     with open(f'README.md', 'w') as output:
         output.write("# Overview of processed files \n\n")
         output.write(summary_string)
+        output.write(f"\n\nlast updated: {datetime.datetime.now()}")
 except OSError as e:
     total_output_errors += 1
 
@@ -94,6 +93,7 @@ except OSError as e:
 # write README.md to the overview page for https://kreier.github.io/study/
 try:
     with open(f'../docs/README.md', 'w') as output:
+        output.write(f"<!-- generated {datetime.datetime.now()} -->\n")
         output.write(part1)
         output.write(summary_html)
         output.write(part2)
