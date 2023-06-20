@@ -10,6 +10,8 @@ Pharaoh oppresses the Israelites (8-14)
 God-fearing midwives save lives (15-22)
 ```
 
+1:15 The names of the midwives were Shiphʹrah and Puʹah. In a culture where women are often not mentioned in genealogical registers, these two are preserved with their names and were blessed for their faithfulness with families (1:21). But the name of the powerful Pharʹaoh is unknown, lost in history.
+
 ## Exodus 2
 
 ```

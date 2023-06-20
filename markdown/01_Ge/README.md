@@ -840,7 +840,7 @@ Ephraim gets greater blessing (13-22)
 
 ### Older Ones Have Much to Share
 
-**48:21, 22; 49:1; 50:24, 25** from workbook 2020
+**48:21, 22; 49:1; 50:24, 25** from workbook June 2020
 
 Older ones strengthen our faith in Jehovah and his promises when they tell us firsthand accounts of the “wonderful works” that Jehovah has performed during these last days. (Ps 71:17, 18) If you are blessed with older ones in your congregation, ask them about
 

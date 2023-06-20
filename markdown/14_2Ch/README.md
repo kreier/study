@@ -15,6 +15,85 @@ Solomon’s wealth (13-17)
 TBD
 ```
 
+## 2 Chronicles 29
+
+```
+Hezekiah, king of Judah (1, 2)
+Hezekiah’s reforms (3-11)
+Temple cleansed (12-19)
+Temple services revived (20-36)
+```
+
+#### 2Ch 29:11—How did Hezekiah set a good example regarding priorities? (w13 11/15 17 ¶6-7)
+
+Ahaz died in 746 B.C.E., and his son Hezekiah inherited the materially impoverished and spiritually bankrupt kingdom of Judah. As the young king ascended the throne, what would his priority be? To shore up Judah’s ailing economy? No. Hezekiah was a spiritual man, a worthy shepherd of his national flock. His first act was to reestablish pure worship and to reinforce the wayward nation’s frayed relationship with Jehovah. When he understood God’s will for him, Hezekiah acted decisively. What a fine example for us!—2 Chron. 29:1-19.
+
+The Levites would play a vital role in the important task of restoring pure worship. Therefore, Hezekiah met with them to assure them of his support. Picture the faithful Levites who were present at that meeting, tears of joy streaming down their faces as they heard their king declare: “You are the ones whom Jehovah has chosen to stand before him to minister to him.” (2 Chron. 29:11) Yes, the Levites had a clear mandate to promote pure worship!
+
+### True Worship Requires Hard Work
+
+from workbook January 2016
+
+Hezekiah's Reign 746-716 B.C.E., 740 B.C.E. Fall of Samaria
+
+#### 29:10-17 Hezekiah restores true worship with determination
+
+Days in Nisan 746 B.C.E.
+
+- Days 1-8 Temple cleansed
+- Days 9-16: Temple santification completed
+- Atonement for all Israel and restoration of true worship began
+
+#### 30:5, 6, 10-12 Hezekiah invites all righthearted ones to assemble for worship
+
+- Couriers were dispatched to distribute letters, announcing the Passover throughout the land, from Beer-sheba to Dan
+- While some mocked, many responded favorably
+
+## 2 Chronicles 30
+
+```
+Hezekiah observes the Passover (1-27)
+```
+
+## 2 Chronicles 31
+
+```
+Hezekiah uproots apostasy (1)
+Priests and Levites properly supported (2-21)
+```
+
+## 2 Chronicles 32
+
+```
+Sennacherib threatens Jerusalem (1-8)
+Sennacherib defies Jehovah (9-19)
+Angel strikes Assyrian army (20-23)
+Hezekiah’s sickness and haughtiness (24-26)
+Hezekiah’s achievements and death (27-33)
+```
+
+#### 2Ch 32:7, 8—What is the most practical step we can take to prepare for future difficulties? (w13 11/15 20 ¶17)
+
+Elders who are reading this article can draw some useful conclusions from the account we have just considered: (1) The most practical step that we can take to prepare for the coming attack of “the Assyrian” is that of strengthening our faith in God and helping our brothers to do the same. (2) When “the Assyrian” attacks, the elders must be absolutely convinced that Jehovah will deliver us. (3) At that time, the life-saving direction that we receive from Jehovah’s organization may not appear practical from a human standpoint. All of us must be ready to obey any instructions we may receive, whether these appear sound from a strategic or human standpoint or not. (4) Now is the time for any who may be putting their trust in secular education, material things, or human institutions to adjust their thinking. The elders must stand ready to help any who may now be wavering in their faith.
+
+## 2 Chronicles 33
+
+```
+Manasseh, king of Judah (1-9)
+Manasseh repents of his badness (10-17)
+Death of Manasseh (18-20)
+Amon, king of Judah (21-25)
+```
+
+#### Timing of Manasseh's kingship
+
+Ma·nasʹseh was 12 years old when he became king in 716 BCE and he reigned for 55 years until 661 BCE. He was 67 years old when he died (33:20) and his son Amon became king at the age of 22. He reigned only for 2 years from 661 to 659 BCE. Then his son Josiah became king at the age of 8 (34:1). So Josiah was 6 years old when his grandfather died, but he learned an important lesson from him. See "The Story of Josiah: Love Jehovah; Hate What Is Bad" from the 2019 regional convention "Love Never Fails".
+
+#### 2Ch 33:11—What prophecy was fulfilled when Manasseh was taken to Babylon? (it-1 62 ¶2)
+
+With regard to the “sixty-five years” at Isaiah 7:8, which Isaiah prophesied would be the period within which Ephraim would be “shattered to pieces,” the *Commentary on the Whole Bible* (by Jamieson, Fausset, and Brown) states: “*One* deportation of Israel happened within one or two years from this time [the time of Isaiah’s prophecy], under Tiglath-pileser (2 Kings 15. 29). *Another* in the reign of Hoshea, under Shalmaneser (2 Kings 17. 1-6), was about twenty years after. But the final one which utterly ‘broke’ up Israel so as to be ‘not a people,’ accompanied by a colonization of Samaria with foreigners, was under Esar-haddon, who carried away Manasseh, king of Judah, also, in the twenty-second year of his reign, sixty-five years from the utterance of this prophecy (cf. Ezra 4.2, 3, 10, with 2 Kings 17.24; 2 Chronicles 33.11).”
+
+
 ## 2 Chronicles 34
 
 ```
@@ -27,9 +106,17 @@ Josiah reads the book to the people (29-33)
 
 ### Are You Benefiting Fully From God’s Word?
 
-Josiah listened to God’s Word carefully (2Ch 34:18, 19; see cover picture). He made an earnest effort to understand the meaning of what he was hearing (2Ch 34:21; it-1 1157 ¶4). He acted on what he learned (2Ch 34:33; w09 6/15 10 ¶20)
+Josiah listened to God’s Word carefully (2Ch 34:18, 19; see cover picture). He made an earnest effort to understand the meaning of what he was hearing (2Ch 34:21; it-1 1157 ¶4). 
+
+When Josiah heard the reading of “the very book of the law” found by Hilkiah the high priest during the temple repair work, he sent a delegation to inquire of Jehovah. They went to Huldah, who, in turn, relayed the word of Jehovah, indicating that all the calamities for disobedience recorded in the “book” would befall the apostate nation. Huldah added that Josiah, because of having humbled himself before Jehovah, would not have to look upon the calamity but would be gathered to his forefathers and be taken to his graveyard in peace.​—2Ki 22:8-20; 2Ch 34:14-28.
+
+He acted on what he learned (2Ch 34:33; w09 6/15 10 ¶20)
 
 **ASK YOURSELF**, "Am I quick to act on what I learn about Jehovah in his Word, the Bible?" (from the workbook May-June 2023)
+
+#### 2Ch 34:1-3—What encouragement can we draw from Josiah’s example? (w05 12/1 21 ¶6)
+
+Any negative circumstances of childhood need not prevent us from coming to know God and serving him. A positive influence Josiah may have had during his early years could have come from his repentant grandfather, Manasseh. Whatever positive influences Josiah might have had eventually produced fine results. So it can be with us.
 
 ## 2 Chronicles 35
 
