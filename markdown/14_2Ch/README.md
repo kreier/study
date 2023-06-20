@@ -93,6 +93,9 @@ Ma·nasʹseh was 12 years old when he became king in 716 BCE and he reigned for 
 
 With regard to the “sixty-five years” at Isaiah 7:8, which Isaiah prophesied would be the period within which Ephraim would be “shattered to pieces,” the *Commentary on the Whole Bible* (by Jamieson, Fausset, and Brown) states: “*One* deportation of Israel happened within one or two years from this time [the time of Isaiah’s prophecy], under Tiglath-pileser (2 Kings 15. 29). *Another* in the reign of Hoshea, under Shalmaneser (2 Kings 17. 1-6), was about twenty years after. But the final one which utterly ‘broke’ up Israel so as to be ‘not a people,’ accompanied by a colonization of Samaria with foreigners, was under Esar-haddon, who carried away Manasseh, king of Judah, also, in the twenty-second year of his reign, sixty-five years from the utterance of this prophecy (cf. Ezra 4.2, 3, 10, with 2 Kings 17.24; 2 Chronicles 33.11).”
 
+#### 2Ch 33:2-9, 12-16—On the basis of genuine repentance, Manasseh was shown mercy (w05 12/1 21 ¶5)
+
+A person shows true repentance by abandoning a wrong course and putting forth a determined effort to do what is right. On the basis of genuine repentance, even a person who has acted as wickedly as King Manasseh can receive Jehovah’s mercy.
 
 ## 2 Chronicles 34
 
@@ -118,6 +121,10 @@ He acted on what he learned (2Ch 34:33; w09 6/15 10 ¶20)
 
 Any negative circumstances of childhood need not prevent us from coming to know God and serving him. A positive influence Josiah may have had during his early years could have come from his repentant grandfather, Manasseh. Whatever positive influences Josiah might have had eventually produced fine results. So it can be with us.
 
+#### 2Ch 34:18, 30, 33—Reading the Bible and meditating on it can affect us profoundly (w05 12/1 21 ¶10)
+
+Reading God’s Word and meditating on what we read can affect us profoundly. Does not reflecting on the account of the kings in the Davidic line encourage us to imitate the examples of those who made Jehovah their confidence and avoid the conduct of those who did not? Second Chronicles stimulates us to give our exclusive devotion to the true God and remain faithful to him. Its message certainly is alive and exerts power.—Hebrews 4:12.
+
 ## 2 Chronicles 35
 
 ```
@@ -131,6 +138,10 @@ Consider what led to his defeat and death. Josiah "went out against" King Necho 
 
 If a problem arises, we ought to consider what Bible principles are involved and apply them in a balanced way. In some cases, we may want to consult with the elders. We may have given thought to what we already know about the subject, and we may even have done research in our publications. Yet, there may be other Bible principles to take into consideration, which an elder might help us to analyze. [example] We need balance as we seek to do God’s will and strive to have a good conscience.
 
+#### 35:3—From where did Josiah have the holy Ark brought into the temple? 
+
+Whether the Ark was removed earlier by one of the wicked kings or was relocated by Josiah for safekeeping during the extensive repair work of the temple, the Bible does not say. The only historical reference to the Ark after Solomon’s day is when Josiah brought it into the temple.
+
 ## 2 Chronicles 36
 
 ```
@@ -141,4 +152,8 @@ Zedekiah, king of Judah (11-14)
 Destruction of Jerusalem (15-21)
 Cyrus’ decree to rebuild the temple (22, 23)
 ```
+
+#### 2Ch 36:15-17—Jehovah’s compassion and patience must not be taken for granted (w05 12/1 21 ¶7)
+
+Jehovah is compassionate and patient. However, his compassion and patience are not limitless. People must respond favorably to the Kingdom-preaching work if they are to survive when Jehovah brings an end to this wicked system of things.
 
