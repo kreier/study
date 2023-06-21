@@ -1,0 +1,17 @@
+# 1 Chronicles
+
+Written by Ezra probably in Jerusalem. The writing was completed c. 460 B.C.E. The time covered is according to 1 Chronicles 9:44 from c. 1077 to 1037 B.C.E.
+
+## 1 Chronicles 1
+
+```
+Solomon’s request for wisdom (1-12)
+Solomon’s wealth (13-17)
+```
+
+## 1 Chronicles 2
+
+```
+TBD
+```
+
