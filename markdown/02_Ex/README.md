@@ -207,168 +207,250 @@ In order for the Israelites to avoid being harmed by the tenth plague, it was vi
 ## Exodus 13
 
 ```
-TBD
+Every firstborn male belongs to Jehovah (1, 2)
+Festival of Unleavened Bread (3-10)
+Every firstborn male devoted to God (11-16)
+Israel directed toward the Red Sea (17-20)
+Pillar of cloud and of fire (21, 22)
 ```
+
+#### Ex 13:17​—How did Jehovah show consideration for the Israelites when leading them out of Egypt? (it-1 1117)
+
 
 ## Exodus 14
 
 ```
-TBD
+Israel reaches the sea (1-4)
+Pharaoh pursues Israel (5-14)
+Israel crosses the Red Sea (15-25)
+Egyptians drown in the sea (26-28)
+Israel puts faith in Jehovah (29-31)
 ```
 
 ## Exodus 15
 
 ```
-TBD
+Moses and Israel’s victory song (1-19)
+Miriam sings in response (20, 21)
+Bitter water made sweet (22-27)
 ```
 
 ## Exodus 16
 
 ```
-TBD
+People murmur about food (1-3)
+Jehovah hears the murmurings (4-12)
+Quail and manna provided (13-21)
+No manna on the Sabbath (22-30)
+Manna kept as a reminder (31-36)
 ```
 
 ## Exodus 17
 
 ```
-TBD
+Complaint about lack of water at Horeb (1-4)
+Water from a rock (5-7)
+Amalekites’ attack and defeat (8-16)
 ```
 
 ## Exodus 18
 
 ```
-TBD
+Jethro and Zipporah arrive (1-12)
+Jethro’s advice to appoint judges (13-27)
 ```
 
 ## Exodus 19
 
 ```
-TBD
+At Mount Sinai (1-25)
+  Israel to be a kingdom of priests (5, 6)
+  People sanctified to meet God (14, 15)
 ```
 
 ## Exodus 20
 
 ```
-TBD
+The Ten Commandments (1-17)
+Spectacle causes Israel to fear (18-21)
+Instructions about worship (22-26)
 ```
 
 ## Exodus 21
 
 ```
-TBD
+Judicial decisions for Israel (1-36)
+  On Hebrew slaves (2-11)
+  On violence done to a fellow man (12-27)
+  On animals (28-36)
 ```
 
 ## Exodus 22
 
 ```
-TBD
+Judicial decisions for Israel (1-31)
+  On theft (1-4)
+  On damages to crops (5, 6)
+  On compensation and ownership (7-15)
+  On seduction (16, 17)
+  On worship and social justice (18-31)
 ```
 
 ## Exodus 23
 
 ```
-TBD
+Judicial decisions for Israel (1-19)
+  On honest and just behavior (1-9)
+  On sabbaths and festivals (10-19)
+Angelic guidance for Israel (20-26)
+Land acquisition and boundaries (27-33)
 ```
 
 ## Exodus 24
 
 ```
-TBD
+People agree to keep the covenant (1-11)
+Moses on Mount Sinai (12-18)
 ```
 
 ## Exodus 25
 
 ```
-TBD
+Contributions for the tabernacle (1-9)
+The Ark (10-22)
+The table (23-30)
+The lampstand (31-40)
 ```
 
 ## Exodus 26
 
 ```
-TBD
+The tabernacle (1-37)
+  The tent cloths (1-14)
+  Panel frames and socket pedestals (15-30)
+  The curtain and the screen (31-37)
 ```
 
 ## Exodus 27
 
 ```
-TBD
+Altar of burnt offering (1-8)
+The courtyard (9-19)
+Oil for the lampstand (20, 21)
 ```
 
 ## Exodus 28
 
 ```
-TBD
+Priestly garments (1-5)
+The ephod (6-14)
+The breastpiece (15-30)
+  Urim and Thummim (30)
+The sleeveless coat (31-35)
+The turban with the golden plate (36-39)
+Other priestly garments (40-43)
 ```
 
 ## Exodus 29
 
 ```
-TBD
+Installation of priests (1-37)
+The daily offering (38-46)
 ```
 
 ## Exodus 30
 
 ```
-TBD
+Incense altar (1-10)
+Census and money for atonement (11-16)
+Copper basin for washing (17-21)
+Special mixture of anointing oil (22-33)
+Holy incense formula (34-38)
 ```
 
 ## Exodus 31
 
 ```
-TBD
+Craftsmen filled with God’s spirit (1-11)
+Sabbath, a sign between God and Israel (12-17)
+The two stone tablets (18)
 ```
 
 ## Exodus 32
 
 ```
-TBD
+Worship of the golden calf (1-35)
+  Moses hears strange singing (17, 18)
+  Moses smashes the law tablets (19)
+  Levites loyal to Jehovah (26-29)
 ```
 
 ## Exodus 33
 
 ```
-TBD
+God’s message of reproof (1-6)
+Tent of meeting outside the camp (7-11)
+Moses asks to see Jehovah’s glory (12-23)
 ```
 
 ## Exodus 34
 
 ```
-TBD
+New stone tablets prepared (1-4)
+Moses sees Jehovah’s glory (5-9)
+Details of the covenant repeated (10-28)
+Moses’ face emits rays (29-35)
 ```
 
 ## Exodus 35
 
 ```
-TBD
+Sabbath instructions (1-3)
+Contributions for the tabernacle (4-29)
+Bezalel and Oholiab filled with spirit (30-35)
 ```
 
 ## Exodus 36
 
 ```
-TBD
+More than enough contributed (1-7)
+Construction of the tabernacle (8-38)
 ```
 
 ## Exodus 37
 
 ```
-TBD
+Making the Ark (1-9)
+The table (10-16)
+The lampstand (17-24)
+The altar of incense (25-29)
 ```
 
 ## Exodus 38
 
 ```
-TBD
+The altar of burnt offering (1-7)
+The copper basin (8)
+The courtyard (9-20)
+Inventory of tabernacle materials (21-31)
 ```
 
 ## Exodus 39
 
 ```
-TBD
+Making the priestly garments (1)
+The ephod (2-7)
+The breastpiece (8-21)
+The sleeveless coat (22-26)
+Other priestly garments (27-29)
+The golden plate (30, 31)
+Moses inspects the tabernacle (32-43)
 ```
 
 ## Exodus 40
 
 ```
-TBD
+Setting up the tabernacle (1-33)
+Jehovah’s glory fills the tabernacle (34-38)
 ```
 
