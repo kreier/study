@@ -1,0 +1,11 @@
+# 1 Kings
+
+Written by Jeremiah in Jusah. The writing was completed 580 B.C.E. The time covered is from c. 1040 to 911 B.C.E.
+
+## 1 Kings 1
+
+```
+TBD
+```
+
+

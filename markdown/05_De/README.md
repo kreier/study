@@ -1,0 +1,11 @@
+# Deuteronomy
+
+Written by Moses in the plains of Moab. The writing was completed 1473 B.C.E. The time covered is two months in 1473 B.C.E.
+
+## Deuteronomy 1
+
+```
+TBD
+```
+
+

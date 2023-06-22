@@ -1,0 +1,11 @@
+# Judges
+
+Written by Samuel in Israel. The writing was completed c. 1100 B.C.E. The time covered is from c. 1450 to c. 1120 B.C.E.
+
+## Judges 1
+
+```
+TBD
+```
+
+
