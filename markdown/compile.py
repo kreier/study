@@ -57,6 +57,7 @@ for index, row in books.iterrows():
             output.write(text_markdown)
     except OSError as e:
         total_output_errors += 1
+        # print(f"{row.html_folder}")
 
     # update the strings for each book of the bible
     summary_string += f"[{row.book}]({row.folder}/) {processed_chapters}/{row.chapters}, "

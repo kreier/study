@@ -1,27 +1,28 @@
-NAME OF BOOK,WRITER,PLACE WRITTEN,WRITING COMPLETED (C.E.),TIME COVERED
-Matthew,Matthew,Israel,c. 41,2 B.C.E.–33 C.E.
-Mark,Mark,Rome,c. 60-65,29-33 C.E.
-Luke,Luke,Caesarea,c. 56-58,3 B.C.E.–33 C.E.
-John,Apostle John,"Ephesus, or near",c. 98,"After prologue, 29-33 C.E."
-Acts,Luke,Rome,c. 61,33–c. 61 C.E.
-Romans,Paul,Corinth,c. 56, 
-1 Corinthians,Paul,Ephesus,c. 55, 
-2 Corinthians,Paul,Macedonia,c. 55, 
-Galatians,Paul,Corinth or Syrian Antioch,c. 50-52, 
-Ephesians,Paul,Rome,c. 60-61, 
-Philippians,Paul,Rome,c. 60-61, 
-Colossians,Paul,Rome,c. 60-61, 
-1 Thessalonians,Paul,Corinth,c. 50, 
-2 Thessalonians,Paul,Corinth,c. 51, 
-1 Timothy,Paul,Macedonia,c. 61-64, 
-2 Timothy,Paul,Rome,c. 65, 
-Titus,Paul,Macedonia (?),c. 61-64, 
-Philemon,Paul,Rome,c. 60-61, 
-Hebrews,Paul,Rome,c. 61, 
-James,James (Jesus’ brother),Jerusalem,b. 62, 
-1 Peter,Peter,Babylon,c. 62-64, 
-2 Peter,Peter,Babylon (?),c. 64, 
-1 John,Apostle John,"Ephesus, or near",c. 98, 
-2 John,Apostle John,"Ephesus, or near",c. 98, 
-3 John,Apostle John,"Ephesus, or near",c. 98, 
-Jude,Jude (Jesus’ brother),Israel (?),c. 65, 
+NR,NAME OF BOOK,WRITER,PLACE WRITTEN,WRITING COMPLETED (C.E.),TIME COVERED
+40,Matthew,Matthew,Israel,c. 41,2 B.C.E.–33 C.E.
+41,Mark,Mark,Rome,c. 60-65,29-33 C.E.
+42,Luke,Luke,Caesarea,c. 56-58,3 B.C.E.–33 C.E.
+43,John,Apostle John,"Ephesus, or near",c. 98,"After prologue, 29-33 C.E."
+44,Acts,Luke,Rome,c. 61,33–c. 61 C.E.
+45,Romans,Paul,Corinth,c. 56, 
+46,1 Corinthians,Paul,Ephesus,c. 55, 
+47,2 Corinthians,Paul,Macedonia,c. 55, 
+48,Galatians,Paul,Corinth or Syrian Antioch,c. 50-52, 
+49,Ephesians,Paul,Rome,c. 60-61, 
+50,Philippians,Paul,Rome,c. 60-61, 
+51,Colossians,Paul,Rome,c. 60-61, 
+52,1 Thessalonians,Paul,Corinth,c. 50, 
+53,2 Thessalonians,Paul,Corinth,c. 51, 
+54,1 Timothy,Paul,Macedonia,c. 61-64, 
+55,2 Timothy,Paul,Rome,c. 65, 
+56,Titus,Paul,Macedonia (?),c. 61-64, 
+57,Philemon,Paul,Rome,c. 60-61, 
+58,Hebrews,Paul,Rome,c. 61, 
+59,James,James (Jesus’ brother),Jerusalem,b. 62, 
+60,1 Peter,Peter,Babylon,c. 62-64, 
+61,2 Peter,Peter,Babylon (?),c. 64, 
+62,1 John,Apostle John,"Ephesus, or near",c. 98, 
+63,2 John,Apostle John,"Ephesus, or near",c. 98, 
+64,3 John,Apostle John,"Ephesus, or near",c. 98, 
+65,Jude,Jude (Jesus’ brother),Israel (?),c. 65, 
+66,Revelation,Apostle John,Patmos,c. 96, 

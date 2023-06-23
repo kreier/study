@@ -1,0 +1,11 @@
+# Esther
+
+Written by Mordecai in Shushan, Elam. The writing was completed c. 475 B.C.E. The time covered is from 493 to c. 475 B.C.E.
+
+## Esther 1
+
+```
+TBD
+```
+
+
