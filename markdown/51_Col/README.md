@@ -9,3 +9,24 @@ TBD
 ```
 
 
+## Colossians 1
+
+```
+TBD
+```
+
+
+## Colossians 1
+
+```
+TBD
+```
+
+
+## Colossians 1
+
+```
+TBD
+```
+
+

@@ -33,11 +33,11 @@ for index, row in books.iterrows():
                 words = file_data.split(" ")
                 num_words = len(words)
                 # logging.debug(f"{filename} has {num_words} words")
-                total_words += num_words
-                total_chapters += 1
                 text_markdown += file_data
                 if chapter > 0:
                     processed_chapters += 1
+                    total_words += num_words
+                    total_chapters += 1
                 print(filename, end=' ')
             text_markdown += '\n'
         except OSError as e:

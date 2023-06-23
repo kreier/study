@@ -15,3 +15,6 @@
 2023-06-23 15:16:10,037 DEBUG:Processed 248 chapters. That's 20.9 Percent. They contain 17117 words. 1007 import errors. 51 output errors.
 2023-06-23 16:12:09,755 DEBUG:Processed 281 chapters. That's 23.6 Percent. They contain 17847 words. 974 import errors. 51 output errors.
 2023-06-23 17:06:59,431 DEBUG:Processed 333 chapters. That's 28.0 Percent. They contain 18359 words. 922 import errors. 0 output errors.
+2023-06-23 17:49:10,705 DEBUG:Processed 421 chapters. That's 35.4 Percent. They contain 18623 words. 834 import errors. 0 output errors.
+2023-06-23 17:55:42,861 DEBUG:Processed 1220 chapters. That's 102.6 Percent. They contain 21104 words. 35 import errors. 0 output errors.
+2023-06-23 17:58:01,203 DEBUG:Processed 1154 chapters. That's 97.1 Percent. They contain 19862 words. 35 import errors. 0 output errors.

@@ -9,3 +9,38 @@ TBD
 ```
 
 
+## Galatians 1
+
+```
+TBD
+```
+
+
+## Galatians 1
+
+```
+TBD
+```
+
+
+## Galatians 1
+
+```
+TBD
+```
+
+
+## Galatians 1
+
+```
+TBD
+```
+
+
+## Galatians 1
+
+```
+TBD
+```
+
+

@@ -5,11 +5,172 @@ Written by Ezra probably in Jerusalem. The writing was completed c. 460 B.C.E. T
 ## 1 Chronicles 1
 
 ```
-Solomon’s request for wisdom (1-12)
-Solomon’s wealth (13-17)
+TBD
 ```
 
-## 1 Chronicles 2
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
+
+```
+TBD
+```
+
+## 1 Chronicles 1
 
 ```
 TBD
