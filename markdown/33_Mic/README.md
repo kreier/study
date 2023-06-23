@@ -1,8 +1,8 @@
-# Leviticus
+# Micah
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Micah in Judah. The writing was completed before 717 B.C.E. The time covered is from circa 777 to 717 B.C.E.
 
-## Leviticus 1
+## Micah 1
 
 ```
 TBD

@@ -1,8 +1,8 @@
-# Leviticus
+# Song of Solomon (Canticles)
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Solomon in Jerusalem. The writing was completed c. 1020 B.C.E.
 
-## Leviticus 1
+## Song of Solomon 1
 
 ```
 TBD

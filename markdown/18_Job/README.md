@@ -1,8 +1,8 @@
-# Leviticus
+# Job
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Moses in the wildernis. The writing was completed c. 1473 B.C.E. The time covered is over 140 years between 1657 and 1473 B.C.E. (184)
 
-## Leviticus 1
+## Job 1
 
 ```
 TBD

@@ -1,8 +1,8 @@
-# Leviticus
+# Matthew
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Matthew in Israel. The writing was completed circa 41 C.E. The time covered is from 2 B.C.E. to 33 B.C.E.
 
-## Leviticus 1
+## Matthew 1
 
 ```
 TBD

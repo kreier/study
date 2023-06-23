@@ -1,8 +1,8 @@
-# Leviticus
+# Nehemiah
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Nehemiah in Jerusalem. The writing was completed a. 443 B.C.E. The time covered is from 456 to a. 443 B.C.E.
 
-## Leviticus 1
+## Nehemiah 1
 
 ```
 TBD

@@ -1,8 +1,8 @@
-# Leviticus
+# Habakkuk
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Habakkuk in Judah. The writing was completed circa 628 B.C.E.
 
-## Leviticus 1
+## Habakkuk 1
 
 ```
 TBD

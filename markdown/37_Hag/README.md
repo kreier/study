@@ -1,8 +1,8 @@
-# Leviticus
+# Haggai
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Haggai in Jerusalem. The writing was completed 520 B.C.E. The time covered are 112 days in 520 B.C.E.
 
-## Leviticus 1
+## Haggai 1
 
 ```
 TBD

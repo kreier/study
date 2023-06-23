@@ -1,8 +1,8 @@
-# Leviticus
+# Zephaniah
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Zephaniah in Judah. The writing was completed before 648 B.C.E.
 
-## Leviticus 1
+## Zephaniah 1
 
 ```
 TBD

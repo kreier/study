@@ -1,8 +1,8 @@
-# Leviticus
+# Isaiah
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Isaiah in Jerusalem. The writing was completed a. 732 B.C.E. The time covered is from circa 778 to after 732 B.C.E.
 
-## Leviticus 1
+## Isaiah 1
 
 ```
 TBD

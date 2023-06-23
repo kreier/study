@@ -1,8 +1,8 @@
-# Leviticus
+# Daniel
 
-Written by Moses in the wildernis. The writing was completed 1512 B.C.E. The time covered is from 1657 to 1512 B.C.E.
+Written by Daniel in Babylon. The writing was completed circa 536 B.C.E. The time covered is from 618 to circa 536 B.C.E.
 
-## Leviticus 1
+## Daniel 1
 
 ```
 TBD
