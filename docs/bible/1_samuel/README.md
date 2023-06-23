@@ -1,0 +1,11 @@
+# 1 Samuel
+
+Written by Samuel, Gad and Nathan in Israel. The writing was completed c. 1078 B.C.E. The time covered is from c. 1180 to 1078 B.C.E.
+
+## 1 Samuel 1
+
+```
+TBD
+```
+
+

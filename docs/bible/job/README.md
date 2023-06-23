@@ -1,0 +1,11 @@
+# Job
+
+Written by Moses in the wildernis. The writing was completed c. 1473 B.C.E. The time covered is over 140 years between 1657 and 1473 B.C.E. (184)
+
+## Job 1
+
+```
+TBD
+```
+
+

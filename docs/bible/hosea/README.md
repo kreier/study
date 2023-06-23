@@ -1,0 +1,11 @@
+# Hosea
+
+Written by Hosea in the district of Samaria. The writing was completed after 745 B.C.E. The time covered is from before 804 to after 745 B.C.E.
+
+## Hosea 1
+
+```
+TBD
+```
+
+
