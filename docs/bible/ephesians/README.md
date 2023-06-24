@@ -9,35 +9,35 @@ TBD
 ```
 
 
-## Ephesians 1
+## Ephesians 2
 
 ```
 TBD
 ```
 
 
-## Ephesians 1
+## Ephesians 3
 
 ```
 TBD
 ```
 
 
-## Ephesians 1
+## Ephesians 4
 
 ```
 TBD
 ```
 
 
-## Ephesians 1
+## Ephesians 5
 
 ```
 TBD
 ```
 
 
-## Ephesians 1
+## Ephesians 6
 
 ```
 TBD

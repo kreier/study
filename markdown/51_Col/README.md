@@ -9,21 +9,21 @@ TBD
 ```
 
 
-## Colossians 1
+## Colossians 2
 
 ```
 TBD
 ```
 
 
-## Colossians 1
+## Colossians 3
 
 ```
 TBD
 ```
 
 
-## Colossians 1
+## Colossians 4
 
 ```
 TBD

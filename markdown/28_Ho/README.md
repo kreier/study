@@ -9,91 +9,91 @@ TBD
 ```
 
 
-## Hosea 1
+## Hosea 2
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 3
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 4
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 5
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 6
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 7
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 8
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 9
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 10
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 11
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 12
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 13
 
 ```
 TBD
 ```
 
 
-## Hosea 1
+## Hosea 14
 
 ```
 TBD

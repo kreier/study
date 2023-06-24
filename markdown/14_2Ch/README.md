@@ -15,6 +15,162 @@ Solomon’s wealth (13-17)
 TBD
 ```
 
+## 2 Chronicles 3
+
+```
+TBD
+```
+
+## 2 Chronicles 4
+
+```
+TBD
+```
+
+## 2 Chronicles 5
+
+```
+TBD
+```
+
+## 2 Chronicles 6
+
+```
+TBD
+```
+
+## 2 Chronicles 7
+
+```
+TBD
+```
+
+## 2 Chronicles 8
+
+```
+TBD
+```
+
+## 2 Chronicles 9
+
+```
+TBD
+```
+
+## 2 Chronicles 10
+
+```
+TBD
+```
+
+## 2 Chronicles 11
+
+```
+TBD
+```
+
+## 2 Chronicles 12
+
+```
+TBD
+```
+
+## 2 Chronicles 13
+
+```
+TBD
+```
+
+## 2 Chronicles 14
+
+```
+TBD
+```
+
+## 2 Chronicles 15
+
+```
+TBD
+```
+
+## 2 Chronicles 16
+
+```
+TBD
+```
+
+## 2 Chronicles 17
+
+```
+TBD
+```
+
+## 2 Chronicles 18
+
+```
+TBD
+```
+
+## 2 Chronicles 19
+
+```
+TBD
+```
+
+## 2 Chronicles 20
+
+```
+TBD
+```
+
+## 2 Chronicles 21
+
+```
+TBD
+```
+
+## 2 Chronicles 22
+
+```
+TBD
+```
+
+## 2 Chronicles 23
+
+```
+TBD
+```
+
+## 2 Chronicles 24
+
+```
+TBD
+```
+
+## 2 Chronicles 25
+
+```
+TBD
+```
+
+## 2 Chronicles 26
+
+```
+TBD
+```
+
+## 2 Chronicles 27
+
+```
+TBD
+```
+
+## 2 Chronicles 28
+
+```
+TBD
+```
+
 ## 2 Chronicles 29
 
 ```

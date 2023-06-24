@@ -9,21 +9,21 @@ TBD
 ```
 
 
-## 2 Timothy 1
+## 2 Timothy 2
 
 ```
 TBD
 ```
 
 
-## 2 Timothy 1
+## 2 Timothy 3
 
 ```
 TBD
 ```
 
 
-## 2 Timothy 1
+## 2 Timothy 4
 
 ```
 TBD

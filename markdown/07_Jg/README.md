@@ -8,144 +8,123 @@ Written by Samuel in Israel. The writing was completed c. 1100 B.C.E. The time c
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 2
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 3
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 4
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 5
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 6
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 7
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 8
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 9
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 10
 
 ```
 TBD
 ```
 
-
-## Judges 1
-
-```
-TBD
-```
-
-
-## Judges 1
+## Judges 11
 
 ```
 TBD
 ```
 
+## Judges 12
+
+```
+TBD
+```
+
+## Judges 13
+
+```
+TBD
+```
+
+## Judges 14
+
+```
+TBD
+```
+
+## Judges 15
+
+```
+TBD
+```
+
+## Judges 16
+
+```
+TBD
+```
+
+## Judges 17
+
+```
+TBD
+```
+
+## Judges 18
+
+```
+TBD
+```
+
+## Judges 19
+
+```
+TBD
+```
+
+## Judges 20
+
+```
+TBD
+```
+
+## Judges 21
+
+```
+TBD
+```
 

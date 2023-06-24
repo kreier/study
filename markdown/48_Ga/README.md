@@ -9,35 +9,35 @@ TBD
 ```
 
 
-## Galatians 1
+## Galatians 2
 
 ```
 TBD
 ```
 
 
-## Galatians 1
+## Galatians 3
 
 ```
 TBD
 ```
 
 
-## Galatians 1
+## Galatians 4
 
 ```
 TBD
 ```
 
 
-## Galatians 1
+## Galatians 5
 
 ```
 TBD
 ```
 
 
-## Galatians 1
+## Galatians 6
 
 ```
 TBD

@@ -9,21 +9,21 @@ TBD
 ```
 
 
-## Philippians 1
+## Philippians 2
 
 ```
 TBD
 ```
 
 
-## Philippians 1
+## Philippians 3
 
 ```
 TBD
 ```
 
 
-## Philippians 1
+## Philippians 4
 
 ```
 TBD

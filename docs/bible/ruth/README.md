@@ -8,25 +8,21 @@ Written by Samuel in Israel. The writing was completed c. 1090 B.C.E. The time c
 TBD
 ```
 
-
-## Ruth 1
-
-```
-TBD
-```
-
-
-## Ruth 1
+## Ruth 2
 
 ```
 TBD
 ```
 
-
-## Ruth 1
+## Ruth 3
 
 ```
 TBD
 ```
 
+## Ruth 4
+
+```
+TBD
+```
 

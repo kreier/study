@@ -9,14 +9,14 @@ TBD
 ```
 
 
-## Habakkuk 1
+## Habakkuk 2
 
 ```
 TBD
 ```
 
 
-## Habakkuk 1
+## Habakkuk 3
 
 ```
 TBD
