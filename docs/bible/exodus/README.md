@@ -200,7 +200,7 @@ A unique feature of all of these “holy conventions” was that during them the
 
 ### The Passover​—Its Significance for Christians
 
-**12:5-7, 12, 13, 24-27** from workbook July 2020
+**12:5-7, 12, 13, 24-27** from [workbook July 2020](https://www.jw.org/en/library/jw-meeting-workbook/july-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-July-27-August-2-2020/The-Passover-Its-Significance-for-Christians/)
 
 In order for the Israelites to avoid being harmed by the tenth plague, it was vital for them to obey instructions. (Ex 12:28) On the night of Nisan 14, families were to assemble in their own home. They were to kill a sound one-year-old male lamb or goat. Its blood was to be sprinkled on the doorposts and on the upper part of the doorway. Then they were to roast the entire animal and eat it in a hurry. No one was to go out of the house until morning.​—Ex 12:9-11, 22.
 
@@ -214,8 +214,9 @@ Israel directed toward the Red Sea (17-20)
 Pillar of cloud and of fire (21, 22)
 ```
 
-#### Ex 13:17​—How did Jehovah show consideration for the Israelites when leading them out of Egypt? (it-1 1117)
+#### Ex 13:17​—How did Jehovah show consideration for the Israelites when leading them out of Egypt? ([it-1 1117](https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Highway-Road/#p3))
 
+From ancient times highways and roads, including several important trade routes, linked cities and kingdoms in the area of Palestine. (Nu 20:17-19; 21:21, 22; 22:5, 21-23; Jos 2:22; Jg 21:19; 1Sa 6:9, 12; 13:17, 18; see KING’S ROAD.) What is considered to have been the principal route led from Egypt to the Philistine cities of Gaza and Ashkelon and gradually bent northeastward in the direction of Megiddo. It continued to Hazor, N of the Sea of Galilee, and then led to Damascus. This route via Philistia was the shortest from Egypt to the Promised Land. But Jehovah kindly led the Israelites by another way so that they would not get disheartened by a Philistine attack.​—Ex 13:17.
 
 ## Exodus 14
 
@@ -227,6 +228,23 @@ Egyptians drown in the sea (26-28)
 Israel puts faith in Jehovah (29-31)
 ```
 
+#### Ex 14:2​—Where was the Red Sea possibly parted to allow Israel to cross over? ([it-1 782 ¶2-3](https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Exodus/#p63-p65))
+
+It should be noted that, after reaching the second stage of their journey, Etham “at the edge of the wilderness,” God ordered Moses to “turn back and encamp before Pihahiroth . . . by the sea.” This maneuver would cause Pharaoh to believe the Israelites were “wandering in confusion.” (Ex 13:20; 14:1-3) Scholars favoring the el Haj route as the likely one point out that the Hebrew verb for “turn back” is emphatic and does not mean merely to “divert” or “turn aside,” but has more the sense of returning or at least of a marked detour. They suggest that, upon reaching a point N of the head of the Gulf of Suez, the Israelites reversed their line of march and went around to the E side of Jebel ʽAtaqah, a mountain range bordering the W side of the Gulf. A large host, such as the Israelites were, would find no effective way for swift exit from such a position if pursued from the N, and hence they would be bottled up with the sea blocking their way.
+
+### “Stand Firm and See the Salvation of Jehovah”
+
+**14:13, 14, 21, 22, 26-28** from [workbook August 2020](https://www.jw.org/en/library/jw-meeting-workbook/august-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-August-3-9-2020/Stand-Firm-and-See-the-Salvation-of-Jehovah/)
+
+Jehovah is a caring and considerate Savior. How did he show personal consideration for the Israelites during the Exodus from Egypt?
+
+- He organized them.​—Ex 13:18
+- He provided guidance and protection.​—Ex 14:19, 20
+- He delivered all of his people, both young and old alike.​—Ex 14:29, 30
+
+What confidence can you have as the great tribulation approaches?​—Isa 30:15
+
+
 ## Exodus 15
 
 ```
@@ -234,6 +252,18 @@ Moses and Israel’s victory song (1-19)
 Miriam sings in response (20, 21)
 Bitter water made sweet (22-27)
 ```
+
+### Praise Jehovah in Song
+
+**15:1, 2, 11, 18, 20, 21** from [workbook August 2020](https://www.jw.org/en/library/jw-meeting-workbook/august-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-August-10-16-2020/Praise-Jehovah-in-Song/)
+
+Music can have a powerful influence on the mind and body. Singing is an important part of our worship of Jehovah.
+
+- Moses and the Israelites sang praises to Jehovah for their miraculous deliverance at the Red Sea
+- King David assigned 4,000 men to serve as musicians and singers at the temple
+- The night before Jesus died, he and his faithful apostles sang praises to Jehovah
+
+What are some opportunities for me to sing praises to Jehovah?
 
 ## Exodus 16
 
@@ -245,6 +275,20 @@ No manna on the Sabbath (22-30)
 Manna kept as a reminder (31-36)
 ```
 
+#### Ex 16:13​—Why might Jehovah have chosen quail to feed the Israelites in the wilderness? ([w11 9/1 14](https://www.jw.org/en/library/magazines/wp20110901/Did-You-Know/#p2-p6))
+
+▪ Following the Israelites’ Exodus from Egypt, God twice provided them with an abundance of meat in the form of quail.​—Exodus 16:13; Numbers 11:31.
+
+Quail are small birds, about 7 inches (18 cm) in length and weighing about 3.5 ounces (100 g). They breed in many parts of western Asia and Europe. Being migratory birds, they winter in North Africa and Arabia. During their seasonal passage, vast flocks traverse the eastern shores of the Mediterranean Sea and fly over the Sinai Peninsula.
+
+According to The New Westminster Dictionary of the Bible, quail “fly rapidly and well, and take advantage of the wind; but if the wind changes its course, or the birds become exhausted from long flight, the whole immense flock is apt to fall to the ground, where the birds lie stunned.” Before continuing their migration, they have to rest on the ground for a day or two, thus becoming easy catch for hunters. In the early 20th century, Egypt was exporting some three million quail annually for food.
+
+Both times that the Israelites fed on quail were in the spring. Although quail regularly flew over the Sinai area during that time, it was Jehovah who caused ‘a wind to burst forth’ to drive these birds into the Israelite encampment.​—Numbers 11:31.
+
+#### Ex 16:32-34​—Where was the jar of manna kept? ([w06 1/15 31](https://www.jw.org/en/library/magazines/w20060115/Questions-From-Readers/#p5))
+
+Shortly after their deliverance from Egypt, the Israelites began to murmur about food. So Jehovah provided manna for them. (Exodus 12:17, 18; 16:1-5) At that time, Moses instructed Aaron: “Take a jar and put in it an omerful of manna and deposit it before Jehovah as something to be kept throughout your generations.” The account states: “Just as Jehovah had commanded Moses, Aaron proceeded to deposit it before the Testimony [an archive for the safekeeping of important documents] as something to be kept.” (Exodus 16:33, 34) While Aaron undoubtedly gathered manna into a jar at that time, the depositing of it before the Testimony had to wait until Moses made the Ark and placed the tablets in it.
+
 ## Exodus 17
 
 ```
@@ -253,12 +297,33 @@ Water from a rock (5-7)
 Amalekites’ attack and defeat (8-16)
 ```
 
+#### Ex 17:11-13​—How can we imitate the decisive action of Aaron and Hur? (w16.09 6 ¶14)
+
+Aaron and Hur literally supported Moses’ hands during a battle. As for us, we can look for ways to support and to give practical aid to others. To whom? To those battling the effects of old age, health limitations, opposition from their family, loneliness, or the loss of a loved one. We can also strengthen young ones who are facing pressure to share in wrongdoing or to seek “success” in this system of things, whether academically, financially, or professionally. (1 Thess. 3:1-3; 5:11, 14) Look for ways to show genuine interest in others at the Kingdom Hall, in the ministry, while enjoying a meal together, or as you converse on the telephone.
+
+#### Ex 17:14​—Why are Moses’ writings part of the Bible canon? ([it-1 406](https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Canon/#p6))
+
+That these writings of Moses were of divine origin, inspired of God, canonical, and a safe guideline for pure worship, there can be no doubt, in the light of internal evidence. It was not through Moses’ initiative that he became the leader and commander of the Israelites; at first Moses drew back at the suggestion. (Ex 3:10, 11; 4:10-14) Rather, God raised Moses up and invested in him such miraculous powers that even Pharaoh’s magic-practicing priests were compelled to acknowledge that what Moses did originated with God. (Ex 4:1-9; 8:16-19) So it was not Moses’ personal ambition to be an orator and writer. Rather, in obedience to God’s command and with the divine credentials of holy spirit, Moses was moved first to speak and then to write down part of the Bible canon.​—Ex 17:14.
+
 ## Exodus 18
 
 ```
 Jethro and Zipporah arrive (1-12)
 Jethro’s advice to appoint judges (13-27)
 ```
+
+### Modest Men Train and Delegate
+
+**18:17, 18, 21, 22, 24, 25** from [workbook August 2020](https://www.jw.org/en/library/jw-meeting-workbook/august-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-August-17-23-2020/Modest-Men-Train-and-Delegate/)
+
+Experienced brothers show modesty, love, and foresight when they train younger ones and then delegate responsibility. How?
+
+- Select those who have potential to take on more responsibility
+- Clearly communicate what is required to complete a task
+- Provide the funds, tools, or help that is needed
+- Follow up on progress, and express trust in the student’s ability
+
+ASK YOURSELF, ‘What responsibilities can I entrust to others?’
 
 ## Exodus 19
 
