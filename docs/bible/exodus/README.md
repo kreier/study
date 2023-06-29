@@ -333,6 +333,12 @@ At Mount Sinai (1-25)
   People sanctified to meet God (14, 15)
 ```
 
+#### Ex 19:5, 6​—Why did ancient Israel lose the opportunity to become “a kingdom of priests”? (it-2 687 ¶1-2)
+
+**The Christian Priesthood.** Jehovah had promised that if Israel kept his covenant they would become to Him “a kingdom of priests and a holy nation.” (Ex 19:6) However, the priesthood of Aaron’s line was to continue only until the coming of the greater priesthood that it foreshadowed. (Heb 8:4, 5) It would endure until the ending of the Law covenant and the inauguration of the new covenant. (Heb 7:11-14; 8:6, 7, 13) The offer was first made exclusively to Israel to become Jehovah’s priests serving in God’s promised Kingdom arrangement; in time this offer was extended to the Gentiles.​—Ac 10:34, 35; 15:14; Ro 10:21.
+
+Only a remnant of the Jews accepted Christ, the nation thereby failing to provide the members of the *real* kingdom of priests and the holy nation. (Ro 11:7, 20) Because of Israel’s unfaithfulness God had forewarned them of this by his prophet Hosea centuries before, saying: “Because the knowledge is what you yourself have rejected, I shall also reject you from serving as a priest to me; and because you keep forgetting the law of your God, I shall forget your sons, even I.” (Ho 4:6) Correspondingly, Jesus told the Jewish leaders: “The kingdom of God will be taken from you and be given to a nation producing its fruits.” (Mt 21:43) Nevertheless, Jesus Christ, being under the Law while on earth, recognized the Aaronic priesthood as being in force, and he directed ones whom he cured of leprosy to go to the priest and make the required offering.​—Mt 8:4; Mr 1:44; Lu 17:14.
+
 ## Exodus 20
 
 ```
@@ -340,6 +346,20 @@ The Ten Commandments (1-17)
 Spectacle causes Israel to fear (18-21)
 Instructions about worship (22-26)
 ```
+
+#### Ex 20:4, 5​—How does Jehovah bring “punishment for the error of fathers” upon future generations? (w04 3/15 27 ¶1)
+
+After reaching an age of responsibility, each individual is judged on the basis of his own conduct and attitude. But when the nation of Israel turned to idolatry, it suffered the consequences of this for generations thereafter. Even the faithful Israelites felt its effects in that the nation’s religious delinquency made staying on a course of integrity difficult for them.
+
+### The Ten Commandments and You
+
+**20:3-17** from [workbook August 2020](https://www.jw.org/en/library/jw-meeting-workbook/august-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-August-24-30-2020/The-Ten-Commandments-and-You/)
+
+Christians are not under the Mosaic Law. (Col 2:13, 14) So, then, what purpose do the Ten Commandments and the rest of the Law serve today?
+
+- They reveal Jehovah’s viewpoint on certain matters
+- They highlight our responsibilities toward Jehovah
+- They define our relationship with our fellowman
 
 ## Exodus 21
 
@@ -349,6 +369,26 @@ Judicial decisions for Israel (1-36)
   On violence done to a fellow man (12-27)
   On animals (28-36)
 ```
+
+#### Ex 21:5, 6​—How do these verses illustrate the benefits of Christian dedication? (w10 1/15 4 ¶4-5)
+
+Christian dedication is a serious matter. It is more than a mere commitment. How, though, does making a dedication benefit us? By way of comparison, let us consider how making a commitment in human relationships brings benefits. One example is friendship. To enjoy the privilege of having a friend, you have to accept the responsibility of being a friend. That involves a commitment​—you feel an obligation to care about your friend. One of the most outstanding friendships described in the Bible is that of David and Jonathan. They even made a covenant of friendship with each other. (Read 1 Samuel 17:57; 18:1, 3.) Although friendships with that level of commitment are rare, most friendships flourish when companions are committed, or feel some obligation, to each other.​—Prov. 17:17; 18:24.
+
+The Law that God gave to Israel describes another relationship in which people benefited by making a commitment. If a slave wanted the security of belonging permanently to a good master, he could enter a permanent and binding agreement with him. The Law states: “If the slave should insistently say, ‘I really love my master, my wife and my sons; I do not want to go out as one set free,’ then his master must bring him near to the true God and must bring him up against the door or the doorpost; and his master must pierce his ear through with an awl, and he must be his slave to time indefinite.”​—Ex. 21:5, 6.
+
+#### Ex 21:14​—How might this verse be explained? (it-1 1143)
+
+The statement at Exodus 21:14 may mean that even a priest was to be executed for murder, or that the act of taking hold of the horns of the altar would not shield any willful murderer.​—Compare 1Ki 2:28-34.
+
+### Reflect Jehovah’s View of Life
+
+**21:20, 22, 23, 28, 29** from [workbook August 2020](https://www.jw.org/en/library/jw-meeting-workbook/august-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-August-31-September-6-2020/Reflect-Jehovahs-View-of-Life/)
+
+Jehovah views life as precious. How can we show that we share his view?
+
+- Cultivate heartfelt love and respect for others.​—Mt 22:39; 1Jo 3:15
+- Show such love by increasing your zeal in the ministry.​—1Co 9:22, 23; 2Pe 3:9
+- Cultivate a proper attitude toward safety.​—Pr 22:3
 
 ## Exodus 22
 
@@ -370,6 +410,29 @@ Judicial decisions for Israel (1-19)
 Angelic guidance for Israel (20-26)
 Land acquisition and boundaries (27-33)
 ```
+
+### Do Not Follow After the Crowd
+
+**23:1-3** from [workbook September 2020](https://www.jw.org/en/library/jw-meeting-workbook/september-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-September-7-13-2020/Do-Not-Follow-After-the-Crowd/)
+
+Jehovah’s warning to witnesses and judges in legal cases not to be swayed by the crowd to give false testimony or render a perverted judgment also applies to other areas of life. Christians are under constant pressure to conform to this world’s ungodly thinking and conduct.​—Ro 12:2.
+
+Why is it unwise to follow after the crowd when
+- hearing unsubstantiated rumors or gossip?
+- choosing clothing, hairstyles, or entertainment?
+- thinking about and dealing with people of a different race, culture, or economic standing?
+
+#### Ex 23:9​—How did Jehovah appeal to the Israelites’ empathy? (w16.10 9 ¶4)
+
+Rather than order the Israelites to respect foreigners, Jehovah appealed to their empathy. (Read Exodus 23:9.) They knew ‘how it felt to be a foreigner.’ Even before they were reduced to slavery, the Hebrews were likely shunned by the Egyptians because of racial pride or religious prejudice. (Gen. 43:32; 46:34; Ex. 1:11-14) The Israelites had experienced a bitter life as foreign residents, but Jehovah expected them to treat the foreigner “like a native” among them.​—Lev. 19:33, 34.
+
+**23:19; 34:26**​—What was the significance of the command not to boil a kid in its mother’s milk? Boiling a kid (the young of a goat or other animal) in its mother’s milk reportedly was a pagan ritual thought to produce rain. Moreover, since the mother’s milk is for nourishing her young, boiling her offspring in it would be an act of cruelty. This law helped to show God’s people that they should be compassionate.
+
+#### Ex 23:20, 21​—What evidence supports the conclusion that the angel mentioned here is Michael? (it-2 393)
+
+The only holy angel other than Gabriel named in the Bible, and the only one called “archangel.” (Jude 9) The first occurrence of the name is in the tenth chapter of Daniel, where Michael is described as “one of the foremost princes”; he came to the aid of a lesser angel who was opposed by “the prince of the royal realm of Persia.” Michael was called “the prince of [Daniel’s] people,” “the great prince who is standing in behalf of the sons of [Daniel’s] people.” (Da 10:13, 20, 21; 12:1) This points to Michael as the angel who led the Israelites through the wilderness. (Ex 23:20, 21, 23; 32:34; 33:2) Lending support to this conclusion is the fact that “Michael the archangel had a difference with the Devil and was disputing about Moses’ body.”​—Jude 9.
+
+**23:20-23**​—*Who was the angel mentioned here, and how was it that Jehovah’s name was “within him”?* Likely, this angel was Jesus in his prehuman form. He was used to guide the Israelites on their way to the Promised Land. (1 Corinthians 10:1-4) Jehovah’s name is “within him” in that Jesus is the principal one who upholds and sanctifies his Father’s name.
 
 ## Exodus 24
 
@@ -450,6 +513,8 @@ Worship of the golden calf (1-35)
   Levites loyal to Jehovah (26-29)
 ```
 
+32:1-8, 25-35​—Why was Aaron not punished for making the golden calf? Aaron was not in heartfelt sympathy with the idolatry. Later, he apparently joined fellow Levites in taking a stand for God and against those who resisted Moses. After the guilty were slain, Moses reminded the people that they had sinned greatly, indicating that others besides Aaron also received Jehovah’s mercy.
+
 ## Exodus 33
 
 ```
@@ -457,6 +522,8 @@ God’s message of reproof (1-6)
 Tent of meeting outside the camp (7-11)
 Moses asks to see Jehovah’s glory (12-23)
 ```
+
+33:11, 20​—How did God speak to Moses “face to face”? This expression denotes intimate two-way conversation. Moses talked with God’s representative and orally received instruction from Jehovah through him. But Moses did not see Jehovah, since ‘no man can see God and yet live.’ In fact, Jehovah did not personally speak to Moses. The Law “was transmitted through angels by the hand of a mediator,” states Galatians 3:19.
 
 ## Exodus 34
 
