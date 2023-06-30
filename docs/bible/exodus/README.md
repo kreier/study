@@ -713,10 +713,30 @@ The golden plate (30, 31)
 Moses inspects the tabernacle (32-43)
 ```
 
+#### Ex 39:34​—What may explain how the Israelites were able to obtain sealskins for the tabernacle? ([it-2 884 ¶3 Sealskin](https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Sealskin/#p5))
+
+If the *taʹchash* of the Bible does designate a kind of seal, then a question may arise as to how it was possible for the Israelites to obtain sealskins. While seals are generally associated with Arctic and Antarctic regions, some seals favor warmer climates. Today a few monk seals still inhabit part of the Mediterranean Sea, as well as other warmer waters. Over the centuries man has greatly reduced the number of seals, and in Bible times these animals may have been abundant in the Mediterranean and in the Red Sea. As late as 1832 an English edition of Calmet’s *Dictionary of the Holy Bible* (p. 139) observed: “On many of the small islands of the Red sea, around the peninsula of Sinai, are found seals.”​—See also *The Tabernacle’s Typical Teaching*, by A. J. Pollock, London, p. 47.
+
+### Moses Carefully Followed Instructions
+
+**39:32, 43; 40:1, 2, 16** from [workbook November 2020](https://www.jw.org/en/library/jw-meeting-workbook/november-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-November-2-8-2020/Moses-Carefully-Followed-Instructions/)
+
+Moses conscientiously followed Jehovah’s detailed instructions for the construction and setting up of the tabernacle. We should likewise listen to any instructions we receive from Jehovah’s organization and obey promptly and wholeheartedly. This is true even if it does not seem important to follow them or we do not understand the reason for the instructions.​—Lu 16:10.
+
+Why should we listen to and carefully follow instructions . . .
+
+- during meetings for field service?
+- regarding preparing for medical emergencies?
+- about disaster preparedness?
+
 ## Exodus 40
 
 ```
 Setting up the tabernacle (1-33)
 Jehovah’s glory fills the tabernacle (34-38)
 ```
+
+#### Ex 40:34​—When the cloud began to cover the tent of meeting, what did this indicate? (w15 7/15 21 ¶1)
+
+When the tabernacle was completed, a cloud “began to cover the tent of meeting, and Jehovah’s glory filled the tabernacle.” (Ex. 40:34) What a clear indication of Jehovah’s approval! How do you think Bezalel and Oholiab felt at that moment? Although their names were not engraved on their handiwork, they must have felt satisfaction in knowing that God’s blessing was on all their efforts. (Prov. 10:22) In the years that followed, it surely warmed their hearts to see that their handiwork continued to be used in Jehovah’s service. When they come back to life in the new world, Bezalel and Oholiab will no doubt be thrilled to learn that the tabernacle was used in true worship for some 500 years!
 
