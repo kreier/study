@@ -11,6 +11,7 @@ The digital documentation of the reading progress was reactivated on June 10th, 
 [Matthew](docs/bible/matthew/) 28/28, [Mark](docs/bible/mark/) 16/16, [Luke](docs/bible/luke/) 24/24, [John](docs/bible/john/) 21/21, [Acts](docs/bible/acts/) 28/28, [Romans](docs/bible/romans/) 16/16, [1 Corinthians](docs/bible/1_corinthians/) 16/16, [2 Corinthians](docs/bible/2_corinthians/) 13/13, [Galatians](docs/bible/galatians/) 6/6, [Ephesians](docs/bible/ephesians/) 6/6, [Philippians](docs/bible/philippians/) 4/4, [Colossians](docs/bible/colossians/) 4/4, [1 Thessalonians](docs/bible/1_thessalonians/) 5/5, [2 Thessalonians](docs/bible/2_thessalonians/) 3/3, [1 Timothy](docs/bible/1_timothy/) 6/6, [2 Timothy](docs/bible/2_timothy/) 4/4, [Titus](docs/bible/titus/) 3/3, [Philemon](docs/bible/philemon/) 1/1, [Hebrews](docs/bible/hebrews/) 13/13, [James](docs/bible/james/) 5/5, [1 Peter](docs/bible/1_peter/) 5/5, [2 Peter](docs/bible/2_peter/) 3/3, [1 John](docs/bible/1_john/) 5/5, [2 John](docs/bible/2_john/) 1/1, [3 John](docs/bible/3_john/) 1/1, [Jude](docs/bible/jude/) 1/1, [Revelation](docs/bible/revelation/) 22/22, 
 
 Summary of compilation: 1189/1189
+
 ## Miracles of Jesus in the Bible
 
 There should be some 30+ miracles. How many to you recall?
@@ -25,8 +26,7 @@ There should be some 30+ miracles. How many to you recall?
 8. Healing a leper
 9. Healing 10 blind men
 10. Walking on water (Matthew 14:24-33)
-11. Healing ëvery sort of diseas and every sort of infirmity." (Matthew 4:23)
+11. Healing "every sort of diseas and every sort of infirmity." (Matthew 4:23)
 12. Feeding 5000
 
-
-last updated: 2023-06-30 10:37:37.447510
+last updated: 2023-06-30 11:31:11.351014

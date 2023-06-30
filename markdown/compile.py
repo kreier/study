@@ -128,8 +128,9 @@ try:
     with open(f'../README.md', 'w') as output:
         output.write(header)
         output.write(summary_readme)
+        output.write("\n")
         output.write(miracles)
-        output.write(f"\n\nlast updated: {datetime.datetime.now()}")
+        output.write(f"\nlast updated: {datetime.datetime.now()}")
 except OSError as e:
     total_output_errors += 1
 

@@ -166,6 +166,19 @@ Fire from Jehovah kills Nadab and Abihu (1-7)
 Regulations for priests regarding drinking and eating (8-20)
 ```
 
+#### Le 10:8-11​—What can we learn from these verses? (w14 11/15 17 ¶18)
+
+To be holy, we must weigh the Scriptures carefully and do what God asks of us. Consider Aaron’s sons Nadab and Abihu, who were executed for offering “unauthorized fire,” perhaps while inebriated. (Lev. 10:1, 2) Note what God then told Aaron. (Read Leviticus 10:8-11.) Does that passage mean that we must not drink anything alcoholic before going to a Christian meeting? Think about these points: We are not under the Law. (Rom. 10:4) In some lands, our fellow believers use alcoholic beverages *in moderation* at meals before attending meetings. Four cups of wine were used at the Passover. When instituting the Memorial, Jesus had his apostles drink wine that represented his blood. (Matt. 26:27) The Bible condemns heavy drinking and drunkenness. (1 Cor. 6:10; 1 Tim. 3:8) And many Christians would feel impelled by their conscience to abstain completely from alcoholic beverages before engaging in any form of sacred service. However, circumstances vary from one country to another, and the important thing is for Christians to “distinguish between the holy thing and the profane” so as to conduct themselves with holiness that pleases God.
+
+### Love for Jehovah Stronger Than Love for Family
+
+** 10:1, 2, 4-7** from [workbook December 2020](https://www.jw.org/en/library/jw-meeting-workbook/december-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-December-7-13-2020/Love-for-Jehovah-Stronger-Than-Love-for-Family/)
+
+*Nadab and Abihu carrying fire holders filled with burning incense.*
+
+Our loyalty to Jehovah can be greatly tested when a loved one is disfellowshipped. Jehovah’s instruction to Aaron provides a clear message to those who must cut off association with a disfellowshipped relative. Our love for Jehovah must be stronger than our love for unfaithful family members.
+
+What blessings can come to those who work along with Jehovah’s instructions regarding disfellowshipped ones?​—1Co 5:11; 2Jo 10, 11
 
 ## Leviticus 11
 
@@ -173,6 +186,9 @@ Regulations for priests regarding drinking and eating (8-20)
 Clean and unclean animals (1-47)
 ```
 
+#### Le 11:8​—Must Christians refuse to eat animals prohibited under the Mosaic Law? (it-1 111 ¶5)
+
+These dietary limitations applied only to those who were under the Mosaic Law, for the statement of Leviticus 11:8 is: “They are unclean for you,” that is, for the Israelites. With the abrogation of the Law on the basis of the sacrificial death of Christ Jesus, the prohibitions were canceled, and once more all humans could consider themselves under the same broad provision announced to Noah following the Deluge.​—Col 2:13-17; Ge 9:3, 4.
 
 ## Leviticus 12
 
@@ -180,6 +196,13 @@ Clean and unclean animals (1-47)
 Purification after childbirth (1-8)
 ```
 
+#### Le 12:2, 5​—Why did childbirth make a woman “unclean”? (w04 5/15 23 ¶2)
+
+The reproductive organs were made to pass on perfect human life. However, because of the inherited effects of sin, imperfect and sinful life was passed on to the offspring. The temporary periods of ‘uncleanness’ associated with childbirth, as well as other matters, such as menstruation and seminal emissions, called this hereditary sinfulness to mind. (Leviticus 15:16-24; Psalm 51:5; Romans 5:12) The required purification regulations would help the Israelites to appreciate the need for a ransom sacrifice to cover mankind’s sinfulness and restore human perfection. Thus the Law became their “tutor leading to Christ.”​—Galatians 3:24.
+
+#### Le 12:3​—Why might Jehovah have required circumcision on the eighth day? (wp18.1 7)
+
+God’s Law stipulated that a male child should be circumcised on the eighth day of life. (Leviticus 12:3) In newborn babies, the blood’s ability to clot is understood to reach normal levels after the first week. In Bible times, before advanced medical treatments were available, waiting for over a week before circumcision was a wise protection.
 
 ## Leviticus 13
 
@@ -188,6 +211,14 @@ Regulations about leprosy (1-46)
 Leprosy on clothing (47-59)
 ```
 
+### Learn From the Laws on Leprosy
+
+**13:4, 5, 45, 46, 52, 57** from [workbook December 2020](https://www.jw.org/en/library/jw-meeting-workbook/december-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-December-14-20-2020/Learn-From-the-Laws-on-Leprosy/)
+
+What can the principles behind the laws on leprosy teach us about protecting our spiritual health?
+
+- Jehovah taught the priests how to identify leprosy quickly. Christian shepherds today are quick to give attention to any who require spiritual assistance.​—Jas 5:14, 15
+- Israelites had to destroy any items infected with leprosy to prevent further contamination. Christians too must be willing to give up even something precious to them rather than allowing it to lead them into sin. (Mt 18:8, 9) This may include such things as habits, associations, or entertainment
 
 ## Leviticus 14
 
@@ -196,6 +227,13 @@ Cleansing from leprosy (1-32)
 Cleansing of infected houses (33-57)
 ```
 
+#### Le 14:14, 17, 25, 28​—What can we learn from the purification procedure for a cleansed leper? (it-1 665 ¶5)
+
+At the installation of the priesthood in Israel, Moses was commanded to take some of the blood of the ram of the installation and put it on the lobe of the right ear of Aaron and of each of his sons, as well as on the right hand and right foot, indicating that what they listened to, the work they did, and the way they walked should be directly affected by what was there taking place. (Le 8:22-24) Similarly, in the case of the cleansed leper, the Law said that the priest was to put some of the blood of the ram offered as a guilt offering, as well as some of the oil offered, on the lobe of the leper’s right ear. (Le 14:14, 17, 25, 28) An arrangement of comparable nature was found in the provision made for the man who wished to continue in slavery to his master to time indefinite. In such case the slave was to be brought to the doorpost, and his master was to pierce his ear through with an awl. This prominent mark, being made on the organ for hearing, evidently represented the slave’s desire to continue in obedient attention to his master.​—Ex 21:5, 6.
+
+#### Le 14:43-45​—What did the law regarding malignant leprosy in a house teach the Israelites about Jehovah? (g 1/06 14, box)
+
+The Bible mentions “the plague of leprosy in a house,” meaning in the building itself. (Leviticus 14:34-48) It has been suggested that this phenomenon, also called “malignant leprosy,” was a form of mildew or mold, but about this there is uncertainty. Whatever the case, God’s Law instructed homeowners to remove infected stones, scrape out the entire inside of the house, and discard all the suspect matter outside the city in “an unclean place.” If the plague returned, the whole house was to be declared unclean, pulled down, and disposed of. Jehovah’s detailed instructions reflected his deep love for his people and for their physical welfare.
 
 ## Leviticus 15
 
@@ -203,6 +241,11 @@ Cleansing of infected houses (33-57)
 Unclean genital discharges (1-33)
 ```
 
+### Pure Worship Requires Cleanness
+
+**15:13-15, 28-31** from [workbook December 2020](https://www.jw.org/en/library/jw-meeting-workbook/december-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-December-21-27-2020/Pure-Worship-Requires-Cleanness/)
+
+To remain in God’s love, we need to be clean on the inside as well as on the outside. This means that we adhere faithfully to Jehovah’s standards of physical, moral, and spiritual cleanness, regardless of how the world around us acts. We refrain from touching anything that our heavenly Father views as unclean.
 
 ## Leviticus 16
 
@@ -210,6 +253,18 @@ Unclean genital discharges (1-33)
 The Day of Atonement (1-34)
 ```
 
+#### Le 16:10​—In what ways did the goat for Azazel picture the sacrifice of Jesus? (it-1 226 ¶3)
+
+As the apostle Paul explained, by Jesus’ offering of his own perfect human life as a sacrifice for the sins of mankind, he accomplished far more than had been achieved by “the blood of bulls and of goats.” (Heb 10:4, 11, 12) He thus served as “the scapegoat,” being the ‘carrier of our sicknesses,’ the one “pierced for our transgression.” (Isa 53:4, 5; Mt 8:17; 1Pe 2:24) He ‘carried away’ the sins of all who exercise faith in the value of his sacrifice. He demonstrated the provision of God to take sinfulness into complete oblivion. In these ways the goat “for Azazel” pictures the sacrifice of Jesus Christ.
+
+### Atonement Day and You
+
+**16:12-15** from [workbook December 2020](https://www.jw.org/en/library/jw-meeting-workbook/december-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-December-28-2020-January-3-2021/Atonement-Day-and-You/)
+
+What can we learn from the use of incense on Atonement Day?
+
+- The acceptable prayers of Jehovah’s faithful servants are like incense. (Ps 141:2) Just as the high priest brought the incense to Jehovah with great respect, we approach Jehovah in prayer with awe and respect
+- The high priest had to burn incense before he could offer up the sacrifices. Similarly, before Jesus could offer up his life as a sacrifice, he had to prepare the way for Jehovah to accept his sacrifice by living a life of integrity and loyalty
 
 ## Leviticus 17
 
@@ -219,6 +274,9 @@ Eating of blood forbidden (10-14)
 Regulations on animals found dead (15, 16)
 ```
 
+#### Le 17:10, 11​—Why do we refuse to accept a blood transfusion? (w14 11/15 10 ¶10)
+
+Jehovah commanded the Israelites not to eat “any sort of blood.” Abstaining from blood—animal or human—is a Christian requirement as well. (Acts 15:28, 29) We shudder at the very thought of having God ‘set his face against us’ and cut us off from his congregation. We love him and want to obey him. Even when confronted with a life-threatening situation, we are determined not to cave in to the pleas and demands of those who do not know Jehovah and who do not care to obey him. Yes, we expect to be ridiculed for abstaining from blood, but we choose to be obedient to God. (Jude 17, 18) What view on this subject will strengthen us to “be firmly resolved” not to eat blood or accept a blood transfusion?—Deut. 12:23.
 
 ## Leviticus 18
 

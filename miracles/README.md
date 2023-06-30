@@ -12,5 +12,5 @@ There should be some 30+ miracles. How many to you recall?
 8. Healing a leper
 9. Healing 10 blind men
 10. Walking on water (Matthew 14:24-33)
-11. Healing ëvery sort of diseas and every sort of infirmity." (Matthew 4:23)
+11. Healing "every sort of diseas and every sort of infirmity." (Matthew 4:23)
 12. Feeding 5000
