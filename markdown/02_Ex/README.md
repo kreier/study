@@ -450,6 +450,32 @@ The table (23-30)
 The lampstand (31-40)
 ```
 
+### The Central Object of the Tabernacle
+
+**25:9, 21, 22** from [workbook September 2020](https://www.jw.org/en/library/jw-meeting-workbook/september-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-September-14-20-2020/The-Central-Object-of-the-Tabernacle/)
+
+The Ark was the most important object of the tabernacle and of the camp of Israel. God’s presence was represented by a cloud between the two cherubs over the propitiatory cover of the Ark. On the annual Day of Atonement, the high priest entered the Most Holy and spattered the blood of a bull and a goat before the cover to atone for Israel’s sins. (Le 16:14, 15) This foreshadowed the entrance of Jesus, the greater High Priest, into the very presence of Jehovah in heaven to present the value of his ransom sacrifice.​—Heb 9:24-26.
+
+Match the following scriptures to the benefits available to us because of the ransom:
+
+**SCRIPTURES**
+- 1Jo 1:8, 9
+- Heb 9:13, 14
+- Ro 6:23
+
+**BENEFITS**
+- hope of living forever
+- forgiveness of sins
+- clean conscience
+
+#### Ex 25:20​—What apparently was the significance of the way the cherubs were positioned on the cover of the Ark? (it-1 432 ¶1)
+
+Representative figures of cherubs were included in the furnishings of the tabernacle set up in the wilderness. Rising above each end of the Ark’s cover were two cherubs of hammered gold. They were facing each other and bowing toward the cover in an attitude of worship. Each had two wings that spread upward and screened over the cover in a guarding and protecting manner. (Ex 25:10-21; 37:7-9) Also, the inner covering of tent cloths for the tabernacle and the curtain dividing the Holy from the Most Holy had embroidered cherub figures.​—Ex 26:1, 31; 36:8, 35.
+
+#### Ex 25:30​—What was the showbread? (it-2 936)
+
+Twelve cakes of bread that were placed on a table in the Holy compartment of the tabernacle or temple and that were replaced with fresh ones each Sabbath. (Ex 35:13; 39:36; 1Ki 7:48; 2Ch 13:11; Ne 10:32, 33) The literal Hebrew designation for the showbread is the “bread of the face.” The word for “face” sometimes denotes “presence” (2Ki 13:23), and so the showbread was in front of Jehovah’s face as an offering before him constantly. (Ex 25:30, ftn) The showbread is also referred to as “layer bread” (2Ch 2:4), “loaves of presentation” (Mr 2:26), and simply “the loaves” (Heb 9:2).
+
 ## Exodus 26
 
 ```
@@ -479,12 +505,38 @@ The turban with the golden plate (36-39)
 Other priestly garments (40-43)
 ```
 
+#### Ex 28:15-21​—Where did the precious stones on the breastpiece of Israel’s high priest possibly come from? (w12 8/1 26 ¶1-3)
+
+After the Israelites left Egypt and entered the wilderness, God gave them orders to make this breastpiece. (Exodus 28:15-21) The breastpiece had stones of ruby, topaz, emerald, turquoise, sapphire, jasper, leshem, agate, amethyst, chrysolite, onyx, and jade. (Fn: It is difficult to identify all these stones according to modern terminology.) Did the Israelites really have access to those types of gems?
+
+In Bible times, people prized precious stones and traded them. The ancient Egyptians, for example, obtained gemstones from as far away as what is now modern-day Iran, Afghanistan, and possibly even India. Egyptian mines produced a number of different precious stones. The Egyptian monarchs had a monopoly on mineral extraction in the territories they controlled. The patriarch Job described how his contemporaries used shafts and underground galleries to search for treasures. Among other items dug from the ground, sapphire and topaz are specifically mentioned by Job.​—Job 28:1-11, 19.
+
+The Exodus account states that the Israelites “stripped the Egyptians” of their valuables when leaving the land. (Exodus 12:35, 36) So it is possible that the Israelites obtained from Egypt the stones used on the high priest’s breastpiece.
+
+#### Ex 28:38​—What were “the holy things”? (it-1 1130 ¶2)
+
+**Animals and Produce.** The firstborn males of cattle, sheep, and goats were counted as holy to Jehovah and were not to be redeemed. They were to be sacrificed, and a portion went to the sanctified priests. (Nu 18:17-19) The firstfruits and the tithe were holy, as were all sacrifices and all gifts sanctified to the service of the sanctuary. (Ex 28:38) All things holy to Jehovah were sacred and could not be considered lightly or used in a common, or profane, way. An example is the law regarding the tithe. If a man set aside the portion to be tithed, say, of his wheat crop, and then he or one of his household unintentionally took some of it for home use, such as cooking, the man was guilty of violating God’s law respecting holy things. The Law required that he make compensation to the sanctuary of an equal amount plus 20 percent, besides offering up a sound ram of the flock as a sacrifice. Thus, great respect was engendered for the holy things belonging to Jehovah.​—Le 5:14-16.
+
+### What Can We Learn From the Priests’ Garments?
+
+**28:30, 36, 42, 43**
+
+The garments worn by Israel’s priests remind us of the importance of seeking Jehovah’s direction, of being holy, and of displaying modesty and dignity.
+
+- How do we seek Jehovah’s direction?
+- What does it mean to be holy?
+- How can we display modesty and dignity?
+
 ## Exodus 29
 
 ```
 Installation of priests (1-37)
 The daily offering (38-46)
 ```
+
+#### Ex 29:10​—What is the significance of the expression “lay their hands on the bull’s head”? (it-1 1029 ¶4)
+
+**Laying On of Hands.** Aside from mere handling, *hands were laid on* a person or object for various purposes. The general meaning of the act, however, was that of a designation, a pointing out of the person or thing as being acknowledged, or recognized, in a certain way. During the ceremony at the installation of the priesthood, Aaron and his sons laid their hands on the head of the bull and the two rams to be sacrificed, thereby acknowledging that these animals were being sacrificed for them for the sake of their becoming priests of Jehovah God. (Ex 29:10, 15, 19; Le 8:14, 18, 22) When appointing Joshua as his successor at God’s command, Moses laid his hand on Joshua, who consequently was “full of the spirit of wisdom” and so was able to lead Israel properly. (De 34:9) Hands were laid on persons when designating them as receivers of a blessing. (Ge 48:14; Mr 10:16) Jesus Christ touched, or laid his hands on, some persons he healed. (Mt 8:3; Mr 6:5; Lu 13:13) The gift of the holy spirit was granted in some instances through the laying on of the hands of the apostles.​—Ac 8:14-20; 19:6.
 
 ## Exodus 30
 
@@ -496,6 +548,22 @@ Special mixture of anointing oil (22-33)
 Holy incense formula (34-38)
 ```
 
+#### Ex 30:31-33​—Why was it a capital offense to make holy anointing oil and to put it on an unauthorized person? (it-1 114 ¶1)
+
+In the Law Jehovah gave to Moses, he prescribed a formula for the anointing oil. It was of a special composition of the choicest ingredients​—myrrh, sweet cinnamon, sweet calamus, cassia, and olive oil. (Ex 30:22-25) It was a capital offense for anyone to compound this mixture and to use it for any common or unauthorized purpose. (Ex 30:31-33) This figuratively demonstrated the importance and sacredness of an appointment to office that had been confirmed by anointing with sacred oil.
+
+### A Contribution to Jehovah
+
+**30:11-16** from [workbook September 2020](https://www.jw.org/en/library/jw-meeting-workbook/september-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-September-28-October-4-2020/A-Contribution-to-Jehovah/)
+
+When the tabernacle was constructed, individuals had the privilege of contributing financially to support Jehovah’s worship, regardless of whether they were rich or poor. How can we make a contribution to Jehovah today? One way is by financially supporting Kingdom Halls, Assembly Halls, remote translation offices, and Bethel complexes, as well as other buildings that are dedicated to the worship of Jehovah.
+
+What do we learn from the following scriptures about making financial contributions to support true worship?
+
+- 1Ch 29:5
+- Mr 12:43, 44
+- 1Co 16:2
+
 ## Exodus 31
 
 ```
@@ -503,6 +571,10 @@ Craftsmen filled with God’s spirit (1-11)
 Sabbath, a sign between God and Israel (12-17)
 The two stone tablets (18)
 ```
+
+#### Ex 31:17​—In what sense has Jehovah rested on the seventh creative day? (w19.12 3 ¶4)
+
+Do the examples set by Jehovah and Jesus in working hard imply that it is not necessary for us to rest? Not at all. Jehovah never gets tired, so he does not need physical rest. The Bible does say that after Jehovah created the heavens and the earth, “he rested and refreshed himself.” (Ex. 31:17) However, that evidently means that Jehovah paused and found satisfaction in what he had made. And although Jesus worked hard while he lived on earth, he still made time to rest and to enjoy meals with his friends.​—Matt. 14:13; Luke 7:34.
 
 ## Exodus 32
 
@@ -513,7 +585,17 @@ Worship of the golden calf (1-35)
   Levites loyal to Jehovah (26-29)
 ```
 
-32:1-8, 25-35​—Why was Aaron not punished for making the golden calf? Aaron was not in heartfelt sympathy with the idolatry. Later, he apparently joined fellow Levites in taking a stand for God and against those who resisted Moses. After the guilty were slain, Moses reminded the people that they had sinned greatly, indicating that others besides Aaron also received Jehovah’s mercy.
+**32:1-8, 25-35**​—Why was Aaron not punished for making the golden calf? Aaron was not in heartfelt sympathy with the idolatry. Later, he apparently joined fellow Levites in taking a stand for God and against those who resisted Moses. After the guilty were slain, Moses reminded the people that they had sinned greatly, indicating that others besides Aaron also received Jehovah’s mercy.
+
+#### Ex 32:32, 33​—How do we know that “once saved, always saved” is a false teaching? (w87 9/1 29)
+
+A person’s being noted with remembrance and approval (having his name “in the book of life”) does not mean that he is guaranteed eternal life, as if this were predestined or unchangeable. Concerning the Israelites, Moses asked Jehovah: “Now if you will pardon their sin,​—and if not, wipe me out, please, from your book that you have written.” God replied: “Whoever has sinned against me, I shall wipe him out of my book.” (Exodus 32:32, 33) Yes, even after God listed someone with approval in his “book,” the individual could become disobedient or abandon his faith. If that developed, God would “blot out his name from the book of life.”​—Revelation 3:5.
+
+### Flee From Idolatry
+
+**32:1, 4-6, 9, 10** from [workbook October 2020](https://www.jw.org/en/library/jw-meeting-workbook/october-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-October-5-11-2020/Flee-From-Idolatry/)
+
+The Israelites’ view of idol worship had apparently been influenced by Egyptian thinking. Today, idolatry can take many forms, some of which could be hard to recognize. Although we might not turn to outright idol worship, we could become idolaters by allowing selfish desires to distract us from worshipping Jehovah whole-souled.
 
 ## Exodus 33
 
@@ -523,7 +605,9 @@ Tent of meeting outside the camp (7-11)
 Moses asks to see Jehovah’s glory (12-23)
 ```
 
-33:11, 20​—How did God speak to Moses “face to face”? This expression denotes intimate two-way conversation. Moses talked with God’s representative and orally received instruction from Jehovah through him. But Moses did not see Jehovah, since ‘no man can see God and yet live.’ In fact, Jehovah did not personally speak to Moses. The Law “was transmitted through angels by the hand of a mediator,” states Galatians 3:19.
+#### Ex 33:11, 20​—How did God speak to Moses “face-to-face”? (w04 3/15 27 ¶5)
+
+This expression denotes intimate two-way conversation. Moses talked with God’s representative and orally received instruction from Jehovah through him. But Moses did not see Jehovah, since ‘no man can see God and yet live.’ In fact, Jehovah did not personally speak to Moses. The Law “was transmitted through angels by the hand of a mediator,” states Galatians 3:19.
 
 ## Exodus 34
 
@@ -534,6 +618,20 @@ Details of the covenant repeated (10-28)
 Moses’ face emits rays (29-35)
 ```
 
+#### Ex 34:23, 24​—Why did Israelite men need faith to attend the three annual festivals? (w98 9/1 20 ¶5)
+
+Three times a year every male Israelite and proselyte in the land was commanded to appear before Jehovah. Realizing that the entire family would benefit spiritually from such occasions, many family heads arranged for their wife and children to accompany them. But who would protect their homes and their fields from enemy attack while the family was away? Jehovah promised: “Nobody will desire your land while you are going up to see the face of Jehovah your God three times in the year.” (Exodus 34:24) It took faith for the Israelites to believe that if they put spiritual interests first, they would not lose out materially. Did Jehovah prove true to his word? He certainly did!
+
+### Jehovah’s Endearing Qualities
+
+**34:5-7** from [workbook October 2020](https://www.jw.org/en/library/jw-meeting-workbook/october-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-October-12-18-2020/Jehovahs-Endearing-Qualities/)
+
+Appreciation for Jehovah’s qualities helped Moses to deal patiently with the Israelites. Similarly, if we deepen our understanding of Jehovah’s qualities, we can deal mercifully with fellow believers.
+
+- **“Merciful and compassionate”:** Jehovah looks after his worshippers with tender love and deep concern, just as parents look after their children
+- **“Slow to anger”:** Jehovah is patient with his servants, putting up with their shortcomings and giving them time to make changes
+- **“Abundant in loyal love”:** Jehovah forges an unfailing bond of loyal love with his people
+
 ## Exodus 35
 
 ```
@@ -541,6 +639,24 @@ Sabbath instructions (1-3)
 Contributions for the tabernacle (4-29)
 Bezalel and Oholiab filled with spirit (30-35)
 ```
+
+#### Ex 35:1-3​—What can we learn from the Sabbath law? (w05 5/15 23 ¶14)
+
+*Give priority to spiritual matters.* The nation of Israel was not to allow caring for physical needs to crowd out attention given to spiritual activities. The Israelites’ lives were not to be devoted solely to mundane pursuits. Jehovah set aside time each week that he designated as sacred, time used exclusively for activity related to worship of the true God. (Exodus 35:1-3; Numbers 15:32-36) Each year, additional time was to be set aside for specified holy conventions. (Leviticus 23:4-44) These would provide opportunities to recount Jehovah’s mighty acts, to be reminded of his ways, and to express gratitude to him for all of his goodness. As the people expressed their devotion to Jehovah, they would grow in godly fear and love and would be helped to walk in his ways. (Deuteronomy 10:12, 13) The wholesome principles embodied in those instructions benefit Jehovah’s servants today.​—Hebrews 10:24, 25.
+
+#### Ex 35:21​—How is the generous spirit of the Israelites an excellent example for us? (w00 11/1 29 ¶1)
+
+Imagine, then, how the Israelites felt. Generations had suffered through bitter slavery and deprivation. Now they were free and had rich material possessions. How would they feel about parting with some of those possessions? They might have felt that they had earned them and had a right to keep them. However, when called upon to contribute financially to support pure worship, they did so​—and not reluctantly or stingily! They did not forget that Jehovah had made it possible for them to have those material things. Thus, they gave abundantly of their silver and gold and livestock. They were “willing-hearted.” Their ‘hearts impelled them.’ ‘Their spirit incited them.’ It truly was “a voluntary offering to Jehovah.”​—Exodus 25:1-9; 35:4-9, 20-29; 36:3-7.
+
+### Equipped to Do Jehovah’s Work
+
+**35:25, 26, 30-35; 36:1, 2** from [workbook October 2020](https://www.jw.org/en/library/jw-meeting-workbook/october-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-October-19-25-2020/Equipped-to-Do-Jehovahs-Work/)
+
+Jehovah’s holy spirit equipped Bezalel and Oholiab to carry out the detailed plans for the tabernacle. Jehovah’s powerful holy spirit is also available to his servants today. How can we benefit from it?
+
+- We must pray for holy spirit to heighten any abilities we have in Jehovah’s service
+- We must diligently feed on God’s inspired Word
+- We should pour our heart into any assignment we are given
 
 ## Exodus 36
 
@@ -558,6 +674,20 @@ The lampstand (17-24)
 The altar of incense (25-29)
 ```
 
+#### Ex 37:1, 10, 25​—Why was acacia wood a fine building material for the tabernacle? (it-1 36)
+
+The acacia has many long thorns extending out from the widely spreading branches. These branches usually interlace with those of the neighboring acacias to form tangled thickets; this fact doubtless explains why the plural form *shit·timʹ* is almost always used in the Bible record. The acacia may grow to heights of 6 to 8 m (20 to 26 ft), but often is bushlike in appearance. It has soft, feathery leaves and is covered with pleasingly fragrant yellow blossoms, producing curved tapering pods as its fruit. The rough, black bark covers a very hard, fine-grained, heavy wood that is immune to insect attack. These characteristics and its availability in the desert made the acacia especially well suited as a building material for the tabernacle and its furnishings. It was employed to construct the ark of the covenant (Ex 25:10; 37:1), the table of showbread (Ex 25:23; 37:10), altars (Ex 27:1; 37:25; 38:1), poles for carrying these items (Ex 25:13, 28; 27:6; 30:5; 37:4, 15, 28; 38:6), pillars for the curtain and screen (Ex 26:32, 37; 36:36), and the panel frames (Ex 26:15; 36:20) and their connecting bars (Ex 26:26; 36:31).
+
+### Tabernacle Altars and Their Role in True Worship
+
+**37:25, 29; 38:1** from [workbook October 2020](https://www.jw.org/en/library/jw-meeting-workbook/october-2020-mwb/Life-and-Ministry-Meeting-Schedule-for-October-26-November-1-2020/Tabernacle-Altars-and-Their-Role-in-True-Worship/)
+
+The tabernacle altars were built according to Jehovah’s instructions and had special significance.
+
+**The incense altar.** - Like the burning of skillfully blended incense, acceptable prayers offered up by Jehovah’s servants are pleasing to him
+
+**The altar of burnt offering.** - Jehovah accepted sacrifices made on the altar of burnt offering. Its location in front of the sanctuary reminds us that faith in the ransom sacrifice of Jesus is necessary for acceptance by God.​—Joh 3:16-18; Heb 10:5-10
+
 ## Exodus 38
 
 ```
@@ -566,6 +696,10 @@ The copper basin (8)
 The courtyard (9-20)
 Inventory of tabernacle materials (21-31)
 ```
+
+#### Ex 38:8​—How did ancient mirrors differ from those commonly used today? (w15 4/1 15 ¶4)
+
+Unlike the glass mirrors of today, mirrors in Bible times were generally made of metal that was highly polished—usually bronze, but possibly also copper, silver, gold, or electrum. The first mention of mirrors in the Bible is in connection with the construction of the tabernacle, Israel’s first center of worship. Women contributed mirrors for the fabrication of a sacred copper basin and its stand. (Exodus 38:8) Presumably, the mirrors would have to be melted down to be used for that purpose.
 
 ## Exodus 39
 
