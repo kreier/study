@@ -25,6 +25,8 @@ West:  Benjamin Ephraim Manasseh   - Gershonites
 East:  Issachar Judah Zebulun      - Aaron
 South: Gad Reuben Simeon           - Kohathites
 
+![camp organisation](01_camp_organisation.jpg)
+
 ## Numbers 2
 
 ```
