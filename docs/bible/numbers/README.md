@@ -27,6 +27,10 @@ South: Gad Reuben Simeon           - Kohathites
 
 ![camp organisation](https://github.com/kreier/study/blob/main/markdown/04_Nu/01_camp_organisation.jpg)
 
+Can I embed this picture directly?
+
+<img src="https://github.com/kreier/study/blob/main/markdown/04_Nu/01_camp_organisation.jpg" width="100%">
+
 ## Numbers 2
 
 ```
