@@ -1,5 +1,7 @@
 # Study
 
+![example workflow](https://github.com/kreier/study/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+
 A compilation and documentation of some highlights from study projects related to the bible.
 
 ## Reading project
