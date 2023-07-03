@@ -10,6 +10,20 @@ The Levites exempted from the army (47-51)
 Orderly arrangement of the camp (52-54)
 ```
 
+#### Nu 1:2, 3​—What was the purpose of national registrations in Israel? (it-2 764)
+
+An enrollment, usually by name and lineage according to tribe and household. It involved more than a simple census or count of heads. The national registrations referred to in the Bible served various purposes, such as taxation, assignments of military service, or (for those Levites included) appointments to duties at the sanctuary.
+
+### Jehovah Organizes His People
+
+- The Israelites camped according to three-tribe divisions (Nu 1:52, 53; w94 12/1 9 ¶4)
+- The Israelite camp may have totaled 3,000,000 or more (Nu 2:32, 33; it-1 397 ¶4)
+- Jehovah wants his people to worship him in an organized way. That was true for the nation of Israel, and it is true for us today.​—1Co 14:33, 40.
+
+North: Naphtali Dan Asher          - Merarites
+West:  Benjamin Ephraim Manasseh   - Gershonites
+East:  Issachar Judah Zebulun      - Aaron
+South: Gad Reuben Simeon           - Kohathites
 
 ## Numbers 2
 
@@ -32,6 +46,19 @@ The Levites chosen to minister (5-39)
 Redemption of the firstborn (40-51)
 ```
 
+### The Service of the Levites
+
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-February-15-21-2021/The-Service-of-the-Levites/)
+
+- Jehovah took the Levites in place of the firstborn males of Israel (Nu 3:11-13; it-2 683 ¶3)
+- The Levites enjoyed precious privileges (Nu 3:25, 26, 31, 36, 37; it-2 241)
+- The Levites cared for their full duties between 30 and 50 years of age (Nu 4:46-48; it-2 241)
+
+The males in Aaron’s family performed priestly duties. The rest of the Levites assisted them. Likewise, in the Christian congregation today, some responsible men care for weighty spiritual concerns, while others care for necessary routine matters.
+
+#### Firstborns numbers and redemption
+
+There were 22,273 firstborn males by name from a month old and up in Israel (Nu 3:43). Yet Levi had only 22,000 males serving as priests. The 273 excess of the Levites (Nu 3:46) have to be bought in redemption. Price: 5 shekel (1 shekel is 20 gerah) per person. 273 x 5 = 1365 shekel. 1 shekel equals 11.4 g. Total weight: 15.5561 kg silver. Worth: 11360 USD (2023/07/03 0.7323 USD per gram)
 
 ## Numbers 4
 
@@ -42,6 +69,9 @@ Service of the Merarites (29-33)
 Summary of the census (34-49)
 ```
 
+#### Nu 4:15​—What is one way to show fear of God? (w06 8/1 23 ¶13)
+
+Experiencing Jehovah’s help during distress deepened David’s fear of God and strengthened his confidence in him. (Psalm 31:22-24) On three notable occasions, however, David’s fear of God lapsed, which led to serious consequences. The first involved his arranging for the ark of Jehovah’s covenant to be transported to Jerusalem on a wagon rather than on the shoulders of the Levites, as God’s Law directed. When Uzzah, who was leading the wagon, grabbed hold of the Ark  to steady it, he died on the spot for his “irreverent act.” Yes, Uzzah sinned seriously, yet ultimately, it was David’s failure to maintain proper respect for God’s Law that brought about that tragic outcome. Fearing God means doing things according to his arrangement.​—2 Samuel 6:2-9; Numbers 4:15; 7:9.
 
 ## Numbers 5
 
@@ -59,6 +89,19 @@ Vow of Naziriteship (1-21)
 Priestly blessing (22-27)
 ```
 
+#### Nu 6:6, 7​—How could Samson touch dead bodies that he had slain and still remain a Nazirite? (w05 1/15 30 ¶2)
+
+Samson, though, was a Nazirite in a different sense. Before Samson’s birth, Jehovah’s angel told his mother: “Look! you will be pregnant, and you will certainly give birth to a son, and no razor should come upon his head, because a Nazirite of God is what the child will become on leaving the belly; and he it is who will take the lead in saving Israel out of the hand of the Philistines.” (Judges 13:5) Samson took no vow of Naziriteship. He was a Nazirite by divine appointment, and his Naziriteship was for life. The restriction against touching a corpse could not apply in his case. If it did and he accidentally touched a dead body, how could he start over a lifelong Naziriteship that began with his birth? Evidently, then, the requirements for lifetime Nazirites differed in some ways from those for voluntary Nazirites.
+
+### How Can You Imitate the Nazirites?
+
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-February-22-28-2021/How-Can-You-Imitate-the-Nazirites/)
+
+- Nazirites practiced self-denial (Nu 6:2-4; it-2 477)
+- Nazirites were submissive to Jehovah’s will (Nu 6:5)
+- Nazirites remained clean before Jehovah (Nu 6:6, 7)
+
+Full-time servants today show a spirit of self-sacrifice and submission to Jehovah and his arrangements.
 
 ## Numbers 7
 

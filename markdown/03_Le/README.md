@@ -290,6 +290,15 @@ Unlawful sexual relations (1-30)
   ‘Stay clean, or the land will vomit you out’ (24-30)
 ```
 
+### Maintain Moral Purity
+
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-January-4-10-2021/Maintain-Moral-Purity/)
+
+- Jehovah expects us to behave differently from people in the world (Le 18:3; w19.06 28 ¶1)
+- Jehovah forbids such sins as incest, homosexuality, and bestiality (Le 18:6, 22, 23; w17.02 20 ¶13)
+- Jehovah will destroy the unclean world around us (Le 18:24, 25; Pr 2:22; w14 7/1 7 ¶2)
+
+Satan does not want us to enter God’s new world. But Jehovah’s principles can protect us from any satanic trap.
 
 ## Leviticus 19
 
@@ -305,6 +314,9 @@ Various laws on holiness (1-37)
   Treatment of foreigners (33, 34)
 ```
 
+#### Le 19:9, 10​—How did God’s Law show consideration for the poor? (w06 6/15 22 ¶11)
+
+A second aspect of the Mosaic Law that reflected God’s concern for his people’s welfare was the right to glean. Jehovah ordered that when an Israelite farmer reaped the fruits of his field, the needy should be allowed to collect what harvest workers left behind. Farmers were not to reap the edges of their fields completely, nor were they to gather the leftover grapes or olives. Sheaves of grain inadvertently left in the fields should not be retrieved. This was a loving arrangement in behalf of the poor, the alien residents, the orphans, and the widows. Granted, gleaning required hard work on their part, yet by means of it, they could avoid having to beg.​—Leviticus 19:9, 10; Deuteronomy 24:19-22; Psalm 37:25.
 
 ## Leviticus 20
 
@@ -316,6 +328,15 @@ Be holy to stay in the land (22-26)
 Spiritists to be put to death (27)
 ```
 
+### Jehovah Sets His People Apart
+
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-January-11-17-2021/Jehovah-Sets-His-People-Apart/)
+
+- We must obey all of Jehovah’s laws (Le 20:22, 23; w04 10/15 11 ¶12)
+- Jehovah promises an inheritance (Le 20:24; it-1 1199)
+- Jehovah expects clean worship from his people (Le 20:25, 26; it-1 317 ¶2)
+
+Jehovah blesses those who maintain a good relationship with him. To preserve his favor, we must remain separate from the world around us and its unclean practices.
 
 ## Leviticus 21
 
@@ -325,6 +346,9 @@ High priest not to defile himself (10-15)
 Priests to have no physical defects (16-24)
 ```
 
+#### Le 21:5​—Why did God’s Law prohibit self-mutilation? (it-1 563)
+
+God’s Law specifically forbade the making of cuttings upon the flesh for the dead. (Le 19:28; 21:5; De 14:1) The reason for this was that Israel was a holy people to Jehovah, a special property. (De 14:2) As such, Israel was to remain free from all idolatrous practices. Then, too, such extreme displays of mourning accompanied by self-inflicted lacerations upon the flesh were most inappropriate for a people who were fully aware of the actual condition of the dead as well as the resurrection hope. (Da 12:13; Heb 11:19) Also, the prohibition against self-mutilation would have impressed upon the Israelites proper respect for God’s creation, the human body.
 
 ## Leviticus 22
 
@@ -333,6 +357,11 @@ Priestly purity and the eating of holy things (1-16)
 Only sound offerings acceptable (17-33)
 ```
 
+#### Le 22:21, 22​—Why must our loyalty and integrity to Jehovah be complete? (w19.02 3 ¶3)
+
+When applied to us as servants of God, integrity means wholehearted love for and unbreakable devotion to Jehovah as a Person, so that his will comes first in all our decisions. Consider some background. One basic meaning of the Bible word for “integrity” is this: complete, sound, or whole. For example, the Israelites offered up animals in sacrifice to Jehovah, and the Law said that the animals had to be sound. * (Lev. 22:21, 22) God’s people were not allowed to offer up an animal that was missing a leg, an ear, or an eye; nor could they offer one full of disease. It was important to Jehovah that the animal be complete, sound, or whole. (Mal. 1:6-9) We can understand why Jehovah cares about soundness or completeness. When we purchase something, whether a piece of fruit, a book, or a tool, we do not want one that has gaping holes or parts missing. We want one that is complete, sound, or whole. Jehovah feels similarly when it comes to our love for him, our loyalty. It must be complete, sound, or whole.
+
+Fn: *The Hebrew word rendered “sound” regarding an animal is related to the word for “integrity” used regarding humans.*
 
 ## Leviticus 23
 
@@ -349,6 +378,15 @@ Holy days and festivals (1-44)
   Festival of Booths (33-43)
 ```
 
+### Seasonal Festivals With Meaning for Us
+
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-January-18-24-2021/Seasonal-Festivals-With-Meaning-for-Us/)
+
+- The Passover and the Festival of Unleavened Bread (Festival of Unfermented Cakes) (Le 23:5, 6; it-1 826-827)
+- The Festival of Weeks (Pentecost) (Le 23:15, 16; it-2 598 ¶2)
+- The Festival of Booths (Le 23:34; w14 5/15 29 ¶11)
+
+We can be “nothing but joyful” as we meditate on the meaning of ancient Jewish festivals and how Jehovah’s promises will be fulfilled.​—De 16:15.
 
 ## Leviticus 24
 
@@ -358,6 +396,9 @@ Loaves of showbread (5-9)
 Abuser of God’s name stoned (10-23)
 ```
 
+#### Le 24:20​—Does God’s Word promote personal revenge? (w09 9/1 22 ¶4)
+
+If an Israelite assaulted a fellow Israelite and put out his eye, the Law allowed for just punishment. However, it was not up to the victim to take punitive action against the assailant or one of his family members. The Law required that he take the matter to the established authorities​—the appointed judges—​for proper disposition. The knowledge that the willful perpetrator of criminal or violent acts against another could be punished in kind served as a powerful deterrent. But there is more to the matter.
 
 ## Leviticus 25
 
@@ -369,6 +410,15 @@ How to treat the poor (35-38)
 Laws on slavery (39-55)
 ```
 
+### The Jubilee Year and Future Liberty
+
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-January-25-31-2021/The-Jubilee-Year-and-Future-Liberty/)
+
+- The Jubilee year helped to prevent endless debt and poverty in Israel (Le 25:10; it-1 871; see cover picture)
+- The sale of land was essentially a lease based on the value of crops the land would produce (Le 25:15; it-1 1200 ¶2)
+- Jehovah blessed his people when they obeyed the law of the Jubilee year (Le 25:18-22; it-2 122-123)
+
+In the near future, faithful humans will enjoy the full benefits of the symbolic Jubilee when they are completely liberated from sin and death.​—Ro 8:21.
 
 ## Leviticus 26
 
@@ -378,6 +428,26 @@ Blessings for obedience (3-13)
 Punishment for disobedience (14-46)
 ```
 
+#### Le 26:16​—In what sense did Jehovah punish Israel with disease? (it-2 617 pestilence)
+
+**Brought by Abandonment of God’s Law.** The nation of Israel was warned that refusal to keep God’s covenant with them would result in his ‘sending pestilence into their midst.’ (Le 26:14-16, 23-25; De 28:15, 21, 22) Throughout the Scriptures, health, either in a physical or in a spiritual sense, is associated with God’s blessing (De 7:12, 15; Ps 103:1-3; Pr 3:1, 2, 7, 8; 4:21, 22; Re 21:1-4), whereas disease is associated with sin and imperfection. (Ex 15:26; De 28:58-61; Isa 53:4, 5; Mt 9:2-6, 12; Joh 5:14) So, while it is true that in certain cases Jehovah God directly and instantaneously brought some affliction on persons, such as the leprosy of Miriam, of Uzziah, and of Gehazi (Nu 12:10; 2Ch 26:16-21; 2Ki 5:25-27), it appears that in many cases the diseases and pestilence that came were the natural and inexorable results of the sinful course followed by persons or nations. They simply reaped what they had sown; their fleshly bodies suffered the effects of their wrong ways. (Ga 6:7, 8) Concerning those who turned to obscene sexual immorality, the apostle says that God “gave them up to uncleanness, that their bodies might be dishonored among them . . . receiving in themselves the full recompense, which was due for their error.”​—Ro 1:24-27.
+
+### How to Receive Jehovah’s Blessing
+
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-February-1-7-2021/How-to-Receive-Jehovahs-Blessing/)
+
+- Reject worthless gods (Le 26:1; w08 4/15 4 ¶8)
+- Worship Jehovah as he directs (Le 26:2; it-1 223 ¶3)
+- Obey his commandments (Le 26:3, 12; w91 3/1 17 ¶10)
+
+Israelites who faithfully tried to keep Jehovah’s laws enjoyed peace with him and many other blessings.
+
+Which of the following do you now enjoy because of Jehovah’s blessing?
+
+- Accurate knowledge of the Bible
+- Peace of mind
+- Happy family life
+- Hope for the future
 
 ## Leviticus 27
 

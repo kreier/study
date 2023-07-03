@@ -5,6 +5,12 @@
 import logging
 import datetime
 import pandas as pd
+import os
+
+# Check execution location, exit if not in /markdown
+if os.getcwd()[-9:] != "\markdown":
+    print("This script must be executed inside the markdown folder.")
+    exit()
 
 logging.basicConfig(level=logging.DEBUG, filename='compile.log', format='%(asctime)s %(levelname)s:%(message)s')
 
@@ -78,11 +84,12 @@ try:
     with open(f'README.md', 'w') as output:
         output.write("# Overview of processed files \n\n")
         output.write(summary_string)
-        output.write(f"\n\nlast updated: {datetime.datetime.now()}")
+        output.write(f"\n\nlast updated: {datetime.datetime.now()}\n")
 except OSError as e:
     total_output_errors += 1
 
-# write README.md to the overview page for https://kreier.github.io/study/docs/
+part1 = part2 = header = miracles = ""
+# write README.md to the overview page for https://kreier.github.io/study/
 # get part 1
 try:
     with open('../docs/part1.md', 'r') as input:
@@ -130,7 +137,7 @@ try:
         output.write(summary_readme)
         output.write("\n")
         output.write(miracles)
-        output.write(f"\nlast updated: {datetime.datetime.now()}")
+        output.write(f"\nlast updated: {datetime.datetime.now()}\n")
 except OSError as e:
     total_output_errors += 1
 
