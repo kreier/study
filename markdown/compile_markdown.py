@@ -149,4 +149,4 @@ except OSError as e:
 # update the root README.md in https://kreier.github.io/study/bible/
 # TBD - provide links all the chapters
 
-logging.debug(f"Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.")
+logging.debug(f"The {total_chapters} chapters contain {total_words} words. Errors import: {total_import_errors}, export: {total_output_errors}.")

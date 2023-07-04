@@ -247,6 +247,10 @@ Rest of the land distributed at Shiloh (1-10)
 Benjamin’s inheritance (11-28)
 ```
 
+#### Jos 18:1-3​—What may have caused the Israelites to delay settling the territory west of the Jordan? (it-1 359 ¶5)
+
+The account of the division of the territory W of the Jordan shows that first the lots for Judah (Jos 15:1-63), Joseph (Ephraim) (Jos 16:1-10), and the half tribe of Manasseh settling W of the Jordan (Jos 17:1-13) were determined, their boundaries and cities being enumerated. After this, there appears to have been an interruption of the dividing of the land, since the camp of Israel is shown to have moved from Gilgal to Shiloh. (Jos 14:6; 18:1) The length of time involved is not stated, but Joshua eventually reprimanded the remaining seven tribes for their dilatory attitude as to settling the rest of the land. (Jos 18:2, 3) Various explanations have been offered as to the cause of this attitude on the part of the seven tribes, some commentators reasoning that the abundance of spoil obtained during the conquest and the relative freedom from any immediate threat of attack by the Canaanites may have caused these tribes to feel no particular urgency about taking possession of the remaining portion of the territory. A reluctance to face up to the problem of dealing with the pockets of strong enemy resistance there may have contributed to this tardiness. (Jos 13:1-7) Also, their knowledge of this portion of the Promised Land may have been considerably more limited than of those sections already allotted.
+
 ## Joshua 19
 
 ```
@@ -258,6 +262,16 @@ Naphtali’s inheritance (32-39)
 Dan’s inheritance (40-48)
 Joshua’s inheritance (49-51)
 ```
+
+### Jehovah’s Wise Way of Dividing the Land
+
+from [workbook November–December 2021](https://www.jw.org/en/library/jw-meeting-workbook/november-december-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-November-1-7-2021/Jehovahs-Wise-Way-of-Dividing-the-Land/)
+
+- Jehovah gave direction by lot, perhaps to designate the approximate location of each tribal inheritance (Jos 18:10; it-1 359 ¶1)
+- Jehovah ensured that Jacob’s deathbed prophecy was fulfilled (Jos 19:1; it-1 1200 ¶1)
+- Jehovah allowed the people to determine the extent of each tribe’s territory (Jos 19:9; it-1 359 ¶2)
+
+The land was divided in a way that prevented jealousy or quarreling between the tribes. What confidence does this give you about how Jehovah will direct matters in the new world?
 
 ## Joshua 20
 
@@ -276,6 +290,10 @@ Cities for the Levites (1-42)
 Jehovah’s promises fulfilled (43-45)
 ```
 
+#### Jos 21:43, 44​—How did these words prove true even though many of the Canaanites survived the major conquest and resisted subjugation by Israel? (it-1 402 ¶3)
+
+Though so many of the Canaanites survived the major conquest and resisted subjugation, it could still be said that “Jehovah gave Israel all the land that he had sworn to give to their forefathers,” that he had given them “rest all around,” and that “not a promise failed out of all the good promise that Jehovah had made to the house of Israel; it all came true.” (Jos 21:43-45) All around the Israelites the enemy peoples were cowed and offered no genuine threat to their security. God had stated earlier that he would drive the Canaanites out “little by little” so that the wild beasts would not multiply in a suddenly desolated land. (Ex 23:29, 30; De 7:22) Despite the superior war equipment of the Canaanites, including war chariots with iron scythes, any failure of the Israelites finally to take certain areas could not be charged to Jehovah’s account as a failure on his part to fulfill his promise. (Jos 17:16-18; Jg 4:13) Rather, the record shows that the Israelites’ few defeats were due to unfaithfulness on their part.​—Nu 14:44, 45; Jos 7:1-12.
+
 ## Joshua 22
 
 ```
@@ -285,12 +303,32 @@ Meaning of the altar explained (13-29)
 Conflict settled (30-34)
 ```
 
+### Lessons From a Misunderstanding
+
+from [workbook November–December 2021](https://www.jw.org/en/library/jw-meeting-workbook/november-december-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-November-8-14-2021/Lessons-From-a-Misunderstanding/)
+
+- The tribes living east of the Jordan built a large, impressive altar (Jos 22:10)
+- The other tribes accused them of unfaithfulness (Jos 22:12, 15, 16; w06 4/15 5 ¶3)
+- The mild response of those wrongfully accused averted bloodshed (Jos 22:21-30; w08 11/15 18 ¶5)
+
+What does this account teach us about how to react if we are wrongfully accused and about the importance of not drawing conclusions when we do not know the facts?​—Pr 15:1; 18:13.
+
 ## Joshua 23
 
 ```
 Joshua’s farewell to Israel’s leaders (1-16)
   None of Jehovah’s words failed (14)
 ```
+
+### Joshua’s Final Admonition to the Nation
+
+from [workbook November–December 2021](https://www.jw.org/en/library/jw-meeting-workbook/november-december-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-November-15-21-2021/Joshuas-Final-Admonition-to-the-Nation/)
+
+- “Be on guard constantly by loving Jehovah” (Jos 23:11)
+- Do not mingle with the nations (Jos 23:12, 13; it-1 75)
+- Trust Jehovah (Jos 23:14; w07 11/1 26 ¶19-20)
+
+How will following Joshua’s inspired advice help us remain faithful to Jehovah?
 
 ## Joshua 24
 
@@ -303,4 +341,8 @@ Joshua’s death and burial (29-31)
 Joseph’s bones buried at Shechem (32)
 Eleazar’s death and burial (33)
 ```
+
+#### Jos 24:2​—Was Abraham’s father, Terah, a worshipper of idols? (w04 12/1 12 ¶1)
+
+Initially, Terah was not a worshiper of Jehovah God. He likely worshiped the moon-god named Sin​—a popular deity in Ur. According to Jewish tradition, Terah might even have been a maker of idols. However, when Abraham leaves Ur at God’s command, Terah goes with him to Haran.​—Genesis 11:31.
 
