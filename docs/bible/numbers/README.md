@@ -423,6 +423,16 @@ Daughters of Zelophehad (1-11)
 Joshua commissioned to succeed Moses (12-23)
 ```
 
+### Imitate Jehovah’s Impartiality
+
+from [workbook May-June 2021](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-May-3-9-2021/Imitate-Jehovahs-Impartiality/)
+
+- Zelophehad’s five daughters sought to preserve the inheritance of their father (Nu 27:1-4; w13 6/15 10 ¶14; see cover picture)
+- Jehovah made an impartial decision (Nu 27:5-7; w13 6/15 11 ¶15)
+- We too must act impartially (Nu 27:8-11; w13 6/15 11 ¶16)
+
+We imitate Jehovah’s impartiality by treating fellow believers with dignity and loyal love and by preaching to people of all backgrounds.
+
 
 ## Numbers 28
 
@@ -435,6 +445,9 @@ Procedures for various offerings (1-31)
   For the Festival of Weeks (26-31)
 ```
 
+#### Nu 28:7, 14​—What were drink offerings? (it-2 528 ¶5)
+
+Drink offerings were presented along with most of the other offerings, especially after the Israelites had settled in the Promised Land. (Nu 15:2, 5, 8-10) This consisted of wine (“intoxicating liquor”) and was poured out on the altar. (Nu 28:7, 14; compare Ex 30:9; Nu 15:10.) The apostle Paul wrote to the Christians at Philippi: “If I am being poured out like a drink offering upon the sacrifice and public service to which faith has led you, I am glad.” Here he used the figure of a drink offering, expressing his willingness to expend himself in behalf of fellow Christians. (Php 2:17) Shortly before his death, he wrote to Timothy: “I am already being poured out like a drink offering, and the due time for my releasing is imminent.”​—2Ti 4:6.
 
 ## Numbers 29
 
@@ -453,6 +466,19 @@ Vows of men (1, 2)
 Vows of women and daughters (3-16)
 ```
 
+#### Nu 30:10-12​—How do we know that Elkanah approved of Hannah’s vow to offer Samuel to Jehovah’s service? (1Sa 1:11; it-2 28 ¶1)
+
+Persons could be devoted to Jehovah’s exclusive service in connection with the sanctuary. It was a right that parents could exercise. Samuel was one such person, promised to tabernacle service by a vow of his mother Hannah before his birth. This vow was approved by her husband Elkanah. As soon as Samuel was weaned, Hannah offered him at the sanctuary. Along with him, Hannah brought an animal sacrifice. (1Sa 1:11, 22-28; 2:11) Samson was another child specially devoted to God’s service as a Nazirite.​—Jg 13:2-5, 11-14; compare the father’s authority over a daughter as outlined in Nu 30:3-5, 16.
+
+### Pay Your Vows
+
+from [workbook May-June 2021](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-May-10-16-2021/Pay-Your-Vows/)
+
+- Israelite vows were voluntary but binding (Nu 30:2; it-2 1162)
+- Vows may include abstaining from things not prohibited (Nu 30:3, 4; it-2 1162)
+- Jehovah now deals with his worshippers individually (Nu 30:6-9; w04 8/1 27 ¶3)
+
+The two most important vows a Christian can make today are the dedication vow and the marriage vow.
 
 ## Numbers 31
 
@@ -469,6 +495,19 @@ Instruction for spoils of war (13-54)
 Settlements east of the Jordan (1-42)
 ```
 
+#### Nu 33:54​—How was land distributed to the tribes of Israel? (it-1 359 ¶2)
+
+After the casting of the lot had determined the geographic location of a tribe, it would then be necessary to determine the extent of its territory on the basis of the second factor: its proportionate size. “You must apportion the land to yourselves as a possession by lot according to your families. To the populous one you should increase his inheritance, and to the sparse one you should reduce his inheritance. To where the lot will come out for him, there it will become his.” (Nu 33:54) The decision of the lot as to the basic geographic location would stand, but adjustment could be made as to the size of the inheritance. Thus, when Judah’s territory was found to be too large, its land area was reduced by assigning portions of it to the tribe of Simeon.​—Jos 19:9.
+
+### “Drive Away All the Inhabitants of the Land”
+
+from [workbook May-June 2021](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-May-17-23-2021/Drive-Away-All-the-Inhabitants-of-the-Land/)
+
+- Jehovah commanded his people to eliminate from the Promised Land anything that could stumble them (Nu 33:52; w10 8/1 23)
+- Jehovah would bless their determined efforts to take complete control of the land (Nu 33:53)
+- Problems would result if the Israelites did not completely conquer their enemies (Nu 33:55, 56; w08 2/15 27 ¶5-6; it-1 404 ¶2)
+
+To please Jehovah, we must eliminate from our life all morally and spiritually defiling practices. (Jas 1:21) Jehovah gives us the strength to combat sinful tendencies and resist the contaminating influences of this world.
 
 ## Numbers 33
 
@@ -493,6 +532,19 @@ Cities for the Levites (1-8)
 Cities of refuge (9-34)
 ```
 
+#### Nu 35:31​—Why will Adam and Eve not benefit from the ransom sacrifice of Jesus? (w91 2/15 13 ¶13)
+
+Neither Adam nor Eve, however, benefit from the ransom. The Mosaic Law contained this principle: “You must take no ransom for the soul of a murderer who is deserving to die.” (Numbers 35:31) Adam was not deceived, so his sin was willful, deliberate. (1 Timothy 2:14) It amounted to the murder of his offspring, for they now inherited his imperfection, thus coming under sentence of death. Clearly, Adam deserved to die, for as a perfect man, he had willfully chosen to disobey God’s law. It would have been contrary to Jehovah’s righteous principles for him to apply the ransom in Adam’s behalf. Paying the wage for Adam’s sin, however, does provide for the nullifying of the death sentence upon Adam’s offspring! (Romans 5:16) In a legal sense, the destructive power of sin is cut off right at its source. The ransomer ‘tastes death for every man,’ bearing the consequences of sin for all of Adam’s children.​—Hebrews 2:9; 2 Corinthians 5:21; 1 Peter 2:24.
+
+### Take Refuge in Jehovah
+
+from [workbook May-June 2021](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-May-24-30-2021/Take-Refuge-in-Jehovah/)
+
+- Six cities of refuge were provided in Israel for unintentional manslayers (Nu 35:15; w17.11 9 ¶4)
+- The elders in Israel judged each case (Nu 35:24; w17.11 9 ¶6)
+- The cities of refuge provided safety and security (Nu 35:25; w17.11 11 ¶13)
+
+Just as the unintentional manslayer had to make sacrifices in order to enjoy the protection of the cities of refuge, we make sacrifices in order to benefit from God’s mercy and forgiveness.
 
 ## Numbers 36
 

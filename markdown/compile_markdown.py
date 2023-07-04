@@ -11,7 +11,7 @@ import pandas as pd
 import os
 
 # Check execution location, exit if not in /markdown
-if os.getcwd()[-9:] != "\markdown":
+if os.getcwd()[-8:] != "markdown":
     print("This script must be executed inside the markdown folder.")
     exit()
 

@@ -1,22 +1,20 @@
 # Read the content of all 66 book files and compile one large markdown file in 
 # the /docs folder for https://kreier.github.io/study/bible
 
-import logging
 import datetime
 import pandas as pd
 import os
+from md2pdf.core import md2pdf
 
 # Check execution location, exit if not in /markdown
-if os.getcwd()[-9:] != "\markdown":
+if os.getcwd()[-8:] != "markdown":
     print("This script must be executed inside the markdown folder.")
     exit()
 
-logging.basicConfig(level=logging.DEBUG, filename='compile.log', format='%(asctime)s %(levelname)s:%(message)s')
+logging.basicConfig(level=logging.DEBUG, filename='../docs/compile.log', format='%(asctime)s %(levelname)s:%(message)s')
 
 # Import the book and chapter description data as pandas dataframe
 books = pd.read_csv("https://raw.githubusercontent.com/kreier/study/main/markdown/chapters.csv")
-# print(books.info())
-
 
 # Process bible books one by one
 summary_string = ""
@@ -29,40 +27,8 @@ total_output_errors = 0
 
 for index, row in books.iterrows():
     processed_chapters = 0
-    text_markdown = ""  
-    for chapter in range(row.chapters + 1):
-        filename = f'{row.folder}/{chapter:02d}.md'
-        try:
-            with open(filename, 'r', encoding="utf8") as input:
-                file_data = input.read()
-                words = file_data.split(" ")
-                num_words = len(words)
-                # logging.debug(f"{filename} has {num_words} words")
-                text_markdown += file_data
-                if chapter > 0:
-                    processed_chapters += 1
-                    total_words += num_words
-                    total_chapters += 1
-                print(filename, end=' ')
-            text_markdown += '\n'
-        except OSError as e:
-            total_import_errors += 1
-            # logging.error(f"error reading {filename}")
-
-    # write README.md directly into the folder with the highlights
-    try:
-        with open(f'{row.folder}/README.md', 'w', encoding="utf8") as output:    
-            output.write(text_markdown)
-    except OSError as e:
-        total_output_errors += 1
-
-    # write README.md to the respective folder https://kreier.github.io/study/bible/$book$
-    try:
-        with open(f'../docs/bible/{row.html_folder}/README.md', 'w', encoding="utf8") as output:    
-            output.write(text_markdown)
-    except OSError as e:
-        total_output_errors += 1
-        # print(f"{row.html_folder}")
+    text_markdown = "" 
+    print(f"Processing the {index}. book: {row.book}")
 
     # update the strings for each book of the bible
     summary_string += f"[{row.book}]({row.folder}/) {processed_chapters}/{row.chapters}, "
@@ -78,64 +44,13 @@ summary_string += summary_compilation
 summary_html += summary_compilation
 summary_readme += summary_compilation
 
-# write README.md to folder https://kreier.github.io/study/markdown/
+# write compiled_markdown_aio.md
 try:
-    with open(f'README.md', 'w') as output:
-        output.write("# Overview of processed files \n\n")
-        output.write(summary_string)
-        output.write(f"\n\nlast updated: {datetime.datetime.now()}\n")
-except OSError as e:
-    total_output_errors += 1
-
-part1 = part2 = header = miracles = ""
-# write README.md to the overview page for https://kreier.github.io/study/
-# get part 1
-try:
-    with open('../docs/part1.md', 'r') as input:
-        part1 = input.read()
-except OSError as e:
-    total_import_errors += 1
-
-# get part 2
-try:
-    with open('../docs/part2.md', 'r') as input:
-        part2 = input.read()
-except OSError as e:
-    total_import_errors += 1
-
-# write README.md
-try:
-    with open(f'../docs/README.md', 'w') as output:
+    with open(f'../docs/compiled_markdown_aio.md', 'w') as output:
         output.write(f"<!-- generated {datetime.datetime.now()} -->\n")
-        output.write(part1)
         output.write(summary_html)
-        output.write(part2)
 except OSError as e:
     total_output_errors += 1
 
 
-# write README.md in the root folder of the repository https://kreier.github.io/study/
-# get header
-try:
-    with open('../markdown/header.md', 'r') as input:
-        header = input.read()
-except OSError as e:
-    total_import_errors += 1
-
-# get miracles
-try:
-    with open('../miracles/README.md', 'r') as input:
-        miracles = input.read()
-except OSError as e:
-    total_import_errors += 1
-
-# write README.md
-try:
-    with open(f'../README.md', 'w') as output:
-        output.write(header)
-        output.write(summary_readme)
-        output.write("\n")
-        output.write(miracles)
-        output.write(f"\nlast updated: {datetime.datetime.now()}\n")
-except OSError as e:
-    total_output_errors += 1
+logging.debug(f"Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.")
