@@ -1,8 +1,5 @@
-# Read the content of all 1189 chapter files from the 66 books and compile the 
-# respective 66 summary README.md in the folders. Then copy a conversion to the 
-# /docs folder for https://kreier.github.io/study/bible
-# v0.1 creates 66 README.md files in /markdown/$book$/ and /docs/bible/$book$/
-# v0.2 creates summary files /markdown /docs and /
+# Read the content of all 66 book files and compile one large markdown file in 
+# the /docs folder for https://kreier.github.io/study/bible
 
 import logging
 import datetime
@@ -142,9 +139,3 @@ try:
         output.write(f"\nlast updated: {datetime.datetime.now()}\n")
 except OSError as e:
     total_output_errors += 1
-
-
-# update the root README.md in https://kreier.github.io/study/bible/
-# TBD - provide links all the chapters
-
-logging.debug(f"Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.")

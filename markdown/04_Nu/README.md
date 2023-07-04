@@ -16,6 +16,9 @@ An enrollment, usually by name and lineage according to tribe and household. It 
 
 ### Jehovah Organizes His People
 
+from [workbook January-February 2021](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-February-8-14-2021/Jehovah-Organizes-His-People/)
+
+
 - The Israelites camped according to three-tribe divisions (Nu 1:52, 53; w94 12/1 9 ¶4)
 - The Israelite camp may have totaled 3,000,000 or more (Nu 2:32, 33; it-1 397 ¶4)
 - Jehovah wants his people to worship him in an organized way. That was true for the nation of Israel, and it is true for us today.​—1Co 14:33, 40.

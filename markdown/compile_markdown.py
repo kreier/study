@@ -3,6 +3,7 @@
 # /docs folder for https://kreier.github.io/study/bible
 # v0.1 creates 66 README.md files in /markdown/$book$/ and /docs/bible/$book$/
 # v0.2 creates summary files /markdown /docs and /
+# v0.3 removed chapter counter since its no longer useful
 
 import logging
 import datetime
@@ -68,9 +69,10 @@ for index, row in books.iterrows():
         # print(f"{row.html_folder}")
 
     # update the strings for each book of the bible
-    summary_string += f"[{row.book}]({row.folder}/) {processed_chapters}/{row.chapters}, "
-    summary_html += f"[{row.book}](bible/{row.html_folder}/) {processed_chapters}/{row.chapters}, "
-    summary_readme += f"[{row.book}](docs/bible/{row.html_folder}/) {processed_chapters}/{row.chapters}, "
+    # v0.2 had the part {processed_chapters}/{row.chapters} appended
+    summary_string += f"[{row.book}]({row.folder}/), "
+    summary_html += f"[{row.book}](bible/{row.html_folder}/), "
+    summary_readme += f"[{row.book}](docs/bible/{row.html_folder}/), "
     if index == 38:
         summary_html += "\n\n"
         summary_string += "\n\n"
