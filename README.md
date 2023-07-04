@@ -1,5 +1,7 @@
 # Study
 
+![example workflow](https://github.com/kreier/study/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+
 A compilation and documentation of some highlights from study projects related to the bible.
 
 ## Reading project
@@ -29,4 +31,4 @@ There should be some 30+ miracles. How many to you recall?
 11. Healing "every sort of diseas and every sort of infirmity." (Matthew 4:23)
 12. Feeding 5000
 
-last updated: 2023-07-03 20:36:17.737623
+last updated: 2023-07-04 08:23:22.499256
