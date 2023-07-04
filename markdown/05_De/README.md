@@ -516,6 +516,16 @@ Moses blesses the tribes (1-29)
 
 **33:1-29​**—Why was Simeon not specifically mentioned in the blessing with which Moses blessed the sons of Israel? This was because Simeon as well as Levi had acted “harshly,” and their anger was “cruel.” (Genesis 34:13-31; 49:5-7) Their inheritance was not quite the same as that of the other tribes. Levi received 48 cities, and Simeon’s portion was within Judah’s territory. (Joshua 19:9; 21:41, 42) Hence, Moses did not specifically bless Simeon. However, Simeon’s blessing was included in the general blessing to Israel.
 
+### Seek Refuge in Jehovah’s “Everlasting Arms”
+
+from [workbook September–October 2021](https://www.jw.org/en/library/jw-meeting-workbook/september-october-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-September-6-12-2021/Seek-Refuge-in-Jehovahs-Everlasting-Arms/)
+
+- Jehovah wants us to remain morally upright (De 33:26; it-2 51)
+- Jehovah willingly uses his strength in our behalf (De 33:27; rr 120, box)
+- We should trust in Jehovah’s salvation as Moses did (De 33:29; w11 9/15 19 ¶16)
+
+Jehovah’s everlasting arms support us during various trials. This includes when we are sick or depressed, face grief, or make mistakes but repent.
+
 ## Deuteronomy 34
 
 ```
@@ -523,4 +533,7 @@ Jehovah shows Moses the land (1-4)
 Death of Moses (5-12)
 ```
 
+#### De 34:6​—For what possible reason did Jehovah not reveal Moses’ burial place? (it-2 439 ¶3)
+
+Moses was 120 years of age at the time of his death. Testifying to his natural strength, the Bible comments: “His eye had not grown dim, and his vital strength had not fled.” He was buried by Jehovah in a location never since discovered. (De 34:5-7) Likely, this was to prevent the Israelites from being ensnared into false worship by making a shrine of his grave. Evidently the Devil desired to use Moses’ body for some such purpose, for Jude, the Christian disciple and half brother of Jesus Christ, writes: “When Michael the archangel had a difference with the Devil and was disputing about Moses’ body, he did not dare to bring a judgment against him in abusive terms, but said: ‘May Jehovah rebuke you.’” (Jude 9) Before crossing over into Canaan under the leadership of Joshua, Israel observed a 30-day mourning period for Moses.​—De 34:8.
 
