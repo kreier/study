@@ -1,6 +1,7 @@
 # Read the content of all 66 book files and compile one large markdown file in 
 # the /docs folder for https://kreier.github.io/study/bible
 
+import logging
 import datetime
 import pandas as pd
 import os
@@ -11,7 +12,7 @@ if os.getcwd()[-8:] != "markdown":
     print("This script must be executed inside the markdown folder.")
     exit()
 
-logging.basicConfig(level=logging.DEBUG, filename='../docs/compile.log', format='%(asctime)s %(levelname)s:%(message)s')
+logging.basicConfig(level=logging.DEBUG, filename='../docs/compile_pdf.log', format='%(asctime)s %(levelname)s:%(message)s')
 
 # Import the book and chapter description data as pandas dataframe
 books = pd.read_csv("https://raw.githubusercontent.com/kreier/study/main/markdown/chapters.csv")
@@ -25,10 +26,12 @@ total_chapters = 0
 total_import_errors = 0
 total_output_errors = 0
 
+print("Books processed: ")
+
 for index, row in books.iterrows():
     processed_chapters = 0
     text_markdown = "" 
-    print(f"Processing the {index}. book: {row.book}")
+    print(f"{index+1}, ", end="")
 
     # update the strings for each book of the bible
     summary_string += f"[{row.book}]({row.folder}/) {processed_chapters}/{row.chapters}, "
@@ -52,5 +55,4 @@ try:
 except OSError as e:
     total_output_errors += 1
 
-
-logging.debug(f"Processed {total_chapters} chapters. That's {total_chapters / 1189 * 100:.1f} Percent. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.")
+logging.debug(f"Processed 66 books. They contain {total_words} words. {total_import_errors} import errors. {total_output_errors} output errors.")

@@ -176,6 +176,9 @@ God’s words to be impressed on hearts (18-25)
 “A blessing and a curse” (26-32)
 ```
 
+#### De 11:29​—How, apparently, was this verse fulfilled? (it-1 925-926)
+
+In harmony with instructions given by Moses, the tribes of Israel assembled at Mounts Gerizim and Ebal under Joshua’s direction shortly after their conquest of Ai. There the people heard the reading of the blessings they would receive if they obeyed Jehovah and the maledictions that awaited them if they disobeyed him. The tribes of Simeon, Levi, Judah, Issachar, Joseph, and Benjamin stood in front of Mount Gerizim. The Levites and the ark of the covenant were situated in the valley, and the other six tribes stood in front of Mount Ebal. (De 11:29, 30; 27:11-13; Jos 8:28-35) Apparently, the tribes stationed in front of Mount Gerizim responded to the blessings read in their direction, whereas the other tribes responded to the curses read in the direction of Mount Ebal. While it has been suggested that the blessings were read toward Mount Gerizim because of its greater beauty and fertility in contrast with rocky, largely barren Mount Ebal, the Bible does not furnish any information on this matter. The Law was read aloud “in front of  all the congregation of Israel, together with the women and the little ones and the alien residents who walked in their midst.” (Jos 8:35) This vast throng could hear the words from positions in front of either mountain. This was probably due, at least in part, to the excellent acoustics of the area.​—See EBAL, MOUNT.
 
 ## Deuteronomy 12
 
@@ -185,6 +188,15 @@ Allowed to eat meat but not blood (15-28)
 Do not be entrapped by other gods (29-32)
 ```
 
+### How Jehovah Wants to Be Worshipped
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-July-5-11-2021/How-Jehovah-Wants-to-Be-Worshipped/)
+
+- The Israelites were to obey, love, and serve Jehovah with all their heart and soul (De 11:13; it-2 1007 ¶4)
+- Remnants of false worship were to be completely destroyed (De 12:2, 3)
+- Everyone was to worship in one place (De 12:11-14; it-1 84 ¶3)
+
+Jehovah wants his people to worship him whole-souled, to reject all false worship, and to be united.
 
 ## Deuteronomy 13
 
@@ -201,6 +213,17 @@ Clean and unclean foods (3-21)
 A tenth for Jehovah (22-29)
 ```
 
+#### De 14:21​—What can we learn from the prohibition in the Law not to boil a young goat in its mother’s milk? ([w06 4/1 31 Questions From Readers](https://www.jw.org/en/library/magazines/w20060401/Questions-From-Readers/))
+
+This directive of the Mosaic Law, which appears three times in the Bible, can help us appreciate Jehovah’s sense of propriety, his compassion, and his tenderness. It also highlights his abhorrence of false worship.​—Exodus 34:26; Deuteronomy 14:21.
+
+To boil a young goat or other animal in its mother’s milk would be contrary to Jehovah’s natural arrangement of things. God provided the mother’s milk to nourish the kid and help it grow. Cooking the kid in the milk of its own mother would, in the words of one scholar, display “a contempt of the relation which God has established and sanctified between parent and young.”
+
+Further, some suggest that boiling a kid in its mother’s milk may have been a pagan ritual performed to produce rain. If that was the case, the prohibition would have served to protect the Israelites from the senseless and heartless religious practices of the nations surrounding them. The Mosaic Law specifically forbade the Israelites to walk in the statutes of those nations.​—Leviticus 20:23.
+
+Finally, we see in this particular law Jehovah’s tender compassion. Actually, the Law contained a number of similar injunctions against cruelty to animals and safeguards against working contrary to the natural order of things. For instance, the Law included commands that prohibited sacrificing an animal unless it had been with its mother for at least seven days, slaughtering both an animal and its offspring on the same day, and taking from a nest both a mother and her eggs or offspring.​—Leviticus 22:27, 28; Deuteronomy 22:6, 7.
+
+Clearly, the Law was not just a complex set of commands and prohibitions. Among other things, its principles help instill in us an elevated moral sensibility that truly reflects Jehovah’s marvelous qualities.​—Psalm 19:7-11.
 
 ## Deuteronomy 15
 
@@ -212,6 +235,15 @@ Release of slaves every seventh year (12-18)
 Firstborn animals sanctified (19-23)
 ```
 
+### How the Law Demonstrated Jehovah’s Concern for the Poor
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-July-12-18-2021/How-the-Law-Demonstrated-Jehovahs-Concern-for-the-Poor/)
+
+- The poor and those who had no inheritance received help from the nation of Israel (De 14:28, 29; it-2 1110 ¶3)
+- During the Sabbath year, Israelites who owed money were granted “a release” from their debt (De 15:1-3; it-2 833)
+- In the seventh year of his servitude, an Israelite who had sold himself into slavery was set free and given a gift by his master (De 15:12-14; it-2 978 ¶6)
+
+**ASK YOURSELF**, ‘In what practical ways can I show concern for Christians in need?’
 
 ## Deuteronomy 16
 
@@ -223,6 +255,15 @@ Appointing judges (18-20)
 Forbidden objects of worship (21, 22)
 ```
 
+### Principles for Judging Righteously
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-July-19-25-2021/Principles-for-Judging-Righteously/)
+
+- Be impartial (De 16:18, 19; it-1 343 ¶5)
+- Establish the facts (De 17:4-6; it-2 511 ¶7)
+- Get help for difficult cases (De 17:8, 9; it-2 685 ¶6)
+
+Elders must be careful to follow these principles when rendering judgment in the congregation.
 
 ## Deuteronomy 17
 
@@ -234,6 +275,9 @@ Guidelines for a future king (14-20)
   King to write a copy of the Law (18)
 ```
 
+#### De 17:7​—Why did the Law require that the witnesses to a wrongdoing be the first to stone the guilty one? (it-1 787)
+
+Under the Law, for the penalty of cutting off to be carried out, evidence had to be established at the mouth of at least two witnesses. (De 19:15) These witnesses were required to be the first to stone the guilty one. (De 17:7) This would demonstrate their zeal for God’s law and the purity of the congregation of Israel and would also be a deterrent to false, careless, or hasty testimony.
 
 ## Deuteronomy 18
 
@@ -254,6 +298,15 @@ Witnesses in court (15-21)
   Two or three witnesses required (15)
 ```
 
+### Human Life Is Precious to Jehovah
+
+from [workbook July–August 2021]()
+
+- Cities of refuge were easy to access (De 19:2, 3; w17.11 14 ¶4)
+- Cities of refuge helped to protect the Israelites from bloodguilt (De 19:10; w17.11 15 ¶9)
+- Hating our brother can lead to bloodguilt (De 19:11-13; it-1 344)
+
+**ASK YOURSELF**, ‘What are some ways to demonstrate that I have Jehovah’s viewpoint of life?’
 
 ## Deuteronomy 20
 
@@ -273,6 +326,9 @@ A stubborn son (18-21)
 A man hung on a stake accursed (22, 23)
 ```
 
+#### De 21:19​—Why was the local court situated at the gate of a city? (it-1 518 ¶1)
+
+The local court was situated at the gate of a city. (De 16:18; 21:19; 22:15, 24; 25:7; Ru 4:1) By “gate” is meant the open space inside the city near the gate. The gates were places where the Law was read to the congregated people and where ordinances were proclaimed. (Ne 8:1-3) At the gate it was easy to acquire witnesses to a civil matter, such as property sales, and so forth, as most persons would go in and out of the gate during the day. Also, the publicity that would be afforded any trial at the gate would tend to influence the judges toward care and justice in the trial proceedings and in their decisions. Evidently there was a place provided near the gate where the judges could comfortably preside. (Job 29:7) Samuel traveled in a circuit of Bethel, Gilgal, and Mizpah and “judged Israel at all these places,” as well as at Ramah, where his house was located.​—1Sa 7:16, 17.
 
 ## Deuteronomy 22
 
@@ -286,6 +342,15 @@ Tassels on clothing (12)
 Laws on sexual violations (13-30)
 ```
 
+### How the Law Demonstrated Jehovah’s Concern for Animals
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-August-2-8-2021/How-the-Law-Demonstrated-Jehovahs-Concern-for-Animals/)
+
+- An animal in distress was not to be ignored (De 22:4; it-1 375-376)
+- A mother bird was not to be treated cruelly (De 22:6, 7; it-1 621 ¶1)
+- Animals of different types were not to be yoked together (De 22:10; w03 10/15 32 ¶1-2)
+
+The way we treat animals is important to Jehovah. We must not be cruel to animals or kill them just for sport.​—Pr 12:10.
 
 ## Deuteronomy 23
 
@@ -298,6 +363,9 @@ Interest and vows (19-23)
 What passersby are allowed to eat (24, 25)
 ```
 
+#### De 23:19, 20​—Why could interest be charged on a loan to a foreigner but not on a loan to a fellow Israelite? (it-1 600)
+
+**Debt, Debtor** A debt refers to that which is owed, an obligation to pay or render something. In ancient Israel, debts were incurred primarily because of financial reverses. For an Israelite to become a debtor was a misfortune; the borrower, in effect, became the lender’s servant. (Pr 22:7) God’s people were therefore commanded to be generous and unselfish in lending to needy fellow Israelites, not seeking to profit from their adversity by charging them interest. (Ex 22:25; De 15:7, 8; Ps 37:26; 112:5) But foreigners could be required to pay interest. (De 23:20) Jewish commentators understand this provision to apply to business loans, not to cases of need. Ordinarily foreigners were in Israel only temporarily, often as merchants, and could reasonably be expected to pay interest, especially since they would also be lending to others on interest.
 
 ## Deuteronomy 24
 
@@ -308,6 +376,19 @@ Showing concern for the poor (10-18)
 Rules on gleaning (19-22)
 ```
 
+#### De 24:1​—Why should we not conclude that the Mosaic Law made it easy for a man to divorce his wife? (it-1 640 ¶5)
+
+**Certificate of Divorce.** It should not be concluded from the later abuses that the original Mosaic divorce concession made it easy for an Israelite husband to divorce his wife. In order to do so, he had to take formal steps. It was necessary to write a document, to “write out a certificate of divorce for her.” The divorcing husband had to “put it in her hand and dismiss her from his house.” (De 24:1) While the Scriptures do not provide additional details on this procedure, this legal step apparently involved consultation with duly authorized men, who might first endeavor to effect a reconciliation. The time involved in preparing the certificate and legally implementing the divorce would afford the divorcing husband opportunity to reconsider his decision. There would have to be a basis for the divorce, and when the regulation was properly applied, this would logically serve as a deterrent to rash action in obtaining divorces. Then, too, the wife’s rights and interests were thus protected. The Scriptures do not disclose the contents of the “certificate of divorce.”
+
+### How the Law Demonstrated Jehovah’s Concern for Women
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-August-9-15-2021/How-the-Law-Demonstrated-Jehovahs-Concern-for-Women/)
+
+- Brides did not lose their husbands to the army during their first year of marriage (De 24:5; it-2 1196 ¶4)
+- Widows were cared for materially (De 24:19-21; it-1 963 ¶2)
+- Childless widows were given the opportunity to have children (De 25:5, 6; w11 3/1 23)
+
+**ASK YOURSELF,** ‘How can I show consideration and respect for women in my family and congregation?’
 
 ## Deuteronomy 25
 
@@ -338,6 +419,9 @@ At Mount Ebal and Mount Gerizim (11-14)
 The curses recited (15-26)
 ```
 
+#### De 27:17​—Why did Jehovah’s Law prohibit moving a neighbor’s boundary marker? (it-1 360)
+
+Jehovah’s law prohibited the moving back of boundary marks. (De 19:14; see also Pr 22:28.) In fact, cursed was the one moving back “the boundary mark of his fellowman.” (De 27:17) Since landholders generally were dependent upon the produce of their plots of ground, moving back a boundary mark would mean depriving another person of some of his means of sustenance. Doing this was equivalent to theft and was so viewed in ancient times. (Job 24:2) But there were unscrupulous persons who were guilty of such abuses, and princes of Judah in Hosea’s time were likened to those moving back a boundary.​—Ho 5:10.
 
 ## Deuteronomy 28
 
@@ -346,6 +430,15 @@ Blessings for obedience (1-14)
 Curses for disobedience (15-68)
 ```
 
+### “All These Blessings Will . . . Overtake You”
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-August-16-22-2021/All-These-Blessings-Will-Overtake-You/)
+
+- Those who listen to Jehovah’s voice receive many blessings (De 28:1, 3-6; w10 12/15 19 ¶18)
+- Jehovah’s blessings will overtake his obedient servants (De 28:2; w01 9/15 10 ¶2)
+- Jehovah wants our obedience to be “with rejoicing and joy of heart” (De 28:45-47; w10 9/15 8 ¶4)
+
+Jehovah’s obedient servants enjoy his abundant blessings right now and will soon be overtaken by his promised future blessings.
 
 ## Deuteronomy 29
 
@@ -355,6 +448,9 @@ Warning against disobedience (14-29)
   Things concealed, things revealed (29)
 ```
 
+#### De 29:4​—How are the Israelites a warning example for us? (it-1 665 ¶3)
+
+Jehovah, through his servants, spoke of the stubborn, disobedient Israelites as having ‘uncircumcised ears.’ (Jer 6:10; Ac 7:51) They are as though stopped up with something that impedes hearing. They are ears that have not been opened by Jehovah, who gives ears of understanding and obedience to those who seek him but allows the spiritual hearing of the disobedient ones to become dulled. (De 29:4; Ro 11:8) The apostle Paul foretold a time when some professing to be Christians would apostatize from the true faith, not wanting to hear the truth of God’s Word, but desiring to have their ears “tickled” by things pleasing to them, and would therefore listen to false teachers. (2Ti 4:3, 4; 1Ti 4:1) Also, one’s ears may “tingle” because of hearing startling news, especially news of calamity.​—1Sa 3:11; 2Ki 21:12; Jer 19:3.
 
 ## Deuteronomy 30
 
@@ -364,6 +460,15 @@ Jehovah’s commands not too difficult (11-14)
 Choosing between life and death (15-20)
 ```
 
+### Serving Jehovah Is Not Too Difficult
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-August-23-29-2021/Serving-Jehovah-Is-Not-Too-Difficult/)
+
+- Learning and obeying God’s commandments is not beyond our reach (De 30:11-14; w09 11/1 31 ¶2)
+- Jehovah has given each one of us a choice (De 30:15; w09 11/1 31 ¶1)
+- Jehovah urges us to choose life (De 30:19; w09 11/1 31 ¶4)
+
+Serving Jehovah is not too difficult if we rely on him for direction and strength.
 
 ## Deuteronomy 31
 
@@ -375,6 +480,9 @@ Israel’s rebelliousness foretold (16-30)
   A song to teach Israel (19, 22, 30)
 ```
 
+#### De 31:12​—How can Christian parents apply this principle? (w04 9/15 27 ¶12)
+
+Young ones should sit with the grown-ups at congregation meetings and endeavor to listen and to learn.
 
 ## Deuteronomy 32
 
@@ -387,6 +495,17 @@ Song of Moses (1-47)
 Moses to die on Mount Nebo (48-52)
 ```
 
+**32:4**. All of Jehovah’s activities are perfect in that he expresses his attributes of justice, wisdom, love, and power in perfect balance.
+
+### Learn From Word Pictures in an Inspired Song
+
+from [workbook July–August 2021](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2021-mwb/Life-and-Ministry-Meeting-Schedule-for-August-30-September-5-2021/Learn-From-Word-Pictures-in-an-Inspired-Song/)
+
+- Our teaching can be like the dew (De 32:2, 3; w20.06 10 ¶8-9; see cover picture)
+- Jehovah is the Rock (De 32:4; w09 5/1 14 ¶4)
+- Jehovah protects his people like an eagle protects its young (De 32:11, 12; w01 10/1 9 ¶7)
+
+Where can you find good illustrations to use in your teaching?
 
 ## Deuteronomy 33
 
@@ -395,6 +514,7 @@ Moses blesses the tribes (1-29)
   Jehovah’s “everlasting arms” (27)
 ```
 
+**33:1-29​**—Why was Simeon not specifically mentioned in the blessing with which Moses blessed the sons of Israel? This was because Simeon as well as Levi had acted “harshly,” and their anger was “cruel.” (Genesis 34:13-31; 49:5-7) Their inheritance was not quite the same as that of the other tribes. Levi received 48 cities, and Simeon’s portion was within Judah’s territory. (Joshua 19:9; 21:41, 42) Hence, Moses did not specifically bless Simeon. However, Simeon’s blessing was included in the general blessing to Israel.
 
 ## Deuteronomy 34
 
