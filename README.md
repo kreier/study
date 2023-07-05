@@ -44,4 +44,11 @@ An example of how this is done can be seen in the analysis of the En-Gedi scroll
 
 More about this scroll here: [https://archive.org/details/engedi-scroll](https://archive.org/details/engedi-scroll)
 
-last updated: 2023-07-05 18:51:57.463796
+
+## A Timeline of human history
+
+Human history graph created in Jupyter Notebook, python and exported as pdf.
+
+![timeline](https://raw.githubusercontent.com/kreier/timeline/main/spreadsheet/timeline.png)
+
+last updated: 2023-07-05 18:59:31.238644

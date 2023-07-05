@@ -148,7 +148,7 @@ except OSError as e:
 # get timeline
 try:
     with open('../docs/timeline.md', 'r') as input:
-        lineline = input.read()
+        timeline = input.read()
 except OSError as e:
     total_import_errors += 1
 
@@ -161,6 +161,8 @@ try:
         output.write(miracles)
         output.write("\n\n")
         output.write(manuscripts)
+        output.write("\n\n")
+        output.write(timeline)
         output.write(f"\nlast updated: {datetime.datetime.now()}\n")
 except OSError as e:
     total_output_errors += 1
