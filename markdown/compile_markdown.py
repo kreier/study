@@ -82,8 +82,9 @@ for index, row in books.iterrows():
 summary_compilation = f"\n\nSummary of compilation: {total_chapters}/1189\n"
 summary_string += summary_compilation
 summary_html += summary_compilation
-summary_readme += summary_compilation
+# summary_readme += summary_compilation
 print(f" word count: {total_words}")
+
 
 # write README.md to folder https://kreier.github.io/study/markdown/
 try:
@@ -94,8 +95,9 @@ try:
 except OSError as e:
     total_output_errors += 1
 
-part1 = part2 = header = miracles = ""
-# write README.md to the overview page for https://kreier.github.io/study/
+
+part1 = part2 = header = miracles = manuscripts = timeline = ""
+# write README.md to the overview webpage for https://kreier.github.io/study/
 # get part 1
 try:
     with open('../docs/part1.md', 'r') as input:
@@ -121,7 +123,7 @@ except OSError as e:
     total_output_errors += 1
 
 
-# write README.md in the root folder of the repository https://kreier.github.io/study/
+# write README.md in the root folder of the repository https://github.com/kreier/study/
 # get header
 try:
     with open('../markdown/header.md', 'r') as input:
@@ -129,10 +131,24 @@ try:
 except OSError as e:
     total_import_errors += 1
 
-# get miracles
+# get miracles 
 try:
     with open('../miracles/README.md', 'r') as input:
         miracles = input.read()
+except OSError as e:
+    total_import_errors += 1
+
+# get manuscripts
+try:
+    with open('../manuscripts/README.md', 'r') as input:
+        manuscripts = input.read()
+except OSError as e:
+    total_import_errors += 1
+
+# get timeline
+try:
+    with open('../docs/timeline.md', 'r') as input:
+        lineline = input.read()
 except OSError as e:
     total_import_errors += 1
 
@@ -141,14 +157,15 @@ try:
     with open(f'../README.md', 'w') as output:
         output.write(header)
         output.write(summary_readme)
-        output.write("\n")
+        output.write("\n\n")
         output.write(miracles)
+        output.write("\n\n")
+        output.write(manuscripts)
         output.write(f"\nlast updated: {datetime.datetime.now()}\n")
 except OSError as e:
     total_output_errors += 1
 
 
 # update the root README.md in https://kreier.github.io/study/bible/
-# TBD - provide links all the chapters
 
 logging.debug(f"The {total_chapters} chapters contain {total_words} words. Errors import: {total_import_errors}, export: {total_output_errors}.")

@@ -5,61 +5,74 @@ Written by Mordecai in Shushan, Elam. The writing was completed c. 475 B.C.E. Th
 ## Esther 1
 
 ```
-TBD
+King Ahasuerus’ banquet at Shushan (1-9)
+Queen Vashti refuses to obey (10-12)
+King consults with his wise men (13-20)
+King’s decree sent out (21, 22)
 ```
 
 
 ## Esther 2
 
 ```
-TBD
+The search for a new queen (1-14)
+Esther becomes queen (15-20)
+Mordecai exposes a plot (21-23)
 ```
 
 ## Esther 3
 
 ```
-TBD
+Haman exalted by the king (1-4)
+Haman plots to destroy the Jews (5-15)
 ```
 
 ## Esther 4
 
 ```
-TBD
+Mordecai mourns (1-5)
+Mordecai asks Esther to intercede (6-17)
 ```
 
 ## Esther 5
 
 ```
-TBD
+Esther appears before the king (1-8)
+Haman’s anger and arrogance (9-14)
 ```
 
 ## Esther 6
 
 ```
-TBD
+Mordecai honored by the king (1-14)
 ```
 
 ## Esther 7
 
 ```
-TBD
+Esther exposes Haman (1-6a)
+Haman hanged on the stake he made (6b-10)
 ```
 
 ## Esther 8
 
 ```
-TBD
+Mordecai promoted (1, 2)
+Esther pleads with the king (3-6)
+King’s counterdecree (7-14)
+Relief and rejoicing for the Jews (15-17)
 ```
 
 ## Esther 9
 
 ```
-TBD
+Triumph of the Jews (1-19)
+Festival of Purim established (20-32)
 ```
 
 ## Esther 10
 
 ```
-TBD
+Mordecai’s greatness (1-3)
 ```
 

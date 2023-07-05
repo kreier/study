@@ -12,8 +12,6 @@ The digital documentation of the reading progress was reactivated on June 10th, 
 
 [Matthew](docs/bible/matthew/), [Mark](docs/bible/mark/), [Luke](docs/bible/luke/), [John](docs/bible/john/), [Acts](docs/bible/acts/), [Romans](docs/bible/romans/), [1 Corinthians](docs/bible/1_corinthians/), [2 Corinthians](docs/bible/2_corinthians/), [Galatians](docs/bible/galatians/), [Ephesians](docs/bible/ephesians/), [Philippians](docs/bible/philippians/), [Colossians](docs/bible/colossians/), [1 Thessalonians](docs/bible/1_thessalonians/), [2 Thessalonians](docs/bible/2_thessalonians/), [1 Timothy](docs/bible/1_timothy/), [2 Timothy](docs/bible/2_timothy/), [Titus](docs/bible/titus/), [Philemon](docs/bible/philemon/), [Hebrews](docs/bible/hebrews/), [James](docs/bible/james/), [1 Peter](docs/bible/1_peter/), [2 Peter](docs/bible/2_peter/), [1 John](docs/bible/1_john/), [2 John](docs/bible/2_john/), [3 John](docs/bible/3_john/), [Jude](docs/bible/jude/), [Revelation](docs/bible/revelation/), 
 
-Summary of compilation: 1189/1189
-
 ## Miracles of Jesus in the Bible
 
 There should be some 30+ miracles. How many to you recall?
@@ -31,4 +29,19 @@ There should be some 30+ miracles. How many to you recall?
 11. Healing "every sort of diseas and every sort of infirmity." (Matthew 4:23)
 12. Feeding 5000
 
-last updated: 2023-07-05 15:10:59.487315
+
+## Manuscripts of the Bible
+
+While writing articles in the German Wikipedia in 2008 about 
+
+### Paleographie
+
+The style of writing letters changes over time and can be used to date a scripture rather precisely compared to C-14 dating. That is one thing I learnd when investigating the different types of scrolls
+
+An example of how this is done can be seen in the analysis of the En-Gedi scroll and the [prelimary article about the En-Gedi scroll on archive.org](https://f-origin.hypotheses.org/wp-content/blogs.dir/1052/files/2016/09/308.En-GediTextus-26..pdf)
+
+![En Gedi scroll](https://raw.githubusercontent.com/kreier/study/main/manuscripts/EnGedi-Scroll.jpg)
+
+More about this scroll here: [https://archive.org/details/engedi-scroll](https://archive.org/details/engedi-scroll)
+
+last updated: 2023-07-05 18:51:57.463796
