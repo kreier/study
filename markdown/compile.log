@@ -30,3 +30,4 @@
 2023-07-04 20:29:50,207 DEBUG:Processed 1189 chapters. That's 100.0 Percent. They contain 36789 words. 0 import errors. 0 output errors.
 2023-07-04 20:55:32,397 DEBUG:Processed 1189 chapters. That's 100.0 Percent. They contain 38697 words. 0 import errors. 0 output errors.
 2023-07-05 02:12:32,055 DEBUG:Processed 1189 chapters. That's 100.0 Percent. They contain 40721 words. 0 import errors. 0 output errors.
+2023-07-05 08:52:57,132 DEBUG:The 1189 chapters contain 42780 words. Errors import: 0, export: 0.

@@ -218,11 +218,35 @@ Samson and Delilah (4-22)
 Samson’s revenge and death (23-31)
 ```
 
+#### Jg 16:1-3​—How are we to understand these verses? (w05 3/15 27 ¶6)
+
+Samson was single-minded in the pursuit of his objective, his fight against the Philistines. His staying at the house of a prostitute at Gaza was for the purpose of fighting against God’s enemies. Samson needed a lodging place for the night in an enemy city, and it could be found in the house of a prostitute. Samson had no immoral purpose in mind. He left the woman’s house at midnight, grabbed the city gates and the two side posts, and carried them to the top of a mountain near Hebron, which was some 37 miles **[60 km]** away. This was done with divine approval and God-given strength.​—Judges 16:1-3.
+
+### Betrayal—How Contemptible!
+
+from [workbook January–February 2022](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-January-3-9-2022/Betrayal-How-Contemptible/)
+
+Delilah was tempted to betray Samson for money (Jg 16:4, 5; w12 4/15 8 ¶4)
+
+Delilah nagged Samson until he revealed his secret (Jg 16:15-18; w05 1/15 27 ¶5)
+
+Christians must show loyalty in the family and in the congregation (1Th 2:10; w12 4/15 11-12 ¶15-16)
+
+Jehovah rewards those who remain loyal.​—Ps 18:25, 26.
+
 ## Judges 17
 
 ```
 Micah’s idols and his priest (1-13)
 ```
+
+### Disobeying God’s Law Leads to Problems
+
+from [workbook January–February 2022](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-January-10-16-2022/Disobeying-Gods-Law-Leads-to-Problems/)
+
+- Micah stole money from his mother (Jg 17:1, 2)
+- Micah practiced idolatry and bypassed Jehovah’s tabernacle and priesthood (Jg 17:4, 5, 12; it-2 390-391)
+- Micah eventually was left with nothing (Jg 18:24-26; it-2 391 ¶2)
 
 ## Judges 18
 
@@ -239,11 +263,31 @@ The Danites look for land (1-31)
 Benjaminites’ sex crime in Gibeah (1-30)
 ```
 
+#### Jg 19:18​—Why was the name Jehovah included here in the 2013 revision of the New World Translation? (w15 12/15 10 ¶6)
+
+The evidence for retaining God’s name in the Bible has not diminished but grown. The 2013 revision of the *New World Translation* includes the name 7,216 times, which is 6 more than the 1984 edition. Five of the additional instances are found at 1 Samuel 2:25; 6:3; 10:26; 23:14, 16. These were restored primarily because the Dead Sea Scrolls, which predate the Hebrew Masoretic text by over 1,000 years, contain the name in these verses. Also, one occurrence at Judges 19:18 was restored as a result of further study of ancient manuscripts.
+
 ## Judges 20
 
 ```
 War against the Benjaminites (1-48)
 ```
+
+#### Jg 20:16​—How were slings used in ancient warfare? (w14 5/1 11 ¶4-6)
+
+The sling was the weapon that David used to slay the giant Goliath. David apparently learned to use this weapon during his years as a shepherd boy.​—1 Samuel 17:40-50.
+
+The sling is depicted in both the Egyptian and the Assyrian art from Bible times. The weapon consisted of an open pocket of leather or cloth attached to two straps or cords. The slinger would place in this pouch a smooth or rounded stone measuring two to three inches (5 to 7.5 cm) in diameter and weighing perhaps nine ounces (250 g). He would then whirl the sling above his head and release one of the cords, causing the stone to fly out with great force and accuracy.
+
+Excavations in the Middle East have yielded great numbers of slingstones from wars in ancient times. Skilled warriors may have slung stones at speeds of 100 to 150 miles an hour (160 to 240 km/​h). Scholars disagree on whether the sling had the range of a bow, but a sling could certainly prove just as lethal.​—Judges 20:16.
+
+### Keep Inquiring of Jehovah
+
+from [workbook January–February 2022](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-January-17-23-2022/Keep-Inquiring-of-Jehovah/)
+
+- The Israelites repeatedly asked Jehovah for direction (Jg 20:17, 18, 23; w11 9/15 32 ¶2)
+- The Israelites finally relied fully on Jehovah to help them clear his name of reproach (Jg 20:26-28)
+- We must continue to seek Jehovah’s guidance and rely on him completely (Jg 20:35; Lu 11:9; w11 9/15 32 ¶4)
 
 ## Judges 21
 
