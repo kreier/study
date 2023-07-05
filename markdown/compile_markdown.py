@@ -83,6 +83,7 @@ summary_compilation = f"\n\nSummary of compilation: {total_chapters}/1189\n"
 summary_string += summary_compilation
 summary_html += summary_compilation
 summary_readme += summary_compilation
+print(f" word count: {total_words}")
 
 # write README.md to folder https://kreier.github.io/study/markdown/
 try:

@@ -226,11 +226,9 @@ Samson was single-minded in the pursuit of his objective, his fight against the 
 
 from [workbook January–February 2022](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-January-3-9-2022/Betrayal-How-Contemptible/)
 
-Delilah was tempted to betray Samson for money (Jg 16:4, 5; w12 4/15 8 ¶4)
-
-Delilah nagged Samson until he revealed his secret (Jg 16:15-18; w05 1/15 27 ¶5)
-
-Christians must show loyalty in the family and in the congregation (1Th 2:10; w12 4/15 11-12 ¶15-16)
+- Delilah was tempted to betray Samson for money (Jg 16:4, 5; w12 4/15 8 ¶4)
+- Delilah nagged Samson until he revealed his secret (Jg 16:15-18; w05 1/15 27 ¶5)
+- Christians must show loyalty in the family and in the congregation (1Th 2:10; w12 4/15 11-12 ¶15-16)
 
 Jehovah rewards those who remain loyal.​—Ps 18:25, 26.
 
