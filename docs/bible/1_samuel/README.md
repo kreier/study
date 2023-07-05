@@ -366,11 +366,27 @@ David again spares Saul’s life (1-25)
 David given Ziklag by the Philistines (1-12)
 ```
 
+### David’s War Strategy
+
+from [workbook May–June 2022](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-May-2-8-2022/Davids-War-Strategy/)
+
+- David sought escape from Saul (1Sa 27:5-7; it-1 41)
+- David protected Judah’s boundaries (1Sa 27:8, 9; w21.03 4 ¶8)
+- David did not reveal complete details to Achish (1Sa 27:10-12; it-2 245 ¶6)
+
+In our day, the authorities may restrict our Kingdom activity and question us about our brothers. At such times, it is wise to remain silent so as not to put our brothers at risk.​—Pr 10:19; 11:12; Ec 3:7.
+
 ## 1 Samuel 28
 
 ```
 Saul visits a spirit medium at En-dor (1-25)
 ```
+
+#### 1Sa 28:15​—Whom did Saul “see” on this occasion? (w10 1/1 20 ¶5-6)
+
+Think about it. The Bible states that at death a person “goes back to his ground” and that “his thoughts do perish.” (Psalm 146:4) Both Saul and Samuel knew that God condemned contact with spirit mediums. Why, Saul had earlier taken the lead in ridding the land of spiritistic practices!​—Leviticus 19:31.
+
+Reason on the matter. If faithful Samuel were still alive as a spirit, would he violate God’s law and cooperate with a spirit medium in order to meet Saul? Jehovah had refused to talk with Saul. Could a medium, in effect, force God Almighty to communicate with Saul by means of dead Samuel? No. Clearly, this “Samuel” was not God’s faithful prophet in any form. It was a spirit​—a wicked demon pretending to be dead Samuel.
 
 ## 1 Samuel 29
 
@@ -387,6 +403,18 @@ David defeats the Amalekites (7-31)
   Captives retaken by David (18, 19)
   David’s regulation on spoil (23, 24)
 ```
+
+#### 1Sa 30:23, 24​—What do we learn from this account? (w05 3/15 24 ¶8)
+
+This decision, based on Numbers 31:27, shows that Jehovah values those who serve in supportive roles in the congregation. Whatever we are doing, then, let us “work at it whole-souled as to Jehovah, and not to men.”​—Colossians 3:23.
+
+### Strengthen Yourself by Jehovah Your God
+
+from [workbook May–June 2022](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-May-9-15-2022/Strengthen-Yourself-by-Jehovah-Your-God/)
+
+- The Amalekites burned Ziklag and took captives (1Sa 30:1, 2)
+- David and his men were bitterly distressed (1Sa 30:3-5; w06 8/1 28 ¶12)
+- David found strength in Jehovah (1Sa 30:6; w12 4/15 30 ¶14)
 
 ## 1 Samuel 31
 
