@@ -198,6 +198,12 @@ Teaching campaign (7-9)
 Jehoshaphat’s military power (10-19)
 ```
 
+#### 2Ch 17:9​—What can we learn from the teaching campaign that Jehoshaphat organized? (w17.03 20 ¶10-11)
+
+Asa’s son Jehoshaphat “kept walking in the way of his father Asa.” (2 Chron. 20:31, 32) How so? Like his father, Jehoshaphat encouraged the people to search for Jehovah. He did so by organizing a teaching campaign that used “the book of Jehovah’s Law.” (2 Chron. 17:7-10) He even went to the territory of the northern kingdom of Israel, to the mountainous region of Ephraim, “to bring them back to Jehovah.” (2 Chron. 19:4) Jehoshaphat was a king “who searched for Jehovah with all his heart.”—2 Chron. 22:9.
+
+We can all have a share in the great teaching campaign that Jehovah is having done today. Is it your goal each month to teach the Word of God to others, trying to move their heart to serve God? By your extending yourself and with God’s blessing, you may be able to start a Bible study. Is that a goal that you pray about? Are you willing to accept this challenge, even giving up some of what is commonly viewed as free time? And just as Jehoshaphat went to the territory of Ephraim to help people return to true worship, we can reach out to those who have become inactive. In addition, the congregation elders arrange to visit and offer help to disfellowshipped ones in the congregation territory who may have left their past practice of sin.
+
 ## 2 Chronicles 18
 
 ```
@@ -205,6 +211,14 @@ Jehoshaphat’s alliance with Ahab (1-11)
 Micaiah’s prophecy of defeat (12-27)
 Ahab killed at Ramoth-gilead (28-34)
 ```
+
+### See Others as Jehovah Does
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-May-1-7-2023/See-Others-as-Jehovah-Does/)
+
+- King Jehoshaphat made an unwise alliance with King Ahab (2Ch 18:1-3; w17.03 24 ¶7)
+- Jehovah sent Jehu to reprove Jehoshaphat (2Ch 19:1, 2)
+- Jehovah remembered the good things that Jehoshaphat had done (2Ch 19:3; w15 8/15 11-12 ¶8-9)
 
 ## 2 Chronicles 19
 
@@ -223,6 +237,16 @@ Judah miraculously saved (20-30)
 End of Jehoshaphat’s rule (31-37)
 ```
 
+### “Put Faith in Jehovah Your God”
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-May-8-14-2023/Put-Faith-in-Jehovah-Your-God/)
+
+- When threatened, Jehoshaphat and the people of Judah turned to Jehovah for help (2Ch 20:12, 13; w14 12/15 23 ¶8)
+- Jehovah comforted his people and provided them with clear direction (2Ch 20:17)
+- Jehovah saved his people because they put faith in him (2Ch 20:21, 22, 27; w21.11 16 ¶7)
+
+When Gog attacks Jehovah’s people during the great tribulation, those who put faith in Jehovah and who trust those whom he is using to take the lead will have nothing to fear.​—2Ch 20:20.
+
 ## 2 Chronicles 21
 
 ```
@@ -231,12 +255,28 @@ Written message from Elijah (12-15)
 Jehoram’s bad end (16-20)
 ```
 
+#### 2Ch 21:14, 15​—How was Elijah’s prophecy concerning Jehoram fulfilled? (it-1 1271 ¶1-2)
+
+At least partially because of the bad influence of his wife Athaliah, Jehoram did not pursue the righteous ways of his father Jehoshaphat. (2Ki 8:18) Not only did Jehoram murder his six brothers and some of the princes of Judah but he also turned his subjects away from Jehovah to false gods. (2Ch 21:1-6, 11-14) His whole reign was marred by both internal trouble and external strife. First, Edom rebelled; then Libnah revolted against Judah. (2Ki 8:20-22) In a letter to Jehoram, the prophet Elijah warned: “Look! Jehovah is dealing a great blow to your people and to your sons and to your wives and to all your goods.” Moreover, you, King Jehoram, “will be with many sicknesses, with a malady of your intestines, until your intestines have come out because of the sickness day by day.”​—2Ch 21:12-15.
+
+It all occurred just that way. Jehovah allowed Arabs and Philistines to overrun the land and take Jehoram’s wives and sons captive. God permitted only Jehoram’s youngest son, Jehoahaz (also called Ahaziah), to escape, a concession made, however, only for the sake of the Kingdom covenant made with David. “After all this Jehovah plagued [Jehoram] in his intestines with a sickness for which there was no healing.” Two years later “his intestines came out” and he gradually died. So ended the life of this wicked man, who “went away without being desired.” He was buried in the City of David, “but not in the burial places of the kings.” Ahaziah his son became king in his stead.​—2Ch 21:7, 16-20; 22:1; 1Ch 3:10, 11.
+
 ## 2 Chronicles 22
 
 ```
 Ahaziah, king of Judah (1-9)
 Athaliah usurps the throne (10-12)
 ```
+
+### Jehovah Rewards Courageous Acts
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-May-15-21-2023/Jehovah-Rewards-Courageous-Acts/)
+
+- Jehoshabeath and her husband, Jehoiada, protected Jehoash from Athaliah (2Ch 22:11, 12; w09 4/1 24 ¶1-2)
+- Jehoiada courageously took action to make Jehoash king (2Ch 23:1-11, 14, 15; w09 4/1 24 ¶3-5)
+- Jehoiada was given the exceptional honor of being buried with the kings (2Ch 24:15, 16; it-1 379 ¶5)
+
+**FOR MEDITATION:** In what areas of my worship would I like to show more courage?
 
 ## 2 Chronicles 23
 
@@ -255,6 +295,10 @@ Jehoash’s apostasy (15-22)
 Jehoash assassinated (23-27)
 ```
 
+#### 2Ch 24:22​—How was Zechariah’s prophetic request fulfilled? (it-2 1223 ¶13)
+
+Son of High Priest Jehoiada. After Jehoiada’s death, King Jehoash turned away from true worship, listening to wrong counsel rather than to Jehovah’s prophets. Zechariah, Jehoash’s cousin (2Ch 22:11), sternly warned the people about this, but instead of repenting, they stoned him in the temple courtyard. Zechariah’s dying words were: “Let Jehovah see to it and ask it back.” This prophetic request was granted, for not only did Syria do great damage to Judah but also Jehoash was killed by two of his servants “because of the blood of the sons of Jehoiada the priest.” The Greek *Septuagint* and the Latin *Vulgate* say that Jehoash was killed to avenge the blood of the “son” of Jehoiada. The Masoretic text and the Syriac *Peshitta*, however, read “sons,” possibly using the plural number to denote the excellence and worth of Jehoiada’s son Zechariah the prophet-priest.​—2Ch 24:17-22, 25.
+
 ## 2 Chronicles 25
 
 ```
@@ -265,6 +309,14 @@ War with Israel’s King Jehoash (17-24)
 Death of Amaziah (25-28)
 ```
 
+### “Jehovah Has the Means to Give You Much More Than That”
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-May-22-28-2023/Jehovah-Has-the-Means-to-Give-You-Much-More-Than-That/)
+
+- Amaziah hired mercenaries to fight against God’s enemies (2Ch 25:5, 6)
+- A man of God advised Amaziah to dismiss the mercenaries (2Ch 25:7, 8; it-1 1266 ¶6)
+- Jehovah could more than compensate Amaziah for any financial loss (2Ch 25:9, 10)
+
 ## 2 Chronicles 26
 
 ```
@@ -273,6 +325,12 @@ Uzziah’s military exploits (6-15)
 Haughty Uzziah made a leper (16-21)
 Death of Uzziah (22, 23)
 ```
+
+#### 2Ch 26:4, 5​—What does Uzziah’s example teach us about the value of having a spiritual mentor? (w07 12/15 10 ¶1-2)
+
+AT THE tender age of 16, Uzziah became king of the southern kingdom of Judah. He reigned for over 50 years, from the late ninth to the early eighth century B.C.E. From a young age, Uzziah “kept doing what was right in Jehovah’s eyes.” What influenced him to take an upright course? The historical record states: “[Uzziah] continually tended to search for God in the days of Zechariah, the instructor in the fear of the true God; and, in the days of his searching for Jehovah, the true God made him prosperous.”​—2 Chronicles 26:1, 4, 5.
+
+Not much is known about Zechariah, the adviser to the king, apart from this account in the Bible. Yet, as “the instructor in the fear of the true God,” Zechariah exercised a fine influence on the young ruler to do what was right. *The Expositor’s Bible* observes that Zechariah was obviously “a man versed in sacred learning, rich in spiritual experience, and able to communicate his knowledge.” One Bible scholar concluded about Zechariah: “He was well versed in prophecy and . . . was an intelligent, devout, good man; and, it seems, had great influence with Uzziah.”
 
 ## 2 Chronicles 27
 
@@ -290,6 +348,14 @@ Judah humbled (16-19)
 Ahaz’ idolatry; his death (20-27)
 ```
 
+### You Can Serve Jehovah Despite a Difficult Upbringing
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-May-29-June-4-2023/You-Can-Serve-Jehovah-Despite-a-Difficult-Upbringing/)
+
+- Hezekiah’s father, King Ahaz, did detestable things (2Ch 28:1; w16.02 14 ¶8)
+- Hezekiah chose to serve Jehovah despite his father’s bad example (2Ch 29:1-3; w16.02 14 ¶9-11)
+- Hezekiah encouraged others not to let the unfaithfulness of their fathers stop them from serving Jehovah (2Ch 29:4-6)
+
 ## 2 Chronicles 29
 
 ```
@@ -304,6 +370,12 @@ Temple services revived (20-36)
 Ahaz died in 746 B.C.E., and his son Hezekiah inherited the materially impoverished and spiritually bankrupt kingdom of Judah. As the young king ascended the throne, what would his priority be? To shore up Judah’s ailing economy? No. Hezekiah was a spiritual man, a worthy shepherd of his national flock. His first act was to reestablish pure worship and to reinforce the wayward nation’s frayed relationship with Jehovah. When he understood God’s will for him, Hezekiah acted decisively. What a fine example for us!—2 Chron. 29:1-19.
 
 The Levites would play a vital role in the important task of restoring pure worship. Therefore, Hezekiah met with them to assure them of his support. Picture the faithful Levites who were present at that meeting, tears of joy streaming down their faces as they heard their king declare: “You are the ones whom Jehovah has chosen to stand before him to minister to him.” (2 Chron. 29:11) Yes, the Levites had a clear mandate to promote pure worship!
+
+
+#### 2Ch 29:25​—What does Nathan’s example teach us about the benefits of accepting correction from Jehovah? (w12 2/15 24-25)
+
+As a faithful worshipper of Jehovah, Nathan enthusiastically endorsed David’s plan to construct the first permanent center of pure worship on earth. On that occasion, however, Nathan apparently expressed his own feelings instead of speaking in Jehovah’s name. That night, God instructed his prophet to take a different message to the king: David would not build Jehovah’s temple. The person to do so would be one of David’s sons. But Nathan announced that God was making a covenant with David to the effect that his throne would become “firmly established to time indefinite.”​—2 Sam. 7:4-16.
+
 
 ### True Worship Requires Hard Work
 
@@ -324,11 +396,26 @@ Days in Nisan 746 B.C.E.
 - Couriers were dispatched to distribute letters, announcing the Passover throughout the land, from Beer-sheba to Dan
 - While some mocked, many responded favorably
 
+
 ## 2 Chronicles 30
 
 ```
 Hezekiah observes the Passover (1-27)
 ```
+
+#### 2Ch 30:20​—What can we learn from the way that Jehovah listened to Hezekiah? (w18.09 6 ¶14-15)
+
+Another area that reveals the depth of our humility is our willingness to hear people out. James 1:19 says that we should “be quick to listen.” Jehovah himself sets the superlative example in this regard. (Gen. 18:32; Josh. 10:14) Consider what we can learn from the interchange recorded at Exodus 32:11-14. (Read.) Although not needing Moses’ input, Jehovah gave Moses an opportunity to reveal how he felt. What human would listen at length to the reasoning of someone who has displayed faulty thinking and then act on that person’s word? Yet, Jehovah listens patiently to humans who call on him in faith.
+
+Each of us does well to ask: ‘If Jehovah can stoop down to deal with people and listen to them as he did with Abraham, Rachel, Moses, Joshua, Manoah, Elijah, and Hezekiah, should I not be better at honoring all my brothers, dignifying them, listening to their ideas, and even acting on their good ideas? Does someone in my congregation or in my family deserve my attention right now? What should I do about that? What will I do about that?’​—Gen. 30:6; Judg. 13:9; 1 Ki. 17:22; 2 Chron. 30:20.
+
+### Gathering Together Is Good for Us
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-June-5-11-2023/Gathering-Together-Is-Good-for-Us/)
+
+- Hezekiah organized a great Passover in Jerusalem (2Ch 30:1; it-1 1103 ¶2)
+- Many attended despite opposition (2Ch 30:10, 11, 13; it-1 1103 ¶3)
+- They experienced great joy and were motivated to serve Jehovah (2Ch 30:25–31:1; it-1 1103 ¶4-5)
 
 ## 2 Chronicles 31
 
@@ -351,6 +438,14 @@ Hezekiah’s achievements and death (27-33)
 
 Elders who are reading this article can draw some useful conclusions from the account we have just considered: (1) The most practical step that we can take to prepare for the coming attack of “the Assyrian” is that of strengthening our faith in God and helping our brothers to do the same. (2) When “the Assyrian” attacks, the elders must be absolutely convinced that Jehovah will deliver us. (3) At that time, the life-saving direction that we receive from Jehovah’s organization may not appear practical from a human standpoint. All of us must be ready to obey any instructions we may receive, whether these appear sound from a strategic or human standpoint or not. (4) Now is the time for any who may be putting their trust in secular education, material things, or human institutions to adjust their thinking. The elders must stand ready to help any who may now be wavering in their faith.
 
+### Be a Source of Strength During Times of Distress
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-June-12-18-2023/Be-a-Source-of-Strength-During-Times-of-Distress/)
+
+- Sennacherib invaded Judah and threatened Jerusalem (2Ch 32:1; it-1 204 ¶5)
+- Hezekiah took practical steps to protect Jerusalem (2Ch 32:2-5; w13 11/15 19 ¶12)
+- Hezekiah strengthened God’s people by his words (2Ch 32:6-8; w13 11/15 19 ¶13)
+
 ## 2 Chronicles 33
 
 ```
@@ -372,6 +467,12 @@ With regard to the “sixty-five years” at Isaiah 7:8, which Isaiah prophesied
 
 A person shows true repentance by abandoning a wrong course and putting forth a determined effort to do what is right. On the basis of genuine repentance, even a person who has acted as wickedly as King Manasseh can receive Jehovah’s mercy.
 
+#### 2Ch 33:15, 16​—What can we learn from Manasseh’s example? (w21.10 4-5 ¶11-12)
+
+In time, Jehovah answered Manasseh’s prayers. He saw the changes in that man’s heart, as reflected in his prayers. Jehovah was moved by Manasseh’s entreaty and restored him to the throne. Manasseh took full advantage of the opportunity to demonstrate the depth of his repentance. He did what Ahab had never done. He changed his conduct. He actively fought against false worship and promoted true worship. (Read 2 Chronicles 33:15, 16.) That surely required courage and faith, for Manasseh had been a bad influence on his family, his nobles, and his people for decades. But now, in his final years, Manasseh tried to undo some of the bad that he had done. Likely, he was a good influence on his young grandson Josiah, who later became a very good king.​—2 Ki. 22:1, 2.
+
+What can we learn from Manasseh’s example? He humbled himself, and he did more. He prayed, begging for mercy. And he changed his course. He worked hard to undo the harm that he had caused, and he sought to worship Jehovah and to help others to do the same. Manasseh’s example gives hope to even the worst of sinners. We see powerful proof that Jehovah God is “good and ready to forgive.” (Ps. 86:5) Forgiveness is possible​—for those who are truly repentant.
+
 ## 2 Chronicles 34
 
 ```
@@ -383,6 +484,8 @@ Josiah reads the book to the people (29-33)
 ```
 
 ### Are You Benefiting Fully From God’s Word?
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-June-19-25-2023/Are-You-Benefiting-Fully-From-Gods-Word/)
 
 Josiah listened to God’s Word carefully (2Ch 34:18, 19; see cover picture). He made an earnest effort to understand the meaning of what he was hearing (2Ch 34:21; it-1 1157 ¶4). 
 

@@ -15,6 +15,15 @@ Some may not have returned to Jerusalem because they were materialistic or lacke
 
 Like some of the Israelites who remained in Babylon, many of Jehovah’s Witnesses cannot take up the full-time ministry or serve where the need is greater. Yet, they support and encourage those who can and make voluntary donations to further the Kingdom-preaching and disciple-making work.
 
+### Allow Jehovah to Use You
+
+from [workbook May–June 2023](https://www.jw.org/en/library/jw-meeting-workbook/may-june-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-June-26-July-2-2023/Allow-Jehovah-to-Use-You/)
+
+- Jehovah stirred the spirit of King Cyrus to release the Israelites (Ezr 1:1-3; w22.03 14 ¶1)
+- Jehovah stirred the spirit of his people to rebuild the temple (Ezr 1:5; w17.10 26 ¶2)
+
+If you make yourself available, Jehovah can cause you to become whatever he needs to accomplish his will.
+
 ## Ezra 2
 
 ```
