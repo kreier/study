@@ -9,166 +9,285 @@ Solomon’s request for wisdom (1-12)
 Solomon’s wealth (13-17)
 ```
 
+#### 2Ch 1:11, 12​—What does this account teach us about our personal prayers? (w05 12/1 19 ¶6)
+
+Solomon’s request showed Jehovah that gaining wisdom and knowledge was close to the king’s heart. Our prayers to God indeed reveal what is close to our heart. We are wise to analyze their content.
+
+### King Solomon Makes an Unwise Decision
+
+from [workbook March–April 2023](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-March-20-26-2023/King-Solomon-Makes-an-Unwise-Decision/)
+
+- Solomon accumulated horses and chariots from Egypt (De 17:15, 16; 2Ch 1:14, 17)
+- People and cities were needed to accommodate Solomon’s new military divisions (2Ch 1:14; it-1 174 ¶5; 427)
+
+Although the people prospered during a good part of Solomon’s reign, they revolted under King Rehoboam because he kept his father’s heavy burdens and added to them. (2Ch 10:3, 4, 14, 16) Our decisions always have consequences.​—Ga 6:7.
+
 ## 2 Chronicles 2
 
 ```
-TBD
+Preparations for building the temple (1-18)
 ```
 
 ## 2 Chronicles 3
 
 ```
-TBD
+Solomon starts building the temple (1-7)
+The Most Holy (8-14)
+The two copper pillars (15-17)
 ```
 
 ## 2 Chronicles 4
 
 ```
-TBD
+The altar, the Sea, and the basins (1-6)
+Lampstands, tables, and courtyards (7-11a)
+Completion of the temple furnishings (11b-22)
 ```
 
 ## 2 Chronicles 5
 
 ```
-TBD
+Preparations for the temple inauguration (1-14)
+  The Ark brought to the temple (2-10)
 ```
 
 ## 2 Chronicles 6
 
 ```
-TBD
+Solomon’s address to the people (1-11)
+Solomon’s prayer of inauguration (12-42)
 ```
+
+#### 2Ch 6:29, 30​—How can these words of Solomon’s prayer comfort us? (w10 12/1 11 ¶7)
+
+We can draw comfort from Solomon’s prayer. Fellow humans may not fully understand our inner feelings​—our “own plague” and our “own pain.” (Proverbs 14:10) But Jehovah knows our heart, and he deeply cares about us. Pouring out our heart to him in prayer can make our burdens easier to bear. “Throw all your anxiety upon him,” says the Bible, “because he cares for you.”​—1 Peter 5:7.
 
 ## 2 Chronicles 7
 
 ```
-TBD
+Temple filled with Jehovah’s glory (1-3)
+Inauguration ceremonies (4-10)
+Jehovah appears to Solomon (11-22)
 ```
+
+### “My Heart Will Always Be There”
+
+from [workbook March–April 2023](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-March-27-April-2-2023/My-Heart-Will-Always-Be-There/)
+
+- Jehovah chose the temple for himself (2Ch 7:11, 12)
+- Jehovah’s heart would always be there, indicating that he would be highly interested in what went on at this house associated with his name (2Ch 7:16; w02 11/15 5 ¶1)
+- If the people stopped walking before Jehovah “with all their heart,” he would allow the temple to be destroyed (2Ch 6:14; 7:19-21; it-2 1077-1078)
+
+At the time of the temple’s inauguration, the people likely thought their heart would always be at the temple. Sadly, the people gradually lost their enthusiasm for worshipping Jehovah.
 
 ## 2 Chronicles 8
 
 ```
-TBD
+Solomon’s other building projects (1-11)
+Worship at the temple organized (12-16)
+Solomon’s fleet (17, 18)
 ```
 
 ## 2 Chronicles 9
 
 ```
-TBD
+Queen of Sheba visits Solomon (1-12)
+Solomon’s wealth (13-28)
+Death of Solomon (29-31)
 ```
+
+#### 2Ch 9:19​—What may the 12 lion statues leading to Solomon’s throne have represented? (it-2 1097)
+
+The only throne of a ruler of Israel described in detail is the one Solomon made. (1Ki 10:18-20; 2Ch 9:17-19) It appears to have been located in “the Porch of the Throne,” one of the buildings that stood on Mount Moriah in Jerusalem. (1Ki 7:7) It was ‘a great ivory throne overlaid with refined gold with a round canopy behind it and armrests.’ Although ivory could have been the basic material in this royal chair, the construction technique generally followed at the temple would seem to indicate that it was made of wood, overlaid with refined gold and richly ornamented with inlaid panels of ivory. To the observer, such a throne would appear to be made entirely of ivory and gold. After mentioning six steps leading to the throne, the record continues: “Two lions were standing beside the armrests. And there were twelve lions standing there upon the six steps, on this side and on that side.” (2Ch 9:17-19) The symbolism of the lion denoting ruling authority is appropriate. (Ge 49:9, 10; Re 5:5) The 12 lions appear to have corresponded to the 12 tribes of Israel, possibly symbolizing their subjection to and support of the ruler on this throne. Attached in some way to the throne was a footstool of gold. By its description this ivory-and-gold throne​—in its lofty, canopied position with the majestic lions in front—​transcends any throne of that time period, whether discovered by archaeologists, depicted on the monuments, or described in the inscriptions. As the chronicler truthfully observed: “No other kingdom had any made just like it.”​—2Ch 9:19.
+
+### She Valued Wisdom
+
+from [workbook March–April 2023](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-April-10-16-2023/She-Valued-Wisdom/)
+
+- The queen of Sheba made a long and arduous trip to see Solomon (2Ch 9:1, 2; w99 11/1 20 ¶4; w99 7/1 30 ¶4-5)
+- Solomon’s wisdom and riches left her breathless (2Ch 9:3, 4; w99 7/1 30-31; see cover picture)
+- What she saw moved her to praise Jehovah (2Ch 9:7, 8; it-2 990-991)
+
+The queen of Sheba valued wisdom so much that she was willing to make great sacrifices to obtain it.
 
 ## 2 Chronicles 10
 
 ```
-TBD
+Israel’s rebellion against Rehoboam (1-19)
 ```
+
+### Benefit From Wise Advice
+
+from [workbook March–April 2023](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-April-17-23-2023/Benefit-From-Wise-Advice/)
+
+- Rehoboam was faced with a decision (2Ch 10:1-4; w18.06 13 ¶3)
+- Rehoboam sought advice (2Ch 10:6-11; w01 9/1 28-29)
+- Rehoboam and the people suffered because he rejected wise advice (2Ch 10:12-16; it-2 768 ¶1)
+
+Because of their experience, older, spiritually mature ones can often perceive how a situation will likely turn out.​—Job 12:12.
 
 ## 2 Chronicles 11
 
 ```
-TBD
+Rehoboam’s rule (1-12)
+Loyal Levites move to Judah (13-17)
+Rehoboam’s family (18-23)
 ```
+
+#### 2Ch 11:15​—What may be indicated by the term “goatlike demons”? (it-1 966-967)
+
+Joshua’s words at Joshua 24:14 show that the Israelites had been affected to some extent by the false worship of Egypt during their sojourn there, while Ezekiel indicates that such pagan practices continued to plague them long afterward. (Eze 23:8, 21) For this reason some scholars consider that the divine decree issued in the wilderness to prevent the Israelites from making “sacrifices to the goat-shaped demons” (Le 17:1-7) and Jeroboam’s establishing priests “for the high places and for the goat-shaped demons and for the calves that he had made” (2Ch 11:15) indicate there was some form of goat worship among the Israelites such as was prominent in Egypt, particularly in Lower Egypt. Herodotus  (II, 46) claims that from such Egyptian worship the Greeks derived their belief in Pan and also in the satyrs, woodland gods of a lustful nature, who were eventually depicted as having horns, a goat’s tail, and goat’s legs. Some suggest that such half-animal form of these pagan gods is the source of the practice of picturing Satan with tail, horns, and cloven feet, a custom prevalent among professed Christians in the Dark Ages.
+
+Just what such “hairy ones” (*seʽi·rimʹ*) actually were, however, is not stated. While some consider them to be literal goats or idols in the form of goats, this does not necessarily seem to be indicated; nor do other scriptures provide evidence of that nature. The term used may simply indicate that *in the minds of those worshiping them* such false gods were conceived of as being goatlike in shape or hairy in appearance. Or, the use of “goats” in these references may be merely a means of expressing contempt for all idolatrous objects in general, even as the word for idols in numerous texts is drawn from a term originally meaning “dung pellets,” not denoting, however, that the idols were literally made of dung.​—Le 26:30; De 29:17.
 
 ## 2 Chronicles 12
 
 ```
-TBD
+Shishak’s attack on Jerusalem (1-12)
+End of Rehoboam’s rule (13-16)
 ```
 
 ## 2 Chronicles 13
 
 ```
-TBD
+Abijah, king of Judah (1-22)
+  Abijah defeats Jeroboam (3-20)
 ```
 
 ## 2 Chronicles 14
 
 ```
-TBD
+Death of Abijah (1)
+Asa, king of Judah (2-8)
+Asa defeats 1,000,000 Ethiopians (9-15)
 ```
+
+### Rely On Jehovah—When?
+
+from [workbook March–April 2023](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-April-24-30-2023/Rely-On-Jehovah-When/)
+
+- Asa relied on Jehovah to defeat a large army (2Ch 14:9-12; w21.03 5 ¶12)
+- Asa later counted on the Syrians to defeat a smaller army (2Ch 16:1-3; w21.03 5 ¶13)
+- Jehovah was displeased with Asa for not continuing to seek His help (2Ch 16:7-9)
+
+We may rely on Jehovah when making life-altering decisions, but what about at other times? It is important to take notice of Jehovah in all our ways.​—Pr 3:5, 6; w21.03 6 ¶14.
 
 ## 2 Chronicles 15
 
 ```
-TBD
+Asa’s reforms (1-19)
 ```
+
+#### 2Ch 15:16​—How can we imitate Asa’s courage? (w17.03 19 ¶7)
+
+Each of us can examine his heart to see if it is fully devoted to God. Ask yourself, ‘Am I determined to please Jehovah, to defend true worship, and to protect his people from any corrupting influence?’ Think how much courage Asa had to muster to stand up to Maacah, who was “queen mother” in the land! You probably do not know anyone  who acts just like her, but there may be a situation in which you can imitate Asa’s zeal. For example, what if a member of your family or a close friend sins, is unrepentant, and has to be disfellowshipped? Would you take decisive action by ceasing to associate with that person? What would your heart move you to do?
 
 ## 2 Chronicles 16
 
 ```
-TBD
+Asa’s treaty with Syria (1-6)
+Hanani rebukes Asa (7-10)
+Death of Asa (11-14)
 ```
 
 ## 2 Chronicles 17
 
 ```
-TBD
+Jehoshaphat, king of Judah (1-6)
+Teaching campaign (7-9)
+Jehoshaphat’s military power (10-19)
 ```
 
 ## 2 Chronicles 18
 
 ```
-TBD
+Jehoshaphat’s alliance with Ahab (1-11)
+Micaiah’s prophecy of defeat (12-27)
+Ahab killed at Ramoth-gilead (28-34)
 ```
 
 ## 2 Chronicles 19
 
 ```
-TBD
+Jehu rebukes Jehoshaphat (1-3)
+Jehoshaphat’s reforms (4-11)
 ```
 
 ## 2 Chronicles 20
 
 ```
-TBD
+Neighboring nations threaten Judah (1-4)
+Jehoshaphat prays for help (5-13)
+Answer from Jehovah (14-19)
+Judah miraculously saved (20-30)
+End of Jehoshaphat’s rule (31-37)
 ```
 
 ## 2 Chronicles 21
 
 ```
-TBD
+Jehoram, king of Judah (1-11)
+Written message from Elijah (12-15)
+Jehoram’s bad end (16-20)
 ```
 
 ## 2 Chronicles 22
 
 ```
-TBD
+Ahaziah, king of Judah (1-9)
+Athaliah usurps the throne (10-12)
 ```
 
 ## 2 Chronicles 23
 
 ```
-TBD
+Jehoiada intervenes; Jehoash made king (1-11)
+Athaliah put to death (12-15)
+Jehoiada’s reforms (16-21)
 ```
 
 ## 2 Chronicles 24
 
 ```
-TBD
+Jehoash’s rule (1-3)
+Jehoash renovates the temple (4-14)
+Jehoash’s apostasy (15-22)
+Jehoash assassinated (23-27)
 ```
 
 ## 2 Chronicles 25
 
 ```
-TBD
+Amaziah, king of Judah (1-4)
+War with Edom (5-13)
+Amaziah’s idolatry (14-16)
+War with Israel’s King Jehoash (17-24)
+Death of Amaziah (25-28)
 ```
 
 ## 2 Chronicles 26
 
 ```
-TBD
+Uzziah, king of Judah (1-5)
+Uzziah’s military exploits (6-15)
+Haughty Uzziah made a leper (16-21)
+Death of Uzziah (22, 23)
 ```
 
 ## 2 Chronicles 27
 
 ```
-TBD
+Jotham, king of Judah (1-9)
 ```
 
 ## 2 Chronicles 28
 
 ```
-TBD
+Ahaz, king of Judah (1-4)
+Defeated by Syria and Israel (5-8)
+Oded warns Israel (9-15)
+Judah humbled (16-19)
+Ahaz’ idolatry; his death (20-27)
 ```
 
 ## 2 Chronicles 29

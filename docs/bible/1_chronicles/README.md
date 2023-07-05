@@ -277,6 +277,16 @@ David organizes the Levites (1-32)
   Aaron and his sons set apart (13)
 ```
 
+### Temple Worship Becomes Highly Organized
+
+from [workbook March–April 2023](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-March-6-12-2023/Temple-Worship-Becomes-Highly-Organized/)
+
+- King David organized the Levites and the priests for temple duty (1Ch 23:6, 27, 28; 24:1, 3; it-2 241, 686)
+- Expert musicians and learners were assigned to musical service (1Ch 25:1, 8; it-2 451-452)
+- Levites were assigned as gatekeepers, treasurers, and other officials (1Ch 26:16-20; it-1 898)
+
+Worship that is organized reflects Jehovah’s personality.​—1Co 14:33.
+
 ## 1 Chronicles 24
 
 ```
@@ -289,6 +299,10 @@ Other Levitical assignments (20-31)
 ```
 Musicians and singers for God’s house (1-31)
 ```
+
+#### 1Ch 25:7, 8​—What do these verses indicate about the importance of singing songs of praise to Jehovah? (w22.03 22 ¶10)
+
+***We worship Jehovah when we join in song.*** (Ps. 28:7) The Israelites considered singing to be an important part of their worship. King David assigned 288 Levites to be singers at the temple. (1 Chron. 25:1, 6-8) Today, we can express our love for God when we sing songs of praise. The quality of our voice is not the most important thing. Consider this comparison: When we speak, “we all stumble many times,” but that does not prevent us from speaking in the congregation and in the ministry. (Jas. 3:2) Similarly, we should not allow concerns about the imperfections of our singing voice to prevent us from singing praises to Jehovah.
 
 ## 1 Chronicles 26
 
@@ -303,12 +317,28 @@ Treasurers and other officials (20-32)
 Officers in the king’s service (1-34)
 ```
 
+#### 1Ch 27:33​—How is Hushai a good example of a loyal friend? (w17.03 29 ¶6-7)
+
+David had other associates who loyally stood by him in difficult times. One such associate was Hushai, whom the Bible refers to as “David’s friend.” (2 Sam. 16:16; 1 Chron. 27:33) He may have been a court official who was a personal friend and companion to the king, one who at times carried out confidential orders.
+
+When David’s son Absalom usurped the throne, many Israelites took Absalom’s side, but not Hushai. While David was fleeing, Hushai went to him. David felt deeply hurt because of being betrayed by his own son and by some whom he had trusted. However, Hushai remained loyal, as one who was willing to risk his life and accomplish a mission that would thwart the conspiracy. Hushai did not simply do so out of a sense of duty as a court official. He proved to be a loyal friend.—2 Sam. 15:13-17, 32-37; 16:15–17:16.
+
 ## 1 Chronicles 28
 
 ```
 David’s speech on the temple construction (1-8)
 Instructions to Solomon; architectural plan given (9-21)
 ```
+
+### A Father’s Loving Admonition to His Son
+
+from [workbook March–April 2023](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-March-13-19-2023/A-Fathers-Loving-Admonition-to-His-Son/)
+
+- Get to know Jehovah for yourself (1Ch 28:9; w05 2/15 19 ¶9)
+- Serve Jehovah with a complete heart (1Ch 28:9; w12 4/15 16 ¶13)
+- Rely on Jehovah, and do not be afraid (1Ch 28:20; w17.09 32 ¶20-21)
+
+Aged King David gave this admonition before his young and inexperienced son Solomon began the important task of building the temple. Why is this advice valuable for all, but especially for young Christians?
 
 ## 1 Chronicles 29
 
