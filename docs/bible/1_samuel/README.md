@@ -144,6 +144,10 @@ Samuel’s farewell speech (1-25)
   Jehovah will not abandon his people (22)
 ```
 
+#### 1Sa 12:21​—How could the people have been following “empty things” (or, “unrealities,” ftn.)? (w11 7/15 13 ¶15)
+
+Did those people think that a human king would  somehow be more real, more dependable, than Jehovah? If so, they were truly pursuing an unreality! And they were in danger of pursuing many other satanic illusions. Human kings would easily lead them into idolatry. Idolaters make the mistake of thinking that physical objects​—gods made of wood or stone—​are somehow more real, more reliable, than the invisible God, Jehovah, who created all things. But as the apostle Paul noted, idols are “nothing.” (1 Cor. 8:4) They cannot see, hear, speak, or act. You might be able to see them and touch them, but if you were to worship one, you would, indeed, be pursuing an unreality​—an empty illusion that would bring only disaster.​—Ps. 115:4-8.
+
 ## 1 Samuel 13
 
 ```
@@ -152,6 +156,16 @@ Saul acts presumptuously (5-9)
 Samuel reproves Saul (10-14)
 Israel without weapons (15-23)
 ```
+
+### Presumptuousness Leads to Dishonor
+
+from [workbook March–April 2022](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-March-7-13-2022/Presumptuousness-Leads-to-Dishonor/)
+
+- King Saul felt that he was in a desperate situation (1Sa 13:5-7)
+- Rather than modestly following Jehovah’s instructions, Saul acted presumptuously (1Sa 13:8, 9; w00 8/1 13 ¶17)
+- Jehovah disciplined Saul (1Sa 13:13, 14; w07 6/15 27 ¶8)
+
+Someone acts presumptuously when he rashly or foolishly does something that he is not authorized to do. Presumptuousness is contrasted with modesty. What situations could tempt someone to be presumptuous?
 
 ## 1 Samuel 14
 
@@ -173,6 +187,20 @@ Saul rejected as king (24-29)
 Samuel kills Agag (30-35)
 ```
 
+#### 1Sa 15:24​—What warning lesson does Saul’s mistake teach us about compassion? (it-1 493)
+
+Yielding to pressure to show compassion when it is contrary to God’s will can have serious consequences. This is revealed in what happened to King Saul. The time had come for the execution of divine judgment against the Amalekites, the first people to stage an unprovoked attack on the Israelites after their departure from Egypt. Saul was commanded not to have compassion on them. Giving in to the pressure of his subjects, he did not follow through completely on Jehovah’s command. Therefore, Jehovah rejected Saul from being king. (1Sa 15:2-24) A person’s cultivating deep appreciation for the rightness of Jehovah’s ways and putting loyalty to Him foremost can prevent his erring, as did Saul, and losing divine approval.
+
+### Obedience Is Better Than a Sacrifice
+
+from [workbook March–April 2022](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-March-14-20-2022/Obedience-Is-Better-Than-a-Sacrifice/)
+
+- Jehovah’s prophet gave King Saul specific instructions (1Sa 15:3)
+- Saul tried to justify not obeying Jehovah fully (1Sa 15:13-15)
+- Jehovah does not accept worship from those who are disobedient (1Sa 15:22, 23; w07 6/15 26 ¶4; it-2 521 ¶2)
+
+**ASK YOURSELF,** ‘Do I obey instructions from Jehovah’s organization promptly and completely?’
+
 ## 1 Samuel 16
 
 ```
@@ -181,6 +209,10 @@ Samuel anoints David as next king (1-13)
 God’s spirit removed from Saul (14-17)
 David becomes harpist for Saul (18-23)
 ```
+
+#### 1Sa 16:14​—In what sense did Saul receive “a bad spirit from Jehovah”? (it-2 871-872)
+
+It was after this and after the anointing of David as Israel’s future king that Jehovah’s spirit left Saul. From then on “a bad spirit from Jehovah  terrorized him.” Having withdrawn his spirit from Saul, Jehovah made it possible for a bad spirit to gain possession of him, depriving Saul of his peace of mind and stirring up his feelings, thoughts, and imaginations in a wrong way. Saul’s failure to obey Jehovah indicated a bad inclination of mind and heart, against which God’s spirit offered Saul no protection or resistive force. However, since Jehovah had permitted the “bad spirit” to replace his spirit and terrorize Saul, it could be termed a “bad spirit from Jehovah,” so that Saul’s servants spoke of it as “God’s bad spirit.” On the recommendation of one of his attendants, Saul requested that David be his court musician to calm him when he was troubled by the “bad spirit.”​—1Sa 16:14-23; 17:15.
 
 ## 1 Samuel 17
 
@@ -191,6 +223,16 @@ David defeats Goliath (1-58)
   David fights in Jehovah’s name (45-47)
 ```
 
+### “The Battle Belongs to Jehovah”
+
+from [workbook March–April 2022](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-March-21-27-2022/The-Battle-Belongs-to-Jehovah/)
+
+- David’s faith in Jehovah was based on knowledge and experience (1Sa 17:36, 37; wp16.5 11 ¶2-3)
+- David looked at Goliath in comparison to Jehovah, not himself (1Sa 17:45-47; wp16.5 11-12)
+- Jehovah gave David the victory over an imposing enemy (1Sa 17:48-50; wp16.5 12 ¶4; see cover picture)
+
+At times, we may face huge challenges, such as persecution or a bad habit. When problems seem too big, remember that they are small in comparison to Jehovah’s limitless power.​—Job 42:1, 2.
+
 ## 1 Samuel 18
 
 ```
@@ -200,6 +242,16 @@ Saul attempts to kill David (10-19)
 David marries Saul’s daughter Michal (20-30)
 ```
 
+### Remain Humble When Successful
+
+from [workbook March–April 2022](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-March-28-April-3-2022/Remain-Humble-When-Successful/)
+
+- David received praise from the people (1Sa 18:5-7; w04 4/1 15 ¶4)
+- Jehovah gave David success in all he did (1Sa 18:14)
+- David remained humble (1Sa 18:22, 23; w18.01 28 ¶6-7)
+
+Why is it important for us to remain humble when we receive blessings from Jehovah? What will help us to remain humble?
+
 ## 1 Samuel 19
 
 ```
@@ -207,11 +259,25 @@ Saul continues to hate David (1-13)
 David escapes from Saul (14-24)
 ```
 
+#### 1Sa 19:23, 24​—In what way might King Saul have behaved “as a prophet”? (it-2 695-696)
+
+Though appointed by Jehovah’s spirit, it does not appear that the prophets spoke continually  under inspiration. Rather, God’s spirit ‘came upon them’ at certain times, revealing the messages to be announced. (Eze 11:4, 5; Mic 3:8) This had a stirring effect upon them, impelling them to speak. (1Sa 10:10; Jer 20:9; Am 3:8) Not only did they do things that were out of the ordinary but also their expression and manner doubtless reflected intensity and feeling that were truly extraordinary. This may explain in part what is meant by individuals’ “behaving like prophets.” (1Sa 10:6-11; 19:20-24; Jer 29:24-32; compare Ac 2:4, 12-17; 6:15; 7:55.) Their total concentration and zealous boldness in their mission might cause their behavior to appear strange, even irrational, to others, just as a prophet so appeared to military chiefs when Jehu was anointed. Yet, on realizing that the man was a prophet, the chiefs accepted his message with full seriousness. (2Ki 9:1-13; compare Ac 26:24, 25.) When Saul, in pursuit of David, was caused to ‘behave like a prophet,’ he stripped off his garments and lay “naked all that day and all that night,” during which time David evidently escaped. (1Sa 19:18–20:1) This does not mean that prophets frequently went naked, for the Biblical record shows the contrary. In the two other cases recorded, the prophet went naked for a purpose, to represent some facet of his prophecy. (Isa 20:2-4; Mic 1:8-11) The reason for Saul’s nakedness​—whether to show him as a mere man, divested of his royal garments, impotent against Jehovah’s own regal authority and power, or for some other purpose—​is not stated.
+
 ## 1 Samuel 20
 
 ```
 Jonathan’s loyalty to David (1-42)
 ```
+
+### How to Be a Good Friend
+
+from [workbook March–April 2022](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-April-4-10-2022/How-to-Be-a-Good-Friend/)
+
+- Comfort and encourage your friend when he is distressed (1Sa 20:1, 2; w19.11 7 ¶18)
+- Warn your friend when there is danger (1Sa 20:12, 13; w08 2/15 8 ¶7)
+- Defend your friend when he is slandered (1Sa 20:30-32; w09 10/15 19 ¶11)
+
+Jehovah’s people have many opportunities to develop good friendships. To have a friend, we must be a friend. Whom would you like to befriend in the congregation?
 
 ## 1 Samuel 21
 
@@ -219,6 +285,10 @@ Jonathan’s loyalty to David (1-42)
 David eats the showbread at Nob (1-9)
 David feigns insanity in Gath (10-15)
 ```
+
+#### 1Sa 21:12, 13​—What can we learn from David’s actions? (w05 3/15 24 ¶4)
+
+Jehovah expects us to use our mental faculties and abilities to deal with difficult situations in life. He has given us his inspired Word, which imparts prudence, knowledge, and thinking ability. (Proverbs 1:4) We also have the help of appointed Christian elders.
 
 ## 1 Samuel 22
 
@@ -237,12 +307,26 @@ Jonathan strengthens David (16-18)
 David narrowly escapes Saul (19-29)
 ```
 
+#### 1Sa 23:16, 17​—How can we imitate Jonathan’s example? (w17.11 27 ¶11)
+
+If we cultivate love and kindness in our heart, we will not easily become jealous. God’s Word says: “Love is patient and kind. Love is not jealous.” (1 Cor. 13:4) To prevent jealousy from taking root in our heart, we must strive to see things from God’s standpoint, viewing our brothers and sisters as members of the same Christian body. This will help us to show fellow feeling, in harmony with the inspired counsel: “If a member is glorified, all the other members rejoice with it.” (1 Cor. 12:16-18, 26) Thus, rather than feel jealous, we will be happy when others receive blessings. Consider the example of King Saul’s son Jonathan. He was not jealous when David was appointed heir to the throne. Rather, he encouraged David. (1 Sam. 23:16-18) Could we be as kind and loving as Jonathan?
+
 ## 1 Samuel 24
 
 ```
 David spares Saul’s life (1-22)
   David respects Jehovah’s anointed (6)
 ```
+
+### Wait Patiently on Jehovah
+
+from [workbook March–April 2022](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-April-18-24-2022/Wait-Patiently-on-Jehovah/)
+
+- David had an opportunity to end his trial (1Sa 24:3-5)
+- David viewed his situation from Jehovah’s standpoint and exercised restraint (1Sa 24:6, 7)
+- David had faith that Jehovah would resolve matters (1Sa 24:12, 15; w04 4/1 16 ¶8)
+
+Like David, we should wait patiently on Jehovah instead of using unscriptural means to end trials.​—Jas 1:4; w04 6/1 22-23.
 
 ## 1 Samuel 25
 
@@ -254,6 +338,20 @@ Abigail’s wise action (14-35)
 Senseless Nabal struck by Jehovah (36-38)
 Abigail becomes David’s wife (39-44)
 ```
+
+#### 1Sa 25:18, 19​—Why can we say that Abigail did not rebel against her husband’s rightful headship? (ia 80 ¶16)
+
+Does this mean that Abigail was rebelling against her husband’s rightful headship? No; keep in mind that Nabal had acted wickedly against an anointed servant of Jehovah, an action that could well result in death for many innocent members of Nabal’s household. If Abigail failed to act, might she become a sharer in her husband’s guilt? In this case, she had to put submission to her God ahead of submission to her husband.
+
+### Do You Act on Impulse?
+
+from [workbook March–April 2022](https://www.jw.org/en/library/jw-meeting-workbook/march-april-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-April-25-May-1-2022/Do-You-Act-on-Impulse/)
+
+- David’s reasonable request was met with insults (1Sa 25:7-11; ia 78 ¶10-12)
+- David’s impulse was to kill the men of Nabal’s household (1Sa 25:13, 21, 22)
+- Abigail helped David to avoid bloodguilt (1Sa 25:25, 26, 32, 33; ia 80 ¶18)
+
+**ASK YOURSELF:** ‘Do I tend to act on impulse when I am angry, when I am shopping, or when I am discouraged? Or do I pause to consider the consequences before I act?’​—Pr 15:28; 22:3.
 
 ## 1 Samuel 26
 
