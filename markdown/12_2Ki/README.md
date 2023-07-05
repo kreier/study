@@ -363,6 +363,15 @@ Book of the Law found (8-13)
 Huldah’s prophecy of calamity (14-20)
 ```
 
+### Why Be Humble?
+
+from [workbook January–February 2023](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-January-2-8-2023/Why-Be-Humble/)
+
+- Josiah was eager to please Jehovah (2Ki 22:1-5)
+- He humbly admitted the errors of the people (2Ki 22:13; w00 9/15 29-30)
+- Because Josiah was humble, Jehovah blessed him (2Ki 22:18-20; w00 9/15 30 ¶2)
+
+We gain Jehovah’s favor when we humbly turn to him for guidance and when we admit our mistakes and correct our path.​—Jas 4:6.
 
 ## 2 Kings 23
 
@@ -375,6 +384,11 @@ Jehoahaz, king of Judah (31-33)
 Jehoiakim, king of Judah (34-37)
 ```
 
+#### 2Ki 23:24, 25​—What encouragement does Josiah’s example provide for those who have endured a difficult childhood? (w01 4/15 26 ¶3-4)
+
+Despite the negative circumstances of his early childhood, Josiah proceeded to do what was good in Jehovah’s eyes. So successful was his reign that the Bible states: “Like him there did not prove to be a king prior to him who returned to Jehovah with all his heart and with all his soul and with all his vital force, according to all the law of Moses; neither after him has there risen up one like him.”​—2 Kings 23:19-25.
+
+What an encouraging example Josiah proves to be for those who may have had to endure a terrible childhood! What can we learn from his example? What helped Josiah to choose the right course and stay on it?
 
 ## 2 Kings 24
 
@@ -385,6 +399,9 @@ First deportation to Babylon (10-17)
 Zedekiah, king of Judah; his rebellion (18-20)
 ```
 
+#### 2Ki 24:3, 4​—What do these verses teach us about Jehovah? (w05 8/1 12 ¶1)
+
+On account of Manasseh’s bloodguilt, Jehovah “did not consent to grant forgiveness” to Judah. God respects the blood of the innocent. We can be confident that Jehovah will avenge innocent blood by destroying those responsible for shedding it.​—Psalm 37:9-11; 145:20.
 
 ## 2 Kings 25
 
@@ -396,4 +413,13 @@ Gedaliah murdered; people flee to Egypt (25, 26)
 Jehoiachin released in Babylon (27-30)
 ```
 
+### Maintain Your Sense of Urgency
+
+from [workbook January–February 2023](https://www.jw.org/en/library/jw-meeting-workbook/january-february-2023-mwb/Life-and-Ministry-Meeting-Schedule-for-January-9-15-2023/Maintain-Your-Sense-of-Urgency/)
+
+- For years, Jehovah warned the people of Judah that he would reject them if they continued to act wickedly (2Ki 24:2, 3; w01 2/15 12 ¶2)
+- Jehovah used the Babylonians to destroy Jerusalem in 607 B.C.E. (2Ki 25:8-10; w07 3/15 11 ¶10)
+- Jehovah spared the lives of those who responded to his warnings (2Ki 25:11)
+
+For many decades, Jehovah has been warning earth’s inhabitants that he will execute judgment on “the ungodly people.”​—2Pe 3:7.
 
