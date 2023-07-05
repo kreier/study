@@ -253,6 +253,20 @@ Barzillai honored (31-40)
 Dispute among the tribes (41-43)
 ```
 
+#### 2Sa 19:24-30​—How can we draw strength from Mephibosheth’s example? (w20.04 30 ¶19)
+
+If you live with limitations and feel that you are misunderstood, you may be able to draw strength from the example of Mephibosheth. (2 Sam. 4:4) He had to deal with being infirm, and he was misjudged by King David. Mephibosheth did nothing to bring these trials on himself. Yet, he did not allow himself to become negative; he appreciated the positive things in his life. He was thankful for the kindness David had shown him in the past. (2 Sam. 9:6-10) So when David misjudged him, Mephibosheth saw the complete picture. He did not allow David’s mistake to make him bitter. And he did not blame Jehovah for what David had done. Mephibosheth focused on  what he could do to support Jehovah’s appointed king. (2 Sam. 16:1-4; 19:24-30) Jehovah had Mephibosheth’s excellent example recorded in His Word for our benefit.​—Rom. 15:4.
+
+### Barzillai—An Example of Modesty
+
+from [workbook July–August 2022](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-July-4-10-2022/Barzillai-An-Example-of-Modesty/)
+
+- Barzillai was offered a privilege by King David (2Sa 19:32, 33; w07 7/15 14 ¶5)
+- Modesty moved Barzillai to decline the offer respectfully (2Sa 19:34, 35; w07 7/15 14 ¶7)
+- Be modest like Barzillai (w07 7/15 15 ¶1-2)
+
+Modesty makes us aware of our limitations. We must be modest in order to please Jehovah. (Mic 6:8) How do we benefit when we display this quality?
+
 ## 2 Samuel 20
 
 ```
@@ -268,6 +282,20 @@ Gibeonites avenged on Saul’s house (1-14)
 Wars against the Philistines (15-22)
 ```
 
+#### 2Sa 21:15-17​—What lessons can we draw from this account? (w13 1/15 31 ¶14)
+
+Worldwide, we as Jehovah’s people are carrying out our ministry despite the obstacles that Satan and his agents place in our path. Some of us have stood face-to-face with giant challenges, but with full reliance on Jehovah, we took on those “Goliaths” and conquered them. However, at times, the constant battle against the pressures of this world leaves us tired and discouraged. In that weakened condition, we are vulnerable and in danger of being ‘struck down’ by pressures we otherwise would have dealt with successfully. At such moments, the timely support given by an elder can help us to regain our joy and our strength, as many have experienced. A pioneer in her mid-60’s related: “Some time ago, I did not feel well, and field service tired me out. An elder noticed my lack of energy and approached me. We had an encouraging conversation based on a Bible passage. I applied the suggestions he gave me, and I benefited.” She added: “How loving of that elder to take note of my weak condition and to give me help!” Yes, it is heartening to know that we have elders who keep a loving eye on us and who, much like Abishai of old, stand ready to ‘come to our help.’
+
+### Jehovah Is a God of Justice
+
+from [workbook July–August 2022](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-July-11-17-2022/Jehovah-Is-a-God-of-Justice/)
+
+- Jehovah did not forget the injustice committed against the Gibeonites (2Sa 21:1, 2)
+- Silver and gold could not atone for the bloodguilt of Saul and his household (Nu 35:31, 33; 2Sa 21:3, 4)
+- Seven of Saul’s descendants were executed to satisfy justice (2Sa 21:5, 6; it-1 932 ¶1)
+
+How can Romans 12:19-21 help us when we are victims of unjust treatment?
+
 ## 2 Samuel 22
 
 ```
@@ -276,12 +304,30 @@ David praises God for his acts of salvation (1-51)
   Jehovah loyal to the loyal ones (26)
 ```
 
+#### 2Sa 22:36​—How did Jehovah’s humility make David great? (w12 11/15 17 ¶7)
+
+God’s example of humility had a tremendous effect on the psalmist David. He sang to Jehovah: “You will give me your shield of salvation, and it is your humility that makes me great.” (2 Sam. 22:36) David attributed any greatness he had in Israel to Jehovah’s humility​—to God’s condescending, or humbling himself, to pay attention to him. (Ps. 113:5-7) Is it any different with us? In the way of qualities, abilities, and privileges, what do any of us have that we “did not receive” from Jehovah? (1 Cor. 4:7) The person who conducts himself as a lesser one is “great” in that he becomes more valuable as a servant of Jehovah. (Luke 9:48, ftn.) Let us reflect on how this is so.
+
+### Rely On Jehovah for Help
+
+from [workbook July–August 2022](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-July-18-24-2022/Rely-On-Jehovah-for-Help/)
+
+- Jehovah hears our cries for help (2Sa 22:7)
+- Jehovah is stronger than any enemy (2Sa 22:14-18; cl 19 ¶11)
+- Jehovah loyally acts in our behalf (2Sa 22:26; w10 6/1 26 ¶4-6)
+
+Jehovah has the ability to remove our trials. However, in most cases, he helps us to cope with them by means of his holy spirit, his Word, and our Christian brotherhood. (Ps 55:22) In what ways can we avail ourselves of God’s help?
+
 ## 2 Samuel 23
 
 ```
 David’s last words (1-7)
 Exploits of David’s mighty warriors (8-39)
 ```
+
+#### 2Sa 23:15-17​—Why did David refuse to drink the water? (w05 5/15 19 ¶6)
+
+David had such a deep respect for God’s law on life and blood that on this occasion, he refrained from doing what even resembled a violation of that law. We must cultivate such an attitude toward all of God’s commands.
 
 ## 2 Samuel 24
 
@@ -291,4 +337,14 @@ Pestilence kills 70,000 (15-17)
 David builds an altar (18-25)
   No sacrifices without cost (24)
 ```
+
+### Is Your Giving a Sacrifice?
+
+from [workbook July–August 2022](https://www.jw.org/en/library/jw-meeting-workbook/july-august-2022-mwb/Life-and-Ministry-Meeting-Schedule-for-July-25-31-2022/Is-Your-Giving-a-Sacrifice/)
+
+- David was instructed to set up an altar on the threshing floor of Araunah (2Sa 24:18)
+- Araunah graciously offered to donate the land and sacrificial animals (2Sa 24:21-23)
+- David would not offer sacrifices that cost him nothing (2Sa 24:24, 25; it-1 146)
+
+Jehovah is pleased when we willingly sacrifice our time, energy, and resources in order to promote Kingdom interests. (w12 1/15 18 ¶8) What goals could you set to increase your “sacrifice of praise” to him?​—Heb 13:15.
 

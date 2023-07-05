@@ -33,7 +33,8 @@ total_output_errors = 0
 
 for index, row in books.iterrows():
     processed_chapters = 0
-    text_markdown = ""  
+    text_markdown = ""
+    print(f" {row.book} ", end="")
     for chapter in range(row.chapters + 1):
         filename = f'{row.folder}/{chapter:02d}.md'
         try:
@@ -47,7 +48,7 @@ for index, row in books.iterrows():
                     processed_chapters += 1
                     total_words += num_words
                     total_chapters += 1
-                print(filename, end=' ')
+                print(f"{chapter},", end="")
             text_markdown += '\n'
         except OSError as e:
             total_import_errors += 1
