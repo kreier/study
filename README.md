@@ -45,10 +45,10 @@ An example of how this is done can be seen in the analysis of the En-Gedi scroll
 More about this scroll here: [https://archive.org/details/engedi-scroll](https://archive.org/details/engedi-scroll)
 
 
-## A Timeline of human history
+## [A Timeline of human history](https://github.com/kreier/timeline)
 
-Human history graph created in Jupyter Notebook, python and exported as pdf.
+Human history graph created in Jupyter Notebook, python and exported as pdf. It is a [different repository](https://github.com/kreier/timeline) on github.
 
 ![timeline](https://raw.githubusercontent.com/kreier/timeline/main/spreadsheet/timeline.png)
 
-last updated: 2023-07-05 18:59:31.238644
+last updated: 2023-07-05 19:15:10.083309
