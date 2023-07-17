@@ -54,7 +54,7 @@ nr,book,folder,html_folder,chapters,MB,time,minutes,min/MB
 53,2 Thessalonians,53_2Th,2_thessalonians,3,3,0:08,8,2.67
 54,1 Timothy,54_1Ti,1_timothy,6,6.9,0:19,19,2.75
 55,2 Timothy,55_2Ti,2_timothy,4,4.9,0:13,13,2.65
-56,Titus,56_Tit,titus,3,2.9,0:00,0,0.00
+56,Titus,56_Tit,titus,3,2.9,0:08,8,0.00
 57,Philemon,57_Phm,philemon,1,1.2,0:03,3,2.50
 58,Hebrews,58_Heb,hebrews,13,18.7,0:50,50,2.67
 59,James,59_Jas,james,5,7,0:19,19,2.71
@@ -65,4 +65,4 @@ nr,book,folder,html_folder,chapters,MB,time,minutes,min/MB
 64,3 John,64_3Jo,3_john,1,1.1,0:03,3,2.73
 65,Jude,65_Jude,jude,1,2,0:05,5,2.50
 66,Revelation,66_Re,revelation,22,35.1,1:35,95,2.71
-,,,,1189,2320,0,5545,2.49
+,,,,1189,2320,0:08:00,5553,2.49
