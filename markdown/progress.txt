@@ -40,17 +40,14 @@
 2023/07/20 Ruth 1-4           minutes +18  = 1278/5545 or 23%
 2023/07/21 1 Samuel 1-10
 2023/07/22 1 Samuel 11-31     minutes +162 = 1440/5545 or 25.9%
-2023/07/23 2 Samuel 1-
-2023/07/24 
-2023/07/25 
+2023/07/23 2 Samuel 1-24      minutes +132 = 1572/5545 or 28.3%
+2023/07/24 1 Kings 1-22       minutes +162 = 1734/5545 or 31.2%
+2023/07/25 2 Kings 1-14
 2023/07/26 
 
 
 
   
-
-2 Samuel       minutes +132 = 1572/5545 or 28.3%
-1 Kings        minutes +162 = 1734/5545 or 31.2%
 2 Kings        minutes +155 = 1889/5545 or 34%
 1 Chronicles   minutes +146 = 2035/5545 or 36.6%
 2 Chronicles   minutes +172 = 2207/5545 or 39.8%
