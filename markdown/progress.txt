@@ -42,18 +42,16 @@
 2023/07/22 1 Samuel 11-31     minutes +162 = 1440/5545 or 25.9%
 2023/07/23 2 Samuel 1-24      minutes +132 = 1572/5545 or 28.3%
 2023/07/24 1 Kings 1-22       minutes +162 = 1734/5545 or 31.2%
-2023/07/25 2 Kings 1-14
-2023/07/26 
+2023/07/25 2 Kings 1-25       minutes +155 = 1889/5545 or 34%
+2023/07/26 1 Chronicles       minutes +146 = 2035/5545 or 36.6%
+2023/07/27 2 Chronicles       minutes +172 = 2207/5545 or 39.8%
+2023/07/28 Ezra               minutes +50  = 2257/5545 or 40.7%
+2023/07/28 Nehemiah           minutes +67  = 2324/5545 or 41.9% 
+2023/07/28 Esther             minutes +35  = 2359/5545 or 42.5%
+2023/07/29 
 
 
 
-  
-2 Kings        minutes +155 = 1889/5545 or 34%
-1 Chronicles   minutes +146 = 2035/5545 or 36.6%
-2 Chronicles   minutes +172 = 2207/5545 or 39.8%
-Ezra           minutes +50  = 2257/5545 or 40.7%
-Nehemiah       minutes +67  = 2324/5545 or 41.9% catched up!!
-Esther         minutes +35  = 2359/5545 or 42.5%
 Job            minutes +140 = 2499/5545 or 45%
 Psalms         minutes +371 = 2870/5545 or 51.7%
 Proverbs       minutes +131 = 3001/5545 or 54.1%
@@ -62,7 +60,7 @@ Ecclesiastes   minutes +42  = 3043/5545 or 54.8%
 Isaiah         minutes +270 = 3335/5545 or 60.1%
 Jeremiah       minutes +289 = 3624/5545 or 65.3%
 Lamentations   minutes +27  = 3651/5545 or 65.8%
-Exekiel        minutes +251 = 3902/5545 or 70.3%
+Ezekiel        minutes +251 = 3902/5545 or 70.3%
 Daniel         minutes +86  = 3988/5545 or 71.9%
 Hosea          minutes +39  = 4027/5545 or 72.6%
 Joel           minutes +15  = 4042/5545 or 72.8%
