@@ -48,11 +48,11 @@
 2023/07/28 Ezra               minutes +50  = 2257/5545 or 40.7%
 2023/07/28 Nehemiah           minutes +67  = 2324/5545 or 41.9% 
 2023/07/28 Esther             minutes +35  = 2359/5545 or 42.5%
-2023/07/29 
+2023/07/29 Job                minutes +140 = 2499/5545 or 45%
+2023/07/30 
 
 
 
-Job            minutes +140 = 2499/5545 or 45%
 Psalms         minutes +371 = 2870/5545 or 51.7%
 Proverbs       minutes +131 = 3001/5545 or 54.1%
 Ecclesiastes   minutes +42  = 3043/5545 or 54.8%
