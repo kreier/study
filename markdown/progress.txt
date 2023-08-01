@@ -49,11 +49,13 @@
 2023/07/28 Nehemiah           minutes +67  = 2324/5545 or 41.9% 
 2023/07/28 Esther             minutes +35  = 2359/5545 or 42.5%
 2023/07/29 Job                minutes +140 = 2499/5545 or 45%
-2023/07/30 
+2023/07/30 Psalms 1-41  BOOK ONE
+2023/07/31 Psalms 42-72 BOOK TWO
+2023/08/01 Psalms 73-150      minutes +371 = 2870/5545 or 51.7%
+2023/08/02 Proverbs 
 
 
 
-Psalms         minutes +371 = 2870/5545 or 51.7%
 Proverbs       minutes +131 = 3001/5545 or 54.1%
 Ecclesiastes   minutes +42  = 3043/5545 or 54.8%
 2023/07/20 Song of Solomon  minutes +22  = 3065/5545 or 55.2%
