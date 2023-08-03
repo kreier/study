@@ -52,37 +52,34 @@
 2023/07/30 Psalms 1-41  BOOK ONE
 2023/07/31 Psalms 42-72 BOOK TWO
 2023/08/01 Psalms 73-150      minutes +371 = 2870/5545 or 51.7%
-2023/08/02 Proverbs 
+2023/08/02 Proverbs           minutes +131 = 3001/5545 or 54.1%
+2023/08/02 Ecclesiastes       minutes +42  = 3043/5545 or 54.8%
+2023/08/02 Song of Solomon    minutes +22  = 3065/5545 or 55.2%
+2023/08/02 Isaiah 1-33
+2023/08/03 Isaiah 34-        minutes +270 = 3335/5545 or 60.1%
+Jeremiah        minutes +289 = 3624/5545 or 65.3%
+Lamentations    minutes +27  = 3651/5545 or 65.8%
+Ezekiel         minutes +251 = 3902/5545 or 70.3%
+Daniel          minutes +86  = 3988/5545 or 71.9%
+Hosea           minutes +39  = 4027/5545 or 72.6%
+Joel            minutes +15  = 4042/5545 or 72.8%
+Amos            minutes +30  = 4072/5545 or 73.4%
+Obadiah         minutes +5   = 4077/5545 or 73.5%
+Jonah           minutes +9   = 4086/5545 or 73.6%
+Micah           minutes +28  = 4114/5545 or 74.1%
+Nahum           minutes +12  = 4126/5545 or 74.4%
+Habakkuk        minutes +11  = 4137/5545 or 74.6%
+Zephaniah       minutes +12  = 4149/5545 or 74.8%
+Haggai          minutes +8   = 4157/5545 or 74.9%
+Zechariah       minutes +43  = 4200/5545 or 75.7%
+Malachi         minutes +13  = 4213/5545 or 75.9%
 
-
-
-Proverbs       minutes +131 = 3001/5545 or 54.1%
-Ecclesiastes   minutes +42  = 3043/5545 or 54.8%
-2023/07/20 Song of Solomon  minutes +22  = 3065/5545 or 55.2%
-Isaiah         minutes +270 = 3335/5545 or 60.1%
-Jeremiah       minutes +289 = 3624/5545 or 65.3%
-Lamentations   minutes +27  = 3651/5545 or 65.8%
-Ezekiel        minutes +251 = 3902/5545 or 70.3%
-Daniel         minutes +86  = 3988/5545 or 71.9%
-Hosea          minutes +39  = 4027/5545 or 72.6%
-Joel           minutes +15  = 4042/5545 or 72.8%
-Amos           minutes +30  = 4072/5545 or 73.4%
-Obadiah        minutes +5   = 4077/5545 or 73.5%
-Jonah          minutes +9   = 4086/5545 or 73.6%
-Micah          minutes +28  = 4114/5545 or 74.1%
-Nahum          minutes +12  = 4126/5545 or 74.4%
-Habakkuk       minutes +11  = 4137/5545 or 74.6%
-Zephaniah      minutes +12  = 4149/5545 or 74.8%
-Haggai         minutes +8   = 4157/5545 or 74.9%
-Zechariah      minutes +43  = 4200/5545 or 75.7%
-Malachi        minutes +13  = 4213/5545 or 75.9%
-
-Matthew        minutes +171 = 4384/5545 or 79%
-Mark           minutes +117 = 4501/5545 or 81.1%
-Luke           minutes +187 = 4688/5545 or 84.5%
-John           minutes +143 = 4831/5545 or 87.1%
-Acts           minutes +169 = 5000/5545 or 90.1%
-Romans         minutes +70  =
-1 Corinthians  minutes +69  =
-2 Corinthians  minutes +44  =
+Matthew         minutes +171 = 4384/5545 or 79%
+Mark            minutes +117 = 4501/5545 or 81.1%
+Luke            minutes +187 = 4688/5545 or 84.5%
+John            minutes +143 = 4831/5545 or 87.1%
+Acts            minutes +169 = 5000/5545 or 90.1%
+Romans          minutes +70  =
+1 Corinthians   minutes +69  =
+2 Corinthians   minutes +44  =
 
