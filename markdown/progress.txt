@@ -71,12 +71,13 @@
 2023/08/15 Ezekiel 13-16
 2023/08/16 Ezekiel 17-23
 2023/08/17 Ezekiel 24-32
-2023/08/18 Ezekiel 33-
-
-Ezekiel         minutes +251 = 3902/5545 or 70.3%
-Daniel          minutes +86  = 3988/5545 or 71.9%
-Hosea           minutes +39  = 4027/5545 or 72.6%
-Joel            minutes +15  = 4042/5545 or 72.8%
+2023/08/18 Ezekiel 33-38
+2023/08/19 Ezekiel 39-42
+2023/08/20 Ezekiel 43-48      minutes +251 = 3902/5545 or 70.3%
+2023/08/21 Daniel 1-6
+2023/08/22 Daniel 7-12        minutes +86  = 3988/5545 or 71.9%
+2023/08/23 Hosea 1-14         minutes +39  = 4027/5545 or 72.6%
+2023/08/24 Joel 1-3           minutes +15  = 4042/5545 or 72.8%
 Amos            minutes +30  = 4072/5545 or 73.4%
 Obadiah         minutes +5   = 4077/5545 or 73.5%
 Jonah           minutes +9   = 4086/5545 or 73.6%
