@@ -104,7 +104,10 @@
 2023/09/07 Luke 1-10
 2023/09/08 Luke 11-22
 2023/09/09 Luke 23-24         minutes +187 = 4688/5553 or 84.5%
-John            minutes +143 = 4831/5553 or 87.1%
+2023/09/10 John 1-5
+2023/09/11 John 6-11
+2023/09/12 John 12-16
+2023/09/13 John 17-           minutes +143 = 4831/5553 or 87.1%
 Acts            minutes +169 = 5000/5553 or 90.1%
 Romans          minutes +70 = 5070/5553 or 91.3%
 1 Corinthians   minutes +69 = 5139/5553 or 92.5%
