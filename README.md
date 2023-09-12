@@ -51,4 +51,4 @@ Human history graph created in Jupyter Notebook, python and exported as pdf. It 
 
 ![timeline](https://raw.githubusercontent.com/kreier/timeline/main/spreadsheet/timeline.png)
 
-last updated: 2023-07-05 19:38:58.816995
+last updated: 2023-09-13 00:17:27.664496
