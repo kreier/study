@@ -107,9 +107,11 @@
 2023/09/10 John 1-5
 2023/09/11 John 6-11
 2023/09/12 John 12-16
-2023/09/13 John 17-           minutes +143 = 4831/5553 or 87.1%
-Acts            minutes +169 = 5000/5553 or 90.1%
-Romans          minutes +70 = 5070/5553 or 91.3%
+2023/09/13 John 17-21         minutes +143 = 4831/5553 or 87.1%
+2023/09/14 Acts 1-11
+2023/09/15 Acts 12-28         minutes +169 = 5000/5553 or 90.1%
+2023/09/16 Romans 1-10
+2023/09/17 Romans 11-16       minutes +70 = 5070/5553 or 91.3%
 1 Corinthians   minutes +69 = 5139/5553 or 92.5%
 2 Corinthians   minutes +44 = 5183/5553 or 93.3%
 Galatians       minutes +25 = 5208/5553 or 93.7%
