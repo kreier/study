@@ -112,7 +112,8 @@
 2023/09/15 Acts 12-28         minutes +169 = 5000/5553 or 90.1%
 2023/09/16 Romans 1-10
 2023/09/17 Romans 11-16       minutes +70 = 5070/5553 or 91.3%
-1 Corinthians   minutes +69 = 5139/5553 or 92.5%
+2023/09/18 1 Corinthians 1-8
+2023/09/19 1 Corinthians 9-  minutes +69 = 5139/5553 or 92.5%
 2 Corinthians   minutes +44 = 5183/5553 or 93.3%
 Galatians       minutes +25 = 5208/5553 or 93.7%
 Ephesians       minutes +23 = 5231/5553 or 94.2%
@@ -133,4 +134,3 @@ James           minutes +19 = 5396/5553 or 97.1%
 3 John          minutes +3 = 5453/5553 or 98.1%
 Jude            minutes +5 = 5458/5553 or 98.2%
 Revelation      minutes +95 = 5553/5553 or 100%
-
