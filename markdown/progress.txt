@@ -113,8 +113,10 @@
 2023/09/16 Romans 1-10
 2023/09/17 Romans 11-16       minutes +70 = 5070/5553 or 91.3%
 2023/09/18 1 Corinthians 1-8
-2023/09/19 1 Corinthians 9-  minutes +69 = 5139/5553 or 92.5%
-2 Corinthians   minutes +44 = 5183/5553 or 93.3%
+2023/09/19 1 Corinthians 9-12
+2023/09/20 1 Corinthians 13-16 minutes +69 = 5139/5553 or 92.5%
+2023/09/21 2 Corinthians 1-6
+2023/09/22 2 Corinthians 7-  minutes +44 = 5183/5553 or 93.3%
 Galatians       minutes +25 = 5208/5553 or 93.7%
 Ephesians       minutes +23 = 5231/5553 or 94.2%
 Philippians     minutes +16 = 5247/5553 or 94.4%
