@@ -1,68 +1,68 @@
-nr,book,folder,html_folder,chapters,MB,time,minutes,min/MB
-1,Genesis,01_Ge,genesis,50,130.7,4:28,268,2.05
-2,Exodus,02_Ex,exodus,40,103.6,3:33,213,2.06
-3,Leviticus,03_Le,leviticus,27,72.5,2:29,149,2.06
-4,Numbers,04_Nu,numbers,36,103.3,3:32,212,2.05
-5,Deuteronomy,05_De,deuteronomy,34,87.4,2:59,179,2.05
-6,Joshua,06_Jos,joshua,24,56.8,1:56,116,2.04
-7,Judges,07_Jg,judges,21,59.7,2:03,123,2.06
-8,Ruth,08_Ru,ruth,4,8.9,0:18,18,2.02
-9,1 Samuel,09_1Sa,1_samuel,31,78.9,2:42,162,2.05
-10,2 Samuel,10_2Sa,2_samuel,24,64.5,2:12,132,2.05
-11,1 Kings,11_1Ki,1_kings,22,78.8,2:42,162,2.06
-12,2 Kings,12_2Ki,2_kings,25,75.5,2:35,155,2.05
-13,1 Chronicles,13_1Ch,1_chronicles,29,71.5,2:26,146,2.04
-14,2 Chronicles,14_2Ch,2_chronicles,36,84,2:52,172,2.05
-15,Ezra,15_Ezr,ezra,10,24.2,0:50,50,2.07
-16,Nehemiah,16_Ne,nehemiah,13,24.8,1:07,67,2.70
-17,Esther,17_Es,esther,10,13.1,0:35,35,2.67
-18,Job,18_Job,job,42,51.9,2:20,140,2.70
-19,Psalms,19_Ps,psalms,150,139.6,6:11,371,2.66
-20,Proverbs,20_Pr,proverbs,31,48.4,2:11,131,2.71
-21,Ecclesiastes,21_Ec,ecclesiastes,12,15.8,0:42,42,2.66
-22,Song of Solomon,22_Ca,song_of_solomon,8,8.1,0:22,22,2.72
-23,Isaiah,23_Isa,isaiah,66,99.8,4:30,270,2.71
-24,Jeremiah,24_Jer,jeremiah,52,106.2,4:49,289,2.72
-25,Lamentations,25_La,lamentations,5,9.8,0:27,27,2.76
-26,Ezekiel,26_Eze,ezekiel,48,92.4,4:11,251,2.72
-27,Daniel,27_Da,daniel,12,31.3,1:26,86,2.75
-28,Hosea,28_Ho,hosea,14,14.7,0:39,39,2.65
-29,Joel,29_Joe,joel,3,5.4,0:15,15,2.78
-30,Amos,30_Am,amos,9,11.1,0:30,30,2.70
-31,Obadiah,31_Ob,obadiah,1,1.8,0:05,5,2.78
-32,Jonah,32_Jon,jonah,4,4.5,0:09,9,2.00
-33,Micah,33_Mic,micah,7,10.2,0:28,28,2.75
-34,Nahum,34_Na,nahum,3,4.3,0:12,12,2.79
-35,Habakkuk,35_Hab,habakkuk,3,4.1,0:11,11,2.68
-36,Zephaniah,36_Zep,zephaniah,3,4.4,0:12,12,2.73
-37,Haggai,37_Hag,haggai,2,2.9,0:08,8,2.76
-38,Zechariah,38_Zec,zechariah,14,16.2,0:43,43,2.65
-39,Malachi,39_Mal,malachi,4,4.9,0:13,13,2.65
-40,Matthew,40_Mt,matthew,28,62.6,2:51,171,2.73
-41,Mark,41_Mr,mark,16,42.6,1:57,117,2.75
-42,Luke,42_Lu,luke,24,68.4,3:07,187,2.73
-43,John,43_Joh,john,21,52.3,2:23,143,2.73
-44,Acts,44_Ac,acts,28,62,2:49,169,2.73
-45,Romans,45_Ro,romans,16,25.9,1:10,70,2.70
-46,1 Corinthians,46_1Co,1_corinthians,16,25.5,1:09,69,2.71
-47,2 Corinthians,47_2Co,2_corinthians,13,16.5,0:44,44,2.67
-48,Galatians,48_Ga,galatians,6,9.2,0:25,25,2.72
-49,Ephesians,49_Eph,ephesians,6,8.6,0:23,23,2.67
-50,Philippians,50_Php,philippians,4,6.1,0:16,16,2.62
-51,Colossians,51_Col,colossians,4,5.7,0:15,15,2.63
-52,1 Thessalonians,52_1Th,1_thessalonians,5,5.2,0:14,14,2.69
-53,2 Thessalonians,53_2Th,2_thessalonians,3,3,0:08,8,2.67
-54,1 Timothy,54_1Ti,1_timothy,6,6.9,0:19,19,2.75
-55,2 Timothy,55_2Ti,2_timothy,4,4.9,0:13,13,2.65
-56,Titus,56_Tit,titus,3,2.9,0:08,8,0.00
-57,Philemon,57_Phm,philemon,1,1.2,0:03,3,2.50
-58,Hebrews,58_Heb,hebrews,13,18.7,0:50,50,2.67
-59,James,59_Jas,james,5,7,0:19,19,2.71
-60,1 Peter,60_1Pe,1_peter,5,7,0:19,19,2.71
-61,2 Peter,61_2Pe,2_peter,3,4.4,0:12,12,2.73
-62,1 John,62_1Jo,1_john,5,7.8,0:21,21,2.69
-63,2 John,63_2Jo,2_john,1,0.924,0:02,2,2.16
-64,3 John,64_3Jo,3_john,1,1.1,0:03,3,2.73
-65,Jude,65_Jude,jude,1,2,0:05,5,2.50
-66,Revelation,66_Re,revelation,22,35.1,1:35,95,2.71
-,,,,1189,2320,0:08:00,5553,2.49
+nr,book,folder,html_folder,chapters,MB,time,minutes,min/MB,kB/s
+1,Genesis,01_Ge,genesis,50,130.7,4:28,268,2.05,8.3
+2,Exodus,02_Ex,exodus,40,103.6,3:33,213,2.06,8.3
+3,Leviticus,03_Le,leviticus,27,72.5,2:29,149,2.06,8.3
+4,Numbers,04_Nu,numbers,36,103.3,3:32,212,2.05,8.3
+5,Deuteronomy,05_De,deuteronomy,34,87.4,2:59,179,2.05,8.3
+6,Joshua,06_Jos,joshua,24,56.8,1:56,116,2.04,8.4
+7,Judges,07_Jg,judges,21,59.7,2:03,123,2.06,8.3
+8,Ruth,08_Ru,ruth,4,8.9,0:18,18,2.02,8.4
+9,1 Samuel,09_1Sa,1_samuel,31,78.9,2:42,162,2.05,8.3
+10,2 Samuel,10_2Sa,2_samuel,24,64.5,2:12,132,2.05,8.3
+11,1 Kings,11_1Ki,1_kings,22,78.8,2:42,162,2.06,8.3
+12,2 Kings,12_2Ki,2_kings,25,75.5,2:35,155,2.05,8.3
+13,1 Chronicles,13_1Ch,1_chronicles,29,71.5,2:26,146,2.04,8.4
+14,2 Chronicles,14_2Ch,2_chronicles,36,84,2:52,172,2.05,8.3
+15,Ezra,15_Ezr,ezra,10,24.2,0:50,50,2.07,8.3
+16,Nehemiah,16_Ne,nehemiah,13,24.8,1:07,67,2.7,6.3
+17,Esther,17_Es,esther,10,13.1,0:35,35,2.67,6.4
+18,Job,18_Job,job,42,51.9,2:20,140,2.7,6.3
+19,Psalms,19_Ps,psalms,150,139.6,6:11,371,2.66,6.4
+20,Proverbs,20_Pr,proverbs,31,48.4,2:11,131,2.71,6.3
+21,Ecclesiastes,21_Ec,ecclesiastes,12,15.8,0:42,42,2.66,6.4
+22,Song of Solomon,22_Ca,song_of_solomon,8,8.1,0:22,22,2.72,6.3
+23,Isaiah,23_Isa,isaiah,66,99.8,4:30,270,2.71,6.3
+24,Jeremiah,24_Jer,jeremiah,52,106.2,4:49,289,2.72,6.3
+25,Lamentations,25_La,lamentations,5,9.8,0:27,27,2.76,6.2
+26,Ezekiel,26_Eze,ezekiel,48,92.4,4:11,251,2.72,6.3
+27,Daniel,27_Da,daniel,12,31.3,1:26,86,2.75,6.2
+28,Hosea,28_Ho,hosea,14,14.7,0:39,39,2.65,6.4
+29,Joel,29_Joe,joel,3,5.4,0:15,15,2.78,6.1
+30,Amos,30_Am,amos,9,11.1,0:30,30,2.7,6.3
+31,Obadiah,31_Ob,obadiah,1,1.8,0:05,5,2.78,6.1
+32,Jonah,32_Jon,jonah,4,4.5,0:09,9,2,8.5
+33,Micah,33_Mic,micah,7,10.2,0:28,28,2.75,6.2
+34,Nahum,34_Na,nahum,3,4.3,0:12,12,2.79,6.1
+35,Habakkuk,35_Hab,habakkuk,3,4.1,0:11,11,2.68,6.4
+36,Zephaniah,36_Zep,zephaniah,3,4.4,0:12,12,2.73,6.3
+37,Haggai,37_Hag,haggai,2,2.9,0:08,8,2.76,6.2
+38,Zechariah,38_Zec,zechariah,14,16.2,0:43,43,2.65,6.4
+39,Malachi,39_Mal,malachi,4,4.9,0:13,13,2.65,6.4
+40,Matthew,40_Mt,matthew,28,62.6,2:51,171,2.73,6.2
+41,Mark,41_Mr,mark,16,42.6,1:57,117,2.75,6.2
+42,Luke,42_Lu,luke,24,68.4,3:07,187,2.73,6.2
+43,John,43_Joh,john,21,52.3,2:23,143,2.73,6.2
+44,Acts,44_Ac,acts,28,62,2:49,169,2.73,6.3
+45,Romans,45_Ro,romans,16,25.9,1:10,70,2.7,6.3
+46,1 Corinthians,46_1Co,1_corinthians,16,25.5,1:09,69,2.71,6.3
+47,2 Corinthians,47_2Co,2_corinthians,13,16.5,0:44,44,2.67,6.4
+48,Galatians,48_Ga,galatians,6,9.2,0:25,25,2.72,6.3
+49,Ephesians,49_Eph,ephesians,6,8.6,0:23,23,2.67,6.4
+50,Philippians,50_Php,philippians,4,6.1,0:16,16,2.62,6.5
+51,Colossians,51_Col,colossians,4,5.7,0:15,15,2.63,6.5
+52,1 Thessalonians,52_1Th,1_thessalonians,5,5.2,0:14,14,2.69,6.3
+53,2 Thessalonians,53_2Th,2_thessalonians,3,3,0:08,8,2.67,6.4
+54,1 Timothy,54_1Ti,1_timothy,6,6.9,0:19,19,2.75,6.2
+55,2 Timothy,55_2Ti,2_timothy,4,4.9,0:13,13,2.65,6.4
+56,Titus,56_Tit,titus,3,2.9,0:08,8,0,6.2
+57,Philemon,57_Phm,philemon,1,1.2,0:03,3,2.5,6.8
+58,Hebrews,58_Heb,hebrews,13,18.7,0:50,50,2.67,6.4
+59,James,59_Jas,james,5,7,0:19,19,2.71,6.3
+60,1 Peter,60_1Pe,1_peter,5,7,0:19,19,2.71,6.3
+61,2 Peter,61_2Pe,2_peter,3,4.4,0:12,12,2.73,6.3
+62,1 John,62_1Jo,1_john,5,7.8,0:21,21,2.69,6.3
+63,2 John,63_2Jo,2_john,1,0.924,0:02,2,2.16,7.9
+64,3 John,64_3Jo,3_john,1,1.1,0:03,3,2.73,6.3
+65,Jude,65_Jude,jude,1,2,0:05,5,2.5,6.8
+66,Revelation,66_Re,revelation,22,35.1,1:35,95,2.71,6.3
+,,,,1189,2320,4511,5553,2.49,7.1
