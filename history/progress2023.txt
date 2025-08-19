@@ -1,0 +1,143 @@
+2023/06/11 Genesis 1-5
+2023/06/12 Genesis 6, 7
+2023/06/13 Genesis 8, 9
+2023/06/14 Genesis 10-16
+2023/06/15 Genesis 17, 18
+2023/06/16 Genesis 19-27
+2023/06/17 Genesis 28-37
+2023/06/18 Genesis 38-50      minutes 268/5553 or 4.8 %
+2023/06/19 Exodus 1-10
+2023/06/20 Exodus 11-12
+2023/06/21 Exodus 13-23
+2023/06/22 Exodus 24-35
+2023/06/23 Exodus 36-40       minutes +213 = 481/5553 or 8.7 %
+2023/06/24 Leviticus 1-5
+2023/06/25 Leviticus 6-10
+2023/06/26 Leviticus 11-27    minutes +149 = 630/5553 or 11.4 %
+2023/06/27 Numbers 1-3
+2023/06/28 Numbers 4-6
+2023/06/29 Numbers 7-8
+2023/06/30 Numbers 9-16
+2023/07/01 Numbers 17-25
+2023/07/02 Numbers 26-36      minutes +212 = 842/5553 or 15.8 %
+2023/07/03 Deuteronomy 1-3 
+2023/07/04 Deuteronomy 4, 5
+2023/07/05 Deuteronomy 6-20
+2023/07/06 Deuteronomy 24-25
+2023/07/07 Deuteronomy 26-27
+2023/07/08 Deuteronomy 28-29
+2023/07/09 Deuteronomy 30
+2023/07/10 Deuteronomy 31
+2023/07/11 Deuteronomy 32
+2023/07/12 Deuteronomy 33
+2023/07/13 Deuteronomy 34     minutes +179 = 1021/5553 or 18.4 %
+2023/07/14 Joshua 1-20
+2023/07/15 Joshua 21-22
+2023/07/16 Joshua 23-24       minutes +116 = 1137/5553 or 20.5%
+2023/07/17 Judges 1-10
+2023/07/18 Judges 11-18
+2023/07/19 Judges 19-21       minutes +123 = 1260/5553 or 22.7%
+2023/07/20 Ruth 1-4           minutes +18  = 1278/5553 or 23%
+2023/07/21 1 Samuel 1-10
+2023/07/22 1 Samuel 11-31     minutes +162 = 1440/5553 or 25.9%
+2023/07/23 2 Samuel 1-24      minutes +132 = 1572/5553 or 28.3%
+2023/07/24 1 Kings 1-22       minutes +162 = 1734/5553 or 31.2%
+2023/07/25 2 Kings 1-25       minutes +155 = 1889/5553 or 34%
+2023/07/26 1 Chronicles       minutes +146 = 2035/5553 or 36.6%
+2023/07/27 2 Chronicles       minutes +172 = 2207/5553 or 39.8%
+2023/07/28 Ezra               minutes +50  = 2257/5553 or 40.7%
+2023/07/28 Nehemiah           minutes +67  = 2324/5553 or 41.9% 
+2023/07/28 Esther             minutes +35  = 2359/5553 or 42.5%
+2023/07/29 Job                minutes +140 = 2499/5553 or 45%
+2023/07/30 Psalms 1-41      BOOK ONE
+2023/07/31 Psalms 42-72     BOOK TWO
+2023/08/01 Psalms 73-150      minutes +371 = 2870/5553 or 51.7%
+2023/08/02 Proverbs           minutes +131 = 3001/5553 or 54.1%
+2023/08/02 Ecclesiastes       minutes +42  = 3043/5553 or 54.8%
+2023/08/02 Song of Solomon    minutes +22  = 3065/5553 or 55.2%
+2023/08/02 Isaiah 1-19
+2023/08/03 Isaiah 20-39
+2023/08/04 Isaiah 40-66       minutes +270 = 3335/5553 or 60.1%
+2023/08/05 Jeremiah 1-10
+2023/08/06 Jeremiah 11-20
+2023/08/07 Jeremiah 21-30
+2023/08/08 Jeremiah 31-40
+2023/08/09 Jeremiah 41-52     minutes +289 = 3624/5553 or 65.3%
+2023/08/10 Lamentations 1-5   minutes +27  = 3651/5553 or 65.8%
+2023/08/11 Ezekiel 1-3
+2023/08/12 Ezekiel 4-6
+2023/08/13 Ezekiel 7-9
+2023/08/14 Ezekiel 10-12
+2023/08/15 Ezekiel 13-16
+2023/08/16 Ezekiel 17-23
+2023/08/17 Ezekiel 24-32
+2023/08/18 Ezekiel 33-38
+2023/08/19 Ezekiel 39-42
+2023/08/20 Ezekiel 43-48      minutes +251 = 3902/5553 or 70.3%
+2023/08/21 Daniel 1-6
+2023/08/22 Daniel 7-12        minutes +86  = 3988/5553 or 71.9%
+2023/08/23 Hosea 1-14         minutes +39  = 4027/5553 or 72.6%
+2023/08/24 Joel 1-3           minutes +15  = 4042/5553 or 72.8%
+2023/08/25 Amos 1-9           minutes +30  = 4072/5553 or 73.4%
+2023/08/26 Obadiah 1          minutes +5   = 4077/5553 or 73.5%
+2023/08/26 Jonah 1-4          minutes +9   = 4086/5553 or 73.6%
+2023/08/26 Micah 1-7          minutes +28  = 4114/5553 or 74.1%
+2023/08/26 Nahum 1-3          minutes +12  = 4126/5553 or 74.4%
+2023/08/26 Habakkuk 1-3       minutes +11  = 4137/5553 or 74.6%
+2023/08/26 Zephaniah 1-3      minutes +12  = 4149/5553 or 74.8%
+2023/08/26 Haggai 1-2         minutes +8   = 4157/5553 or 74.9%
+2023/08/26 Zechariah 1-14     minutes +43  = 4200/5553 or 75.7%
+2023/08/26 Malachi 1-4        minutes +13  = 4213/5553 or 75.9%
+
+2023/08/26 Matthew 1-3
+2023/08/27 Matthew 4-6
+2023/08/28 Matthew 7-9
+2023/08/29 Matthew 10-12
+2023/08/30 Matthew 13-15
+2023/08/31 Matthew 16-18
+2023/08/01 Matthew 19-21
+2023/08/02 Matthew 22-24       minutes +171 = 4384/5553 or 79%
+2023/09/03 Mark 1-3
+2023/09/04 Mark 4,5
+2023/09/05 Mark 6-8
+2023/09/06 Mark 9-16           minutes +117 = 4501/5553 or 81.1%
+2023/09/07 Luke 1-10
+2023/09/08 Luke 11-22
+2023/09/09 Luke 23-24          minutes +187 = 4688/5553 or 84.5%
+2023/09/10 John 1-5
+2023/09/11 John 6-11
+2023/09/12 John 12-16
+2023/09/13 John 17-21          minutes +143 = 4831/5553 or 87.1%
+2023/09/14 Acts 1-11
+2023/09/15 Acts 12-28          minutes +169 = 5000/5553 or 90.1%
+2023/09/16 Romans 1-10
+2023/09/17 Romans 11-16        minutes +70 = 5070/5553 or 91.3%
+2023/09/18 1 Corinthians 1-8
+2023/09/19 1 Corinthians 9-12
+2023/09/20 1 Corinthians 13-16 minutes +69 = 5139/5553 or 92.5%
+2023/09/21 2 Corinthians 1-6
+2023/09/22 2 Corinthians 7-13  minutes +44 = 5183/5553 or 93.3%
+2023/09/23 Galatians 1-6       minutes +25 = 5208/5553 or 93.7%
+2023/09/23 Ephesians 1-6       minutes +23 = 5231/5553 or 94.2%
+2023/09/24 Philippians 1-4     minutes +16 = 5247/5553 or 94.4%
+2023/09/24 Colossians 1-4      minutes +15 = 5262/5553 or 94.7%
+2023/09/24 1 Thessalonians 1-5 minutes +14 = 5276/5553 or 95%
+2023/09/24 2 Thessalonians 1-3 minutes +8 = 5284/5553 or 95.1%
+2023/09/25 1 Timothy 1-6       minutes +19 = 5303/5553 or 95.4%
+2023/09/25 2 Timothy 1-4       minutes +13 = 5316/5553 or 95.7%
+2023/09/25 Titus 1-3           minutes +8 = 5324/5553 or 95.8%
+2023/09/25 Philemon            minutes +3 = 5327/5553 or 95.9%
+2023/09/26 Hebrews 1-13        minutes +50 = 5377/5553 or 96.8%
+2023/09/27 James 1-5           minutes +19 = 5396/5553 or 97.1%
+2023/09/28 1 Peter 1-5         minutes +19 = 5415/5553 or 97.5%
+2023/09/29 2 Peter 1-3         minutes +12 = 5427/5553 or 97.7%
+2023/09/29 1 John 1-5          minutes +21 = 5448/5553 or 98.1%
+2023/09/29 2 John              minutes +2 = 5450/5553 or 98.1%
+2023/09/30 3 John              minutes +3 = 5453/5553 or 98.1%
+2023/09/30 Jude                minutes +5 = 5458/5553 or 98.2%
+2023/10/01 Revelation 1-3
+2023/10/02 Revelation 4-6
+2023/10/03 Revelation 7-10
+2023/10/04 Revelation 11-14
+2023/10/05 Revelation 15-18
+2023/10/06 Revelation 19-22    minutes +95 = 5553/5553 or 100%
