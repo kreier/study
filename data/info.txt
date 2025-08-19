@@ -1,0 +1,11 @@
+Bible reading history:
+
+2023-06-11 Start with Genesis 1
+2023-08-26 Reach Matthew 
+2023-10-06 Finish with Revelation 22 after 5553 minutes
+2023-08-19 Anfang mit 1. Mose 1
+
+Dateien:
+chapters_audio.csv for English
+kapitel_audio.csv  for German
+kapitel_audio_en_vi_de.xls copy of the Google Docs in the cloud since 2024-05-11
