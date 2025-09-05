@@ -9,3 +9,7 @@ Dateien:
 chapters_audio.csv for English
 kapitel_audio.csv  for German
 kapitel_audio_en_vi_de.xls copy of the Google Docs in the cloud since 2024-05-11
+
+audio_en.csv 100% files English since 2023
+audio_de.csv 100% files German  since 2025
+audio_vi.csv 34%  files Vietnamese 09/2025

@@ -12,6 +12,10 @@ I created a summary Excel file [statistics.xlsx](https://github.com/kreier/study
 
 Just the old testament equals 4213 minutes. That equals 70 hours 13 minutes. Almost 3 days continuous reading or listening. If you manage 8 hours each day it would require almost 9 days. And for the **5553** minutes, that is **92 hours 33 minutes**, requires almost 12 days of 8 hours commitment each day. Within two weeks one should be able to read the entire bible.
 
+- 2023 are 100% of English available, 5552 minutes or 92h32
+- 2025 are 100% of German available, 5592 minutes or 93h12
+- 2025 are 32% ov Vietnamese available, so far 381/1189 chapters or 21 hours
+
 ## Statistics from KJV
 
 - 66 books
