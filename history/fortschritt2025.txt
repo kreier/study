@@ -54,11 +54,11 @@
 2025/10/09 - Sprüche 23-31      minutes +130 = 3056/5592 or 54.6%
 2025/10/10 - Prediger 1-4
 2025/10/11 - Prediger 5-8
-2025/10/12 - Prediger 9-
-2025/10/13 - 
-2025/10/14 - 
-2025/10/15 - 
-2025/10/16 - 
+2025/10/12 - Prediger 9-10
+2025/10/13 - Prediger 11-12     minutes  +37 = 3094/5592 or 55.3%
+2025/10/14 - Hohes Lied 1-4
+2025/10/15 - Hohes Lied 5-8     minutes  +19 = 3113/5592 or 55.6%
+2025/10/16 - Jesaja 1-
 2025/10/17 - 
 2025/10/18 - 
 2025/10/19 - 
@@ -79,8 +79,6 @@
 
 
 
-Prediger 1-12      minutes  +37 = 3094/5592 or 55.3%
-Hohes Lied 1-8     minutes  +19 = 3113/5592 or 55.6%
 Jesaja 1-66        minutes +270 = 3383/5592 or 60.5%
 Jeremia 1-52       minutes +289 = 3673/5592 or 65.6%
 Klagelieder 1-5    minutes  +25 = 3698/5592 or 66.1%
@@ -98,6 +96,7 @@ Zephanja 1-3       minutes  +12 = 4212/5592 or 75.3%
 Haggai 1-2         minutes   +8 = 4220/5592 or 75.4%
 Sacharja 1-14      minutes  +47 = 4267/5592 or 76.3%
 Maleachi 1-4       minutes  +16 = 4283/5592 or 76.6%
+
 Matthäus 1-28      minutes +169 = 4452/5592 or 79.6%
 Markus 1-16        minutes +104 = 4556/5592 or 81.4%
 Lukas 1-24         minutes +175 = 4731/5592 or 84.6%
