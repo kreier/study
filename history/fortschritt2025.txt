@@ -63,31 +63,36 @@
 2025/10/18 - Jesaja 21-30
 2025/10/19 - Jesaja 31-40
 2025/10/20 - Jesaja 41-50              return to Ho Chi Minh City
-2025/10/21 - Jesaja 51-
-2025/10/22 - 
-2025/10/23 - 
-2025/10/24 - 
-2025/10/25 - 
-2025/10/26 - 
-2025/10/27 - 
-2025/10/28 - 
+2025/10/21 - Jesaja 51-60
+2025/10/22 - Jesaja 61-66       minutes +270 = 3383/5592 or 60.5%
+2025/10/23 - Jeremia 1-20
+2025/10/24 - Jeremia 21-40   start to Hanoi over Mang Den and Hue
+2025/10/25 - Jeremia 41-52      minutes +289 = 3673/5592 or 65.6%
+2025/10/26 - Klagelieder 1-5    minutes  +25 = 3698/5592 or 66.1%
+2025/10/27 - Hesekiel 1-48      minutes +269 = 3966/5592 or 70.9%
+2025/10/28 - Daniel 1-12        minutes  +84 = 4051/5592 or 72.4%
+2025/10/28 - Hosea 1-14         minutes  +43 = 4093/5592 or 73.2%
+2025/10/28 - Joel 1-3           minutes  +16 = 4109/5592 or 73.4%
+2025/10/28 - Amos 1-9           minutes  +27 = 4135/5592 or 73.9%
+2025/10/28 - Obadja 1           minutes   +6 = 4141/5592 or 74.0%
 2025/10/29 - 
 2025/10/30 - 
 2025/10/31 - 
 
 2025/11/01 - 
+2025/11/02 - 
+2025/11/03 - 
+2025/11/04 - 
+2025/11/05 - 
+2025/11/06 - 
+2025/11/07 - 
+2025/11/08 - 
+2025/11/09 - 
+2025/11/10 - 
+2025/11/11 - 
 
 
 
-Jesaja 1-66        minutes +270 = 3383/5592 or 60.5%
-Jeremia 1-52       minutes +289 = 3673/5592 or 65.6%
-Klagelieder 1-5    minutes  +25 = 3698/5592 or 66.1%
-Hesekiel 1-48      minutes +269 = 3966/5592 or 70.9%
-Daniel 1-12        minutes  +84 = 4051/5592 or 72.4%
-Hosea 1-14         minutes  +43 = 4093/5592 or 73.2%
-Joel 1-3           minutes  +16 = 4109/5592 or 73.4%
-Amos 1-9           minutes  +27 = 4135/5592 or 73.9%
-Obadja 1-1         minutes   +6 = 4141/5592 or 74.0%
 Jona 1-4           minutes  +10 = 4151/5592 or 74.2%
 Micha 1-7          minutes  +27 = 4178/5592 or 74.7%
 Nahum 1-3          minutes  +11 = 4189/5592 or 74.9%
