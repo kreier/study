@@ -97,6 +97,7 @@
 2025/11/05 - Johannes 1-21      minutes +133 = 4864/5592 or 86.9%
 2025/11/06 - Apostelgeschichte 1-28 minutes +159 = 5024/5592 or 89.8%
 2025/11/06 - Römer 1-16         minutes  +75 = 5098/5592 or 91.1%
+2025/11/06 - 1. Korinther 1-16  minutes  +72 = 5170/5592 or 92.4%
 2025/11/07 - 
 2025/11/08 - 
 2025/11/09 - 
@@ -108,10 +109,6 @@
 
 
 
-
-Apostelgeschichte 1-28 minutes +159 = 5024/5592 or 89.8%
-Römer 1-16         minutes  +75 = 5098/5592 or 91.1%
-1. Korinther 1-16  minutes  +72 = 5170/5592 or 92.4%
 2. Korinther 1-13  minutes  +46 = 5217/5592 or 93.3%
 Galater 1-6        minutes  +25 = 5242/5592 or 93.7%
 Epheser 1-6        minutes  +24 = 5266/5592 or 94.1%
