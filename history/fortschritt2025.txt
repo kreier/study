@@ -75,16 +75,28 @@
 2025/10/28 - Joel 1-3           minutes  +16 = 4109/5592 or 73.4%
 2025/10/28 - Amos 1-9           minutes  +27 = 4135/5592 or 73.9%
 2025/10/28 - Obadja 1           minutes   +6 = 4141/5592 or 74.0%
-2025/10/29 - 
-2025/10/30 - 
-2025/10/31 - 
+2025/10/29 - hiking to Fansipan up and down
+2025/10/30 - Jona 1-4           minutes  +10 = 4151/5592 or 74.2%
+2025/10/30 - Micha 1-7          minutes  +27 = 4178/5592 or 74.7%
+2025/10/30 - Nahum 1-3          minutes  +11 = 4189/5592 or 74.9%
+2025/10/30 - Habakuk 1-3        minutes  +12 = 4200/5592 or 75.1%
+2025/10/30 - Zephanja 1-3       minutes  +12 = 4212/5592 or 75.3%
+2025/10/30 - Haggai 1-2         minutes   +8 = 4220/5592 or 75.4%
+2025/10/30 - Sacharja 1-14      minutes  +47 = 4267/5592 or 76.3%
+2025/10/30 - Maleachi 1-4       minutes  +16 = 4283/5592 or 76.6%
 
-2025/11/01 - 
-2025/11/02 - 
-2025/11/03 - 
-2025/11/04 - 
-2025/11/05 - 
-2025/11/06 - 
+2025/10/30 - Matthäus 1-28      minutes +169 = 4452/5592 or 79.6%
+2025/10/31 - Wedding Ngọc Trâm and Thai
+
+2025/11/01 - Wedding in Hung Yen
+2025/11/02 - 3pm Long Biên to Hà Giang 9pm to Cột Cờ Lũng Cú 3am
+2025/11/03 - Lũng Cú to Phố Cổ, Đồng Văn
+2025/11/04 - Đồng Văn - Sông Nho Quế - Cốc Pảng Du Gia Panorama
+2025/11/05 - Markus 1-16        minutes +104 = 4556/5592 or 81.4%
+2025/11/05 - Lukas 1-24         minutes +175 = 4731/5592 or 84.6%
+2025/11/05 - Johannes 1-21      minutes +133 = 4864/5592 or 86.9%
+2025/11/06 - Apostelgeschichte 1-28 minutes +159 = 5024/5592 or 89.8%
+2025/11/06 - Römer 1-16         minutes  +75 = 5098/5592 or 91.1%
 2025/11/07 - 
 2025/11/08 - 
 2025/11/09 - 
@@ -93,19 +105,10 @@
 
 
 
-Jona 1-4           minutes  +10 = 4151/5592 or 74.2%
-Micha 1-7          minutes  +27 = 4178/5592 or 74.7%
-Nahum 1-3          minutes  +11 = 4189/5592 or 74.9%
-Habakuk 1-3        minutes  +12 = 4200/5592 or 75.1%
-Zephanja 1-3       minutes  +12 = 4212/5592 or 75.3%
-Haggai 1-2         minutes   +8 = 4220/5592 or 75.4%
-Sacharja 1-14      minutes  +47 = 4267/5592 or 76.3%
-Maleachi 1-4       minutes  +16 = 4283/5592 or 76.6%
 
-Matthäus 1-28      minutes +169 = 4452/5592 or 79.6%
-Markus 1-16        minutes +104 = 4556/5592 or 81.4%
-Lukas 1-24         minutes +175 = 4731/5592 or 84.6%
-Johannes 1-21      minutes +133 = 4864/5592 or 86.9%
+
+
+
 Apostelgeschichte 1-28 minutes +159 = 5024/5592 or 89.8%
 Römer 1-16         minutes  +75 = 5098/5592 or 91.1%
 1. Korinther 1-16  minutes  +72 = 5170/5592 or 92.4%
